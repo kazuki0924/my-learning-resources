@@ -5,7 +5,6 @@ Where to find new books:
 - [Manning](https://www.manning.com/catalog/sort/sort-by-date)
 
 title - release date
-image
 
 ## Serverless
 
