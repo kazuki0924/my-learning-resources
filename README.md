@@ -78,6 +78,14 @@ title - release date
 
 ## Design Patterns
 
+- [Seriously Good Software](https://www.manning.com/books/seriously-good-software) - 03/2020
+
+![](https://images.manning.com/360/480/resize/book/8/e248fbb-72c7-49e2-b0e5-7a38f15771b3/Faella-SGS-HI.png)
+
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide) - 12/2019
+
+![](https://images.manning.com/360/480/resize/book/d/3946f50-a4ce-4a7e-84f6-ab506d3319b2/Noback-ODSG-HI.png)
+
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis) - 10/2019
 
 ![](https://images.manning.com/360/480/resize/book/0/b4c8c91-f360-4fb3-bbec-13ab3dd26d68/Lauret-DWAPIs-HI.png)
@@ -90,13 +98,13 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/4/5497535-2cee-4a01-8089-ad49bca276b6/DeVore_RAD_hires.png)
 
-- [Irresistible APIs](https://www.manning.com/books/irresistible-apis) - 09/2016
-
-![](https://images.manning.com/360/480/resize/book/6/6a11f2f-9748-4e53-b714-c109345d85c5/Hunter_IAPIs_final.png)
-
 - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 10/2016
 
 ![](https://images.manning.com/360/480/resize/book/5/77559c2-48c1-4197-9e89-b8abd768b9d2/Ghosh_FRDM_hires.png)
+
+- [Irresistible APIs](https://www.manning.com/books/irresistible-apis) - 09/2016
+
+![](https://images.manning.com/360/480/resize/book/6/6a11f2f-9748-4e53-b714-c109345d85c5/Hunter_IAPIs_final.png)
 
 -[Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming) - 07/2016
 
@@ -117,14 +125,6 @@ title - release date
 - [Third-Party JavaScript](https://www.manning.com/books/third-party-javascript) - 03/2013
 
 ![](https://images.manning.com/360/480/resize/book/6/b8008c6-da98-4d69-b81e-3751673c7f67/vinegar.png)
-
-- [Seriously Good Software](https://www.manning.com/books/seriously-good-software) - 03/2020
-
-![](https://images.manning.com/360/480/resize/book/8/e248fbb-72c7-49e2-b0e5-7a38f15771b3/Faella-SGS-HI.png)
-
-- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide) - 12/2019
-
-![](https://images.manning.com/360/480/resize/book/d/3946f50-a4ce-4a7e-84f6-ab506d3319b2/Noback-ODSG-HI.png)
 
 ## Performance
 
@@ -190,6 +190,10 @@ title - release date
 
 ## Testing
 
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - Spring/2021
+
+![](https://images.manning.com/360/480/resize/book/6/5b5ac1d-637b-4f00-9f5d-7fb583b6dac5/Osherove-UT-3ed-MEAP-HI.png)
+
 - [Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) - 01/2020
 
 ![](https://images.manning.com/360/480/resize/book/0/fd97ee5-72ec-446f-a11f-d284f915245b/Khorikov-UT-HI.png)
@@ -205,10 +209,6 @@ title - release date
 - [JUnit in Action, Third Edition](https://www.manning.com/books/junit-in-action-third-edition) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/4/8949ed3-ef18-4a91-a5b4-39dd9dcbe2bf/Tudose-JUnit-MEAP-HI.png)
-
-- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - Spring/2021
-
-![](https://images.manning.com/360/480/resize/book/6/5b5ac1d-637b-4f00-9f5d-7fb583b6dac5/Osherove-UT-3ed-MEAP-HI.png)
 
 ## Git
 
@@ -236,13 +236,13 @@ title - release date
 
 ## Algorithms
 
-- [Algorithms of the Intelligent Web, Second Edition](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition) - 08/2016
-
-![](https://images.manning.com/360/480/resize/book/2/cedec98-9fc5-496b-b720-06fc747599a5/McIlwraith-AIW-2ed-HI.png)
-
 - [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - Fall/2020
 
 ![](https://images.manning.com/360/480/resize/book/e/f9efd1d-9e3b-453b-8df8-474848e41bd7/Rocca-ADS-MEAP-HI.png)
+
+- [Algorithms of the Intelligent Web, Second Edition](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition) - 08/2016
+
+![](https://images.manning.com/360/480/resize/book/2/cedec98-9fc5-496b-b720-06fc747599a5/McIlwraith-AIW-2ed-HI.png)
 
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - 05/2016
 
@@ -340,13 +340,13 @@ title - release date
 
 ## Internet of Things
 
-- [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things) - 06/2016
-
-![](https://images.manning.com/360/480/resize/book/e/f9702c5-1553-49cb-8fdc-d6fe301fd0a5/Guinard_BuildingtheWeb_hires.png)
-
 - [JavaScript on Things](https://www.manning.com/books/javascript-on-things) - 08/2018
 
 ![](https://images.manning.com/360/480/resize/book/d/04b8ce6-27a7-40f9-b1b8-979e39a6006e/Gardner_JavaScript_hires.png)
+
+- [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things) - 06/2016
+
+![](https://images.manning.com/360/480/resize/book/e/f9702c5-1553-49cb-8fdc-d6fe301fd0a5/Guinard_BuildingtheWeb_hires.png)
 
 ## Desktop Application
 
@@ -362,10 +362,6 @@ title - release date
 
 ## Functional Programming
 
-- [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) - 06/2016
-
-![](https://images.manning.com/360/480/resize/book/5/c5bd123-f4fd-4a03-9069-9309c782ea7e/Atencio_hires_Fc.png)
-
 - [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - 04/2020
 
 ![](https://images.manning.com/360/480/resize/book/0/a520801-8082-4452-9061-9e92b5fd7be6/Plachta-grokkingFP_meap.png)
@@ -373,6 +369,10 @@ title - release date
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/6/47eb6ba-1aa2-461f-975a-5a39ae2fa1aa/Simplicity_Taming_hires_meap.png)
+
+- [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) - 06/2016
+
+![](https://images.manning.com/360/480/resize/book/5/c5bd123-f4fd-4a03-9069-9309c782ea7e/Atencio_hires_Fc.png)
 
 ## Mathematics
 
@@ -403,6 +403,10 @@ title - release date
 - [WebAssembly in Action](https://www.manning.com/books/webassembly-in-action) 11/2019
 
 ![](https://images.manning.com/360/480/resize/book/7/97eac5c-498e-4454-bdb2-677ec3406f29/Gallant-WA-HI.png)
+
+- [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+
+![](https://www.safaribooksonline.com/library/cover/9781492052586/250w/)
 
 ## Microservices
 
