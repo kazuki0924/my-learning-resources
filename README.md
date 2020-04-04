@@ -8,15 +8,11 @@ title - release date
 
 ## Serverless
 
-- **[Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Fall/2020**
+- [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Fall/2020
 
 ![](https://images.manning.com/360/480/resize/book/7/7bdd499-36e3-4e23-9347-b5f6016233ff/Sbarski-SAAWS-2ed-MEAP-HI.png)
 
-- [Exploring Serverless Applications with Node.js](https://www.manning.com/books/exploring-serverless-applications-with-nodejs) - 02/2020
-
-![](https://images.manning.com/360/480/resize/book/f/db4f81f-8a9b-4bc6-80b4-e4a9ee63857d/Stojanovic_ESAN_hires.png)
-
-- **[Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js) - 02/2019**
+- [Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js) - 02/2019
 
 ![](https://images.manning.com/360/480/resize/book/9/5c9a032-8367-412e-afe6-65b1bd742d70/Stojanovic-SAN-HI.png)
 
@@ -30,7 +26,7 @@ title - release date
 
 ## GraphQL
 
-- **[GraphQL in Action](https://www.manning.com/books/graphql-in-action) - Summer/2020**
+- [GraphQL in Action](https://www.manning.com/books/graphql-in-action) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png)
 
