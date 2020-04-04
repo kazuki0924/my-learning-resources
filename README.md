@@ -14,6 +14,10 @@
 
 ![](https://images.manning.com/360/480/resize/book/9/5c9a032-8367-412e-afe6-65b1bd742d70/Stojanovic-SAN-HI.png)
 
+- [Agile Development for Serverless Platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - 04/2017
+
+![](https://images.manning.com/360/480/resize/book/1/b8bebe9-b220-4d87-aa21-3b1837732054/Poccia_hires.png)
+
 - [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - 11/2016
 
 ![](https://images.manning.com/360/480/resize/book/0/f99ea3b-916a-4f20-a66d-d086ee0b27f2/Poccia-AWSL-HI.png)
@@ -22,46 +26,57 @@
 
 - **[GraphQL in Action](https://www.manning.com/books/graphql-in-action) - Summer/2020**
 
-![]()
+![](https://images.manning.com/360/480/resize/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png)
 
 ## Cloud Infrastructure
 
 - [Amazon Web Services in Action, Second Edition](https://www.manning.com/books/amazon-web-services-in-action-second-edition) - 09/2018
 
-![]()
+![](https://images.manning.com/360/480/resize/book/2/d645f0a-eb90-4e12-9c3a-dff78fb40bb7/Wittig-Amazon-2ed-HI.png)
 
 ## Docker
 
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) - 10/2019
 
-![]()
+![](https://images.manning.com/360/480/resize/book/9/9a102d1-8e4d-4f20-a095-c60ca54fc5e6/Nickoloff-Docker-2ed-RGB.jpg)
 
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) - 02/2019
 
-![]()
-
+![](https://images.manning.com/360/480/resize/book/a/723c64b-6a3e-485b-932a-77b967e91d52/Miell-DockerP-2ed-HI.png)
 
 ## Design Patterns
 
 - [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis) - 10/2019
 
-![]()
+![](https://images.manning.com/360/480/resize/book/0/b4c8c91-f360-4fb3-bbec-13ab3dd26d68/Lauret-DWAPIs-HI.png)
+
+- [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns) - 05/2019
+
+![](https://images.manning.com/360/480/resize/book/0/d46d770-17e8-403c-a7a6-a8fc77964963/Davis-CNP-HI.png)
 
 - [Reactive Application Development](https://www.manning.com/books/reactive-application-development) - 05/2018
 
-![]()
+![](https://images.manning.com/360/480/resize/book/4/5497535-2cee-4a01-8089-ad49bca276b6/DeVore_RAD_hires.png)
 
 - [Irresistible APIs](https://www.manning.com/books/irresistible-apis) - 09/2016
 
-![]()
+![](https://images.manning.com/360/480/resize/book/6/6a11f2f-9748-4e53-b714-c109345d85c5/Hunter_IAPIs_final.png)
+
+- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+
+![](https://images.manning.com/360/480/resize/book/5/77559c2-48c1-4197-9e89-b8abd768b9d2/Ghosh_FRDM_hires.png)
+
+-[Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming) - 07/2016
+
+![](https://images.manning.com/360/480/resize/book/7/b7f0a1a-1e7a-4f14-94f8-44037aaddf35/Blackheath-FRP-HI.png)
 
 - [SPA Design and Architecture](https://www.manning.com/books/spa-design-and-architecture) - 11/2015
 
-![]()
+![](https://images.manning.com/360/480/resize/book/a/a1795ca-8c5c-43d1-b5e9-d5612fe72c35/Scott-SPA-HI.png)
 
 - [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) - 01/2015
 
-![]()
+![](https://images.manning.com/360/480/resize/book/a/beaaf39-fd25-440c-870a-4e543a8fdf62/bevacqua.png)
 
 - [Single Page Web Applications](https://www.manning.com/books/single-page-web-applications) - 09/2013
 
@@ -92,6 +107,12 @@
 - [Making Sense of NoSQL](https://www.manning.com/books/making-sense-of-nosql) - 09/2013
 
 ![]()
+
+## Storage
+
+- [Object Storage Across the Cloud](https://www.manning.com/books/object-storage-across-the-cloud) - 02/2020
+
+![](https://images.manning.com/360/480/resize/book/a/636dd77-0f3c-4ef5-81c6-7deb01451632/Wolohan_OSAC_hires.png)
 
 ## Security
 
@@ -128,6 +149,12 @@
 - [Git in Practice](https://www.manning.com/books/git-in-practice) - 09/2014
 
 ![]()
+
+## Web Design
+
+- [Design for the Mind](https://www.manning.com/books/design-for-the-mind) - 06/2016
+
+![](https://images.manning.com/360/480/resize/book/5/64c08a9-a58a-4714-a950-b795c7938cd4/Yocco_front.png)
 
 ## Algorithms
 
