@@ -727,12 +727,6 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781491926291/250w/)
 
-## SVG Animations
-
-- [SVG Animations](https://www.oreilly.com/library/view/svg-animations/9781491939697/) - 04/2017
-
-![](https://www.safaribooksonline.com/library/cover/9781491939697/250w/)
-
 ## Bots
 
 - [Designing Bots](https://www.oreilly.com/library/view/designing-bots/9781491974810/) - 05/2017
@@ -744,3 +738,127 @@ title - release date
 - [Using SVG with CSS3 and HTML5](https://www.oreilly.com/library/view/using-svg-with/9781491921968/) - 10/2017
 
 ![](https://www.safaribooksonline.com/library/cover/9781491921968/250w/)
+
+- [SVG Animations](https://www.oreilly.com/library/view/svg-animations/9781491939697/) - 04/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491939697/250w/)
+
+## データベース
+
+- [達人に学ぶ DB 設計 徹底指南書 ～初級者で終わりたくないあなたへ](https://www.seshop.com/static/images/product/14106/L.png) 03/2012
+
+![](https://www.seshop.com/static/images/product/14106/L.png)
+
+- [理論から学ぶデータベース実践入門――リレーショナルモデルによる効率的な SQL](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7197-5) 03/2015
+
+![](https://gihyo.jp/assets/images/cover/2015/9784774171975.jpg)
+
+## ネットワーク
+
+- [TCP 技術入門 ―進化を続ける基本プロトコル](https://gihyo.jp/magazine/wdpress/plus/978-4-297-10623-2)　 07/2019
+
+![](https://gihyo.jp/assets/images/cover/2019/9784297106232.jpg)
+
+## アウトプット
+
+- [エンジニアの知的生産術 ── 効率的に学び，整理し，アウトプットする](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-9876-7) 08/2018
+
+![](https://gihyo.jp/assets/images/cover/2018/9784774198767.jpg)
+
+- [図解でわかる！理工系のためのよい文章の書き方 論文・レポートを自力で書けるようになる方法](https://www.shoeisha.co.jp/book/detail/9784798158891) 02/2019
+
+![](https://www.seshop.com/static/images/product/22400/L.png)
+
+## 文系スキル
+
+- [最強のエンジニアになるための 話し方の教科書](https://www.amazon.co.jp/%E6%9C%80%E5%BC%B7%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%BA%80%E5%B1%B1-%E9%9B%85%E5%8F%B8/dp/483780487X) 01/2019
+
+![](https://images-na.ssl-images-amazon.com/images/I/51df7cZuzQL._SX350_BO1,204,203,200_.jpg)
+
+## スクラム
+
+- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
+
+![](https://gihyo.jp/assets/images/cover/2015/9784774172361.jpg)
+
+## 関数プログラミング
+
+- [関数プログラミング実践入門 ── 簡潔で、正しいコードを書くために](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6926-2) 11/2014
+
+![](https://gihyo.jp/assets/images/cover/2014/9784774169262.jpg)
+
+- [JavaScript 関数型プログラミング 複雑性を抑える発想と実践法を学ぶ](https://book.impress.co.jp/books/1115101137) 06/2017
+
+![](https://img.ips.co.jp/ij/15/1115101137/1115101137-520x.jpg)
+
+## チーム
+
+- [チーム開発実践入門 ── 共同作業を円滑に行うツール・メソッド](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1) 04/2014
+
+![](https://gihyo.jp/assets/images/cover/2014/9784774164281.jpg)
+
+- [GitHub 実践入門 ──Pull Request による開発の変革](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6366-6) 03/2014
+
+![](https://gihyo.jp/assets/images/cover/2014/9784774163666.jpg)
+
+## プログラミング
+
+- [コーディングを支える技術――成り立ちから学ぶプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-5654-5) 04/2013
+
+![](https://gihyo.jp/assets/images/cover/2013/9784774156545.jpg)
+
+## エンジニアリング
+
+- [良いコードを書く技術 ― 読みやすく保守しやすいプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4596-9) 04/2011
+
+![](https://gihyo.jp/assets/images/cover/2011/9784774145969.jpg)
+
+## Web
+
+- [Web を支える技術 ── HTTP，URI，HTML，そして REST](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3) 04/2010
+
+![](https://gihyo.jp/assets/images/cover/2010/9784774142043.jpg)
+
+## 設計
+
+- [クラウドネイティブ・アーキテクチャ 可用性と費用対効果を極める次世代設計の原則](https://book.impress.co.jp/books/1119101032) 11/2019
+
+![](https://img.ips.co.jp/ij/19/1119101032/1119101032-520x.jpg)
+
+- [ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本](https://www.shoeisha.co.jp/book/detail/9784798151687) 02/2020
+
+![](https://www.seshop.com/static/images/product/20675/L.png)
+
+## パブリッククラウド
+
+- [Amazon Web Services インフラサービス活用大全 システム構築/自動化、データストア、高信頼化](https://book.impress.co.jp/books/1117101110) 09/2019
+
+![](https://img.ips.co.jp/ij/17/1117101110/1117101110-520x.jpg)
+
+- [Amazon Web Services ネットワーク入門](https://book.impress.co.jp/books/1116101043)
+
+![](https://img.ips.co.jp/ij/16/1116101043/1116101043-520x.jpg) 11/2016
+
+## コンテナ
+
+- [Docker 実践ガイド第 2 版](https://book.impress.co.jp/books/1118101052) 02/2019
+
+![](https://img.ips.co.jp/ij/18/1118101052/1118101052-520x.jpg)
+
+## Lean/DevOps
+
+- [Lean と DevOps の科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する](https://book.impress.co.jp/books/1118101029) 11/2018
+
+![](https://img.ips.co.jp/ij/18/1118101029/1118101029-520x.jpg)
+
+## データ分析基盤
+
+- [Elasticsearch 実践ガイド](https://book.impress.co.jp/books/1117101041) 06/2018
+
+![](https://img.ips.co.jp/ij/17/1117101041/1117101041-520x.jpg)
+
+## アルゴリズム
+
+- [アルゴリズム図鑑 絵で見てわかる 26 のアルゴリズム](https://www.seshop.com/static/images/product/20245/L.png) 06/2017
+
+![](https://www.seshop.com/static/images/product/20245/L.png)
