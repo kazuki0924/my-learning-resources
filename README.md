@@ -2,8 +2,10 @@
 
 Where to find new books:
 
-- [O'Reilly](https://www.oreilly.com/search/?query=*&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&publishers=O%27Reilly%20Media%2C%20Inc.&sort=publication_date&facet_json=true&page=0)
-- [Manning](https://www.manning.com/catalog/sort/sort-by-date)
+- [O'Reilly(英語)](https://www.oreilly.com/search/?query=*&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&publishers=O%27Reilly%20Media%2C%20Inc.&sort=publication_date&facet_json=true&page=0)
+- [Manning(英語)](https://www.manning.com/catalog/sort/sort-by-date)
+- [impress top gear(日本語)](https://book.impress.co.jp/category/series/topgear/)
+- [WEB+DB PRESS plus(日本語)](https://gihyo.jp/magazine/wdpress/plus)
 
 title - release date
 
