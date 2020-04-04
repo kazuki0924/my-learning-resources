@@ -3,7 +3,9 @@
 ## Serverless
 
 - **[Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Fall/2020**
+
 ![](https://images.manning.com/360/480/resize/book/7/7bdd499-36e3-4e23-9347-b5f6016233ff/Sbarski-SAAWS-2ed-MEAP-HI.png)
+
 - [Exploring Serverless Applications with Node.js](https://www.manning.com/books/exploring-serverless-applications-with-nodejs) - 02/2020
 - **[Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js) - 02/2019**
 - [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - 11/2016
