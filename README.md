@@ -42,15 +42,23 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png)
 
+- [Learning GraphQL](https://www.oreilly.com/library/view/learning-graphql/9781492030706/) - 08/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492030706/250w/)
+
 - [Fullstack GraphQL Applications with GRANDstack](https://www.manning.com/books/fullstack-graphql-applications-with-grandstack) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/5/ca55b74-f2ff-4dd4-ae37-2df3f43b5d7f/Lyon-Fullstack-MEAP-HI.png)
 
-## OpenAPI
+## API Development
 
 - [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/b/51f6c1a-391f-44bd-9e0c-50fd94e42421/Ponelat-Designing-MEAP-HI.png)
+
+- [Continuous API Management](https://www.oreilly.com/library/view/continuous-api-management/9781492043546/) - 11/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492043546/250w/)
 
 ## Cloud Infrastructure
 
@@ -66,6 +74,22 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781492057161/250w/)
 
+- [AWS System Administration](https://www.oreilly.com/library/view/aws-system-administration/9781449342562/) - 08/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781449342562/250w/)
+
+- [Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/) - 11/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491984291/250w/)
+
+- [Building Intelligent Cloud Applications](https://www.oreilly.com/library/view/building-intelligent-cloud/9781492052319/) - 09/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492052319/250w/)
+
+- [Cloud Native](https://www.oreilly.com/library/view/cloud-native/9781492053811/) - 08/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492053811/250w/)
+
 ## Container Technology
 
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) - 10/2019
@@ -75,6 +99,14 @@ title - release date
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) - 02/2019
 
 ![](https://images.manning.com/360/480/resize/book/a/723c64b-6a3e-485b-932a-77b967e91d52/Miell-DockerP-2ed-HI.png)
+
+- [Using Docker](https://www.oreilly.com/library/view/using-docker/9781491915752/) - 12/2015
+
+![](https://www.safaribooksonline.com/library/cover/9781491915752/250w/)
+
+- [Docker: Up & Running, 2nd Edition](https://www.oreilly.com/library/view/docker-up/9781492036722/) - 09/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492036722/250w/)
 
 - [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) - Fall/2020
 
@@ -146,6 +178,18 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781492045946/250w/)
 
+- [Think Complexity, 2nd Edition](https://www.oreilly.com/library/view/think-complexity-2nd/9781492040194/) - 07/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492040194/250w/)
+
+- [Foundations for Architecting Data Solutions](https://www.oreilly.com/library/view/foundations-for-architecting/9781492038733/) - 09/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492038733/250w/)
+
+- [Designing Web APIs](https://www.oreilly.com/library/view/designing-web-apis/9781492026914/) - 09/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492026914/250w/)
+
 ## Performance
 
 - [Web Performance in Action](https://www.manning.com/books/web-performance-in-action) - 12/2016
@@ -188,7 +232,11 @@ title - release date
 
 - [Graph Databases, 2nd Edition](https://www.oreilly.com/library/view/graph-databases-2nd/9781491930885/) - 06/2015
 
-![](https://www.oreilly.com/library/view/graph-databases-2nd/9781491930885/)
+![](https://www.safaribooksonline.com/library/cover/9781491930885/250w/)
+
+- [PostgreSQL: Up and Running, 3rd Edition](https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/) - 11/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491963401/250w/)
 
 - [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - 03/2020
 
@@ -200,11 +248,27 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/a/636dd77-0f3c-4ef5-81c6-7deb01451632/Wolohan_OSAC_hires.png)
 
+## Images
+
+- [High Performance Images](https://www.oreilly.com/library/view/high-performance-images/9781491925799/) - 11/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491925799/250w/)
+
+## bash
+
+- [bash Cookbook, 2nd Edition](https://www.oreilly.com/library/view/bash-cookbook-2nd/9781491975329/) - 10/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491975329/250w/)
+
 ## Security
 
 - [Web Application Security](https://www.oreilly.com/library/view/web-application-security/9781492053101/) - 03/2020
 
 ![](https://www.safaribooksonline.com/library/cover/9781492053101/250w/)
+
+- [Security for Web Developers](https://www.oreilly.com/library/view/security-for-web/9781491928684/) - 11/2015
+
+![](https://www.safaribooksonline.com/library/cover/9781491928684/250w/)
 
 - [AWS Security](https://www.manning.com/books/aws-security) - Fall/2020
 
@@ -233,6 +297,10 @@ title - release date
 - [The Architecture of Privacy](https://www.oreilly.com/library/view/the-architecture-of/9781491904503/) - 09/2015
 
 ![](https://www.safaribooksonline.com/library/cover/9781491904503/250w/)
+
+- [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) - 03/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492037507/250w/)
 
 ## Authentication
 
@@ -272,6 +340,12 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781491911204/250w/)
 
+## GitHub
+
+- [Introducing GitHub, 2nd Edition](https://www.oreilly.com/library/view/introducing-github-2nd/9781491981801/) - 01/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781491981801/250w/)
+
 ## Infrastructure as Code
 
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Summer/2020
@@ -296,7 +370,15 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781492056027/250w/)
 
+- [Designing Across Senses](https://www.oreilly.com/library/view/designing-across-senses/9781491954232/) - 03/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781491954232/250w/)
+
 ## UI/UX
+
+- [UX Research](https://www.oreilly.com/library/view/ux-research/9781491951286/) - 11/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491951286/250w/)
 
 - [Usability Matters](https://www.manning.com/books/usability-matters) - 07/2018
 
@@ -309,6 +391,18 @@ title - release date
 - [Laws of UX](https://www.oreilly.com/library/view/laws-of-ux/9781492055303/) - 04/2020
 
 ![](https://www.safaribooksonline.com/library/cover/9781492055303/250w/)
+
+- [Lean UX, 2nd Edition](https://www.oreilly.com/library/view/lean-ux-2nd/9781491953594/) - 10/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491953594/250w/)
+
+- [UX for Lean Startups](https://www.oreilly.com/library/view/ux-for-lean/9781449335007/) - 11/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781449335007/250w/)
+
+- [Strategic Writing for UX](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/) - 06/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492049388/250w/)
 
 ## Algorithms
 
@@ -338,13 +432,17 @@ title - release date
 
 ## Data Manipulation
 
+- [Mining the Social Web, 3rd Edition](https://www.oreilly.com/library/view/mining-the-social/9781491973547/) - 01/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781491973547/250w/)
+
 - [Taming Text](https://www.manning.com/books/taming-text) - 12/2012
 
 ![](https://images.manning.com/360/480/resize/book/f/8e8518b-c796-445d-8f53-cba906cde357/ingersoll.png)
 
 ## Graph Data
 
-- [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
+- [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/) - 03/2020
 
 ![](https://www.safaribooksonline.com/library/cover/9781492044062/250w/)
 
@@ -360,6 +458,10 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781492075523/250w/)
 
+- [Refactoring JavaScript](https://www.oreilly.com/library/view/refactoring-javascript/9781491964910/) - 03/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491964910/250w/)
+
 ## Real-time
 
 - [WebSocket](https://www.oreilly.com/library/view/websocket/9781449369262/) - 09/2015
@@ -371,6 +473,10 @@ title - release date
 - [JavaScript: The Definitive Guide, 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) - 06/2020
 
 ![](https://www.safaribooksonline.com/library/cover/9781491952016/250w/)
+
+- [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/) - 05/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492037644/250w/)
 
 - [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) - 10/2019
 
@@ -392,6 +498,10 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/b/72b6dbb-4eb6-4bbd-9078-b47f0393a1bb/Resig-JSN-2ed-HI.png)
 
+- [Learning Node, 2nd Edition](https://www.oreilly.com/library/view/learning-node-2nd/9781491943113/) - 06/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491943113/250w/)
+
 - [Node.js in Action, Second Edition](https://www.manning.com/books/node-js-in-action-second-edition) - 08/2017
 
 ![](https://images.manning.com/360/480/resize/book/9/be0e700-8ac5-44b7-92fc-0a0d250969be/Cantelon-Node-2ed.png)
@@ -409,6 +519,14 @@ title - release date
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - 09/2018
 
 ![](https://images.manning.com/360/480/resize/book/6/05e34f7-78d5-4f95-8d3c-2e47cb474cb9/Hanchett-Vue-HI.png)
+
+- [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - 03/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781491997239/250w/)
+
+- [Angular: Up and Running](https://www.oreilly.com/library/view/angular-up-and/9781491999820/) - 06/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781491999820/250w/)
 
 - [RxJS in Action](https://www.manning.com/books/rxjs-in-action) - 07/2017
 
@@ -430,14 +548,19 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/8/7e34078-f701-4a72-85fd-9fc386c20102/Farrell-WebC-HI.png)
 
-- [Web Development with Node and Express, 2nd Edition](https://www.oreilly.com/library/view/web-development-with/9781492053507/) 11/2019
-  ![](https://www.safaribooksonline.com/library/cover/9781492053507/250w/)
+- [Web Development with Node and Express, 2nd Edition](https://www.oreilly.com/library/view/web-development-with/9781492053507/) - 11/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492053507/250w/)
 
 ## Mobile Web
 
 - [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps) - 12/2017
 
 ![](https://images.manning.com/360/480/resize/book/9/09c0fe9-42e7-4454-891c-7e221fc6dc7c/Hume-PWA-HI.png)
+
+- [Building Progressive Web Apps](https://www.oreilly.com/library/view/building-progressive-web/9781491961643/) - 09/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491961643/250w/)
 
 - [The Responsive Web](https://www.manning.com/books/the-responsive-web) - 10/2014
 
@@ -446,6 +569,10 @@ title - release date
 - [High Performance Responsive Design](https://www.oreilly.com/library/view/high-performance-responsive/9781491949979/) - 11/2014
 
 ![](https://www.safaribooksonline.com/library/cover/9781491949979/250w/)
+
+- [High Performance Mobile Web](https://www.oreilly.com/library/view/high-performance-mobile/9781491912546/) - 09/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491912546/250w/)
 
 ## Hybrid Application
 
@@ -473,6 +600,10 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/e/f9702c5-1553-49cb-8fdc-d6fe301fd0a5/Guinard_BuildingtheWeb_hires.png)
 
+- [Node.js for Embedded Systems](https://www.oreilly.com/library/view/nodejs-for-embedded/9781491928981/) - 10/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491928981/250w/)
+
 ## Desktop Application
 
 - [Electron in Action](https://www.manning.com/books/electron-in-action) - 10/2018
@@ -484,6 +615,20 @@ title - release date
 - [HTTP/2 in Action](https://www.manning.com/books/http2-in-action) - 03/2019
 
 ![](https://images.manning.com/360/480/resize/book/b/2327043-8f05-4151-8320-dcc0294714c6/Pollard-HTTP-HI.png)
+
+- [Learning HTTP/2](https://www.oreilly.com/library/view/learning-http2/9781491962435/) - 05/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491962435/250w/)
+
+- [HTTP protocols](https://www.oreilly.com/library/view/http-protocols/9781492030478/) - 12/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781492030478/250w/)
+
+## Data Format
+
+- [JSON at Work](https://www.oreilly.com/library/view/json-at-work/9781491982389/) - 07/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491982389/250w/)
 
 ## Functional Programming
 
@@ -533,7 +678,7 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/7/97eac5c-498e-4454-bdb2-677ec3406f29/Gallant-WA-HI.png)
 
-- [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+- [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) - 05/2021
 
 ![](https://www.safaribooksonline.com/library/cover/9781492052586/250w/)
 
@@ -547,7 +692,7 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781492057888/250w/)
 
-## Google
+## GAFA
 
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) - 03/2020
 
@@ -555,6 +700,44 @@ title - release date
 
 ## Agile
 
+- [Agile for Everybody](https://www.oreilly.com/library/view/agile-for-everybody/9781492033509/) - 10/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492033509/250w/)
+
 - [Learning Agile](https://www.oreilly.com/library/view/learning-agile/9781449363819/) - 11/2014
 
 ![](https://www.safaribooksonline.com/library/cover/9781449363819/250w/)
+
+## Site Reliability
+
+- [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) - 07/2018
+
+![](https://www.safaribooksonline.com/library/cover/9781492029496/250w/)
+
+- [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) - 04/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491929117/250w/)
+
+## DevOps
+
+- [Effective DevOps](https://www.oreilly.com/library/view/effective-devops/9781491926291/) - 06/2016
+
+![](https://www.safaribooksonline.com/library/cover/9781491926291/250w/)
+
+## SVG Animations
+
+- [SVG Animations](https://www.oreilly.com/library/view/svg-animations/9781491939697/) - 04/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491939697/250w/)
+
+## Bots
+
+- [Designing Bots](https://www.oreilly.com/library/view/designing-bots/9781491974810/) - 05/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491974810/250w/)
+
+## SVG
+
+- [Using SVG with CSS3 and HTML5](https://www.oreilly.com/library/view/using-svg-with/9781491921968/) - 10/2017
+
+![](https://www.safaribooksonline.com/library/cover/9781491921968/250w/)
