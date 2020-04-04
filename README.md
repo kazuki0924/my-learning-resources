@@ -30,13 +30,13 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/c/8ce672a-7642-4ec1-a499-a8d0bbbd467e/Buna-GraphQL-MEAP-HI.png)
 
-- [Fullstack GraphQL Applications with GRANDstack](https://www.manning.com/books/fullstack-graphql-applications-with-grandstack) - 10/2019
+- [Fullstack GraphQL Applications with GRANDstack](https://www.manning.com/books/fullstack-graphql-applications-with-grandstack) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/5/ca55b74-f2ff-4dd4-ae37-2df3f43b5d7f/Lyon-Fullstack-MEAP-HI.png)
 
 ## OpenAPI
 
-- ![Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) - 05/2020
+- [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/b/51f6c1a-391f-44bd-9e0c-50fd94e42421/Ponelat-Designing-MEAP-HI.png)
 
@@ -45,6 +45,10 @@ title - release date
 - [Amazon Web Services in Action, Second Edition](https://www.manning.com/books/amazon-web-services-in-action-second-edition) - 09/2018
 
 ![](https://images.manning.com/360/480/resize/book/2/d645f0a-eb90-4e12-9c3a-dff78fb40bb7/Wittig-Amazon-2ed-HI.png)
+
+- [AWS Security](https://www.manning.com/books/aws-security) - Fall/2020
+
+![](https://images.manning.com/360/480/resize/book/9/bd88709-6462-4402-9bcc-f47617198574/Shields-AWS-MEAP-HI.png)
 
 - [Google Cloud Platform in Action](https://www.manning.com/books/google-cloud-platform-in-action) - 08/2018
 
@@ -66,7 +70,7 @@ title - release date
 
 - [Knative in Action](https://www.manning.com/books/knative-in-action) - Spring/2021
 
-![](https://www.manning.com/books/knative-in-action)
+![](https://images.manning.com/360/480/resize/book/5/c5dd6ac-2a93-4501-a8dd-469a8ceda021/Chester-Knative-MEAP-HI.png)
 
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) - Fall/2020
 
@@ -90,7 +94,7 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/6/6a11f2f-9748-4e53-b714-c109345d85c5/Hunter_IAPIs_final.png)
 
-- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 10/2016
 
 ![](https://images.manning.com/360/480/resize/book/5/77559c2-48c1-4197-9e89-b8abd768b9d2/Ghosh_FRDM_hires.png)
 
@@ -113,6 +117,14 @@ title - release date
 - [Third-Party JavaScript](https://www.manning.com/books/third-party-javascript) - 03/2013
 
 ![](https://images.manning.com/360/480/resize/book/6/b8008c6-da98-4d69-b81e-3751673c7f67/vinegar.png)
+
+- [Seriously Good Software](https://www.manning.com/books/seriously-good-software) - 03/2020
+
+![](https://images.manning.com/360/480/resize/book/8/e248fbb-72c7-49e2-b0e5-7a38f15771b3/Faella-SGS-HI.png)
+
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide) - 12/2019
+
+![](https://images.manning.com/360/480/resize/book/d/3946f50-a4ce-4a7e-84f6-ab506d3319b2/Noback-ODSG-HI.png)
 
 ## Performance
 
@@ -137,10 +149,6 @@ title - release date
 ![](https://images.manning.com/360/480/resize/book/9/3dc65e4-fc4f-452a-a900-20d3798b1200/adzic.png)
 
 ## Database
-
-- [Understanding Databases](https://www.manning.com/books/understanding-databases) - 09/2019
-
-![](https://images.manning.com/360/480/resize/book/7/020ffb2-4a56-440a-81c4-48ead870a077/Clinton_UD_hires.png)
 
 - [Making Sense of NoSQL](https://www.manning.com/books/making-sense-of-nosql) - 09/2013
 
@@ -170,6 +178,10 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/d/97e8018-d75c-48e6-8fc8-e41e769d8f10/Richer_API_hires.png)
 
+- [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography) - Summer/2020
+
+![](https://images.manning.com/360/480/resize/book/d/dbc9f54-a6a1-4551-bcce-942e2e7894fa/Wong-RWC-MEAP-HI.png)
+
 ## Authentication
 
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - 03/2017
@@ -190,6 +202,14 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/b/ce535da-a523-4ef6-9434-cb8bc9fed503/Yerburgh-TestingVue-HI.png)
 
+- [JUnit in Action, Third Edition](https://www.manning.com/books/junit-in-action-third-edition) - Summer/2020
+
+![](https://images.manning.com/360/480/resize/book/4/8949ed3-ef18-4a91-a5b4-39dd9dcbe2bf/Tudose-JUnit-MEAP-HI.png)
+
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - Spring/2021
+
+![](https://images.manning.com/360/480/resize/book/6/5b5ac1d-637b-4f00-9f5d-7fb583b6dac5/Osherove-UT-3ed-MEAP-HI.png)
+
 ## Git
 
 - [Git in Practice](https://www.manning.com/books/git-in-practice) - 09/2014
@@ -198,7 +218,7 @@ title - release date
 
 ## Infrastructure as Code
 
-- [Terraform in Action](https://www.manning.com/books/terraform-in-action) - 05/2020
+- [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Summer/2020
 
 ![](https://images.manning.com/360/480/resize/book/8/6c58f96-9981-4e1a-acd3-22ce347f78e5/Winkler-Terraform-MEAP-HI.png)
 
@@ -220,7 +240,7 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/2/cedec98-9fc5-496b-b720-06fc747599a5/McIlwraith-AIW-2ed-HI.png)
 
-- [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - 07/2019
+- [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - Fall/2020
 
 ![](https://images.manning.com/360/480/resize/book/e/f9efd1d-9e3b-453b-8df8-474848e41bd7/Rocca-ADS-MEAP-HI.png)
 
@@ -250,7 +270,7 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/4/04b9267-ee57-4e89-868d-2597fd20d08d/Fain-TSQuickly-HI.png)
 
-- [Programming with Types](https://www.manning.com/books/programming-with-types)
+- [Programming with Types](https://www.manning.com/books/programming-with-types) - 10/2019
 
 ![](https://images.manning.com/360/480/resize/book/6/a448bd6-cfb1-4d49-ad4c-6461b48bd226/Riscutia-PTypes-HI.png)
 
@@ -266,7 +286,7 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/e/d4c7e1e-52e7-495d-ade8-5348261eb0c5/young.png)
 
-## Web Framework
+## Web Framework and Technology
 
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - 09/2018
 
@@ -284,6 +304,14 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/3/01d3d4e-8cdb-49e9-a163-4ef3a6a241c0/Hahn-Express-HI.png)
 
+- [Svelte and Sapper in Action](https://www.manning.com/books/svelte-and-sapper-in-action) - 01/2020
+
+![](https://images.manning.com/360/480/resize/book/5/1047c04-827a-4746-92d3-b6aca29caa30/Volkmann-Svelte-MEAP-HI.png)
+
+- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - 08/2019
+
+![](https://images.manning.com/360/480/resize/book/8/7e34078-f701-4a72-85fd-9fc386c20102/Farrell-WebC-HI.png)
+
 ## Mobile Web
 
 - [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps) - 12/2017
@@ -295,6 +323,14 @@ title - release date
 ![](https://images.manning.com/360/480/resize/book/f/09a9eb9-17c4-48d3-8f62-62e3fac344d3/carver.png)
 
 ## Hybrid Application
+
+- [Flutter in Action](https://www.manning.com/books/flutter-in-action) - 01/2020
+
+![](https://images.manning.com/360/480/resize/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png)
+
+- [Dart in Action](https://www.manning.com/books/dart-in-action) - 01/2013
+
+![](https://images.manning.com/360/480/resize/book/2/8f0e5be-5c25-48be-911f-f175a62f230e/buckett.png)
 
 ## Data Visualization
 
@@ -334,6 +370,10 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/0/a520801-8082-4452-9061-9e92b5fd7be6/Plachta-grokkingFP_meap.png)
 
+- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) - Summer/2020
+
+![](https://images.manning.com/360/480/resize/book/6/47eb6ba-1aa2-461f-975a-5a39ae2fa1aa/Simplicity_Taming_hires_meap.png)
+
 ## Mathematics
 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - 12/2018
@@ -350,8 +390,22 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/3/2c4cc42-f154-428a-b6ca-2f94a69c1c47/Brink-RWML-HI.png)
 
-## Web
+- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) - In Development
 
-- [Rust in Action](https://www.manning.com/books/rust-in-action)
+![](https://images.manning.com/360/480/resize/book/1/324166e-fef9-4412-b8d2-6bce7a4bc740/Apeltsin-DSB-MEAP-HI.png)
+
+## New Frontiers in Web Performance
+
+- [Rust in Action](https://www.manning.com/books/rust-in-action) - Fall/2020
 
 ![](https://images.manning.com/360/480/resize/book/5/17c1124-214f-4307-b4fe-fd961a9a31f4/McNamara-Rust-MEAP-HI.png)
+
+- [WebAssembly in Action](https://www.manning.com/books/webassembly-in-action) 11/2019
+
+![](https://images.manning.com/360/480/resize/book/7/97eac5c-498e-4454-bdb2-677ec3406f29/Gallant-WA-HI.png)
+
+## Microservices
+
+- [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) - Fall/2020
+
+![](https://images.manning.com/360/480/resize/book/e/05c1c2f-e484-466e-9a4f-138ff01c5f76/Davis-BM-MEAP-HI.png)
