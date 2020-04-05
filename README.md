@@ -1,4 +1,10 @@
-# books-to-read
+My list of anything related to what I'm studying
+勉強に使ってきたor使う予定の情報源をまとめたmdです
+
+- [books](#books)
+- [本](#本)
+
+# books
 
 Where to find new books:
 
@@ -742,6 +748,8 @@ title - release date
 - [SVG Animations](https://www.oreilly.com/library/view/svg-animations/9781491939697/) - 04/2017
 
 ![](https://www.safaribooksonline.com/library/cover/9781491939697/250w/)
+
+# 本
 
 ## データベース
 
