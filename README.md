@@ -70,6 +70,7 @@ My list of anything related to what I'm studying
 - Mercari Engineering Blog https://tech.mercari.com/
 - WebNAUT https://webnaut.jp/
 - Gizmodo https://www.gizmodo.jp/
+- TechCrunch Japan https://jp.techcrunch.com/
 
 ## docs of cutting edge
 
