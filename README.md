@@ -69,6 +69,7 @@ My list of anything related to what I'm studying
 - Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/
 - Mercari Engineering Blog https://tech.mercari.com/
 - WebNAUT https://webnaut.jp/
+- Gizmodo https://www.gizmodo.jp/
 
 ## docs of cutting edge
 
