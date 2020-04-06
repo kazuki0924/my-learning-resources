@@ -2,10 +2,60 @@ My list of anything related to what I'm studying
 
 勉強に使ってきたor使う予定の情報源をまとめたmdです
 
+- [docs](#docs)
 - [books](#books)
 - [本](#本)
 
-# books
+## docs
+
+To glimpse through documentation and getting through the 'getting started':
+
+- [ ] GitLab https://gitlab.com/
+- [ ] GitLab CI https://docs.gitlab.com/ee/ci/
+- [ ] ServerlessFramework https://serverless.com/
+- [ ] **Swagger** https://swagger.io/
+- [X] Node.js https://nodejs.org/
+- [X] Express https://www.express.com/
+- [X] TypeScript https://www.typescriptlang.org/
+- [X] Vue.js https://vuejs.org/
+- [ ] Nuxt.js https://nuxtjs.org/
+- [ ] Vuetify https://vuetifyjs.com/
+- [ ] **Apollo** https://www.apollographql.com/
+- [X] **GraphQL** https://graphql.org/
+- [ ] Jest https://jestjs.io/
+- [ ] Nginx https://www.nginx.com/
+- [X] MySQL https://www.mysql.com/
+- [ ] MariaDB https://mariadb.org/
+- [ ] Redis https://redis.io/
+- [X] Docker https://www.docker.com/
+- [ ] Flutter https://flutter.dev/
+- [ ] Dart https://dart.dev/
+- [ ] Elasticsearch https://www.elastic.co/
+- [ ] Amplify https://aws.amazon.com/amplify/
+- [ ] **AppSync** https://aws.amazon.com/appsync/
+- [ ] Aurora https://aws.amazon.com/rds/aurora/
+- [ ] **Lambda** https://aws.amazon.com/lambda/
+- [ ] CloudWatch https://aws.amazon.com/cloudwatch/
+- [ ] EC2 https://aws.amazon.com/ec2/
+- [X] S3 https://aws.amazon.com/s3/
+- [ ] ELB https://aws.amazon.com/elasticloadbalancing/
+- [ ] API Gateway https://aws.amazon.com/api-gateway/
+- [ ] RDS https://aws.amazon.com/rds/
+- [ ] CloudFormation https://aws.amazon.com/cloudformation/
+- [ ] Cognito https://aws.amazon.com/cognito/
+- [X] Firebase https://firebase.google.com/
+- [X] Firestore https://firebase.google.com/docs/firestore
+- [X] Cloud Functions for Firebase https://firebase.google.com/docs/functions
+- [X] Cloud Storage for Firebase https://firebase.google.com/docs/storage
+- [X] CloudSQL https://cloud.google.com/sql/docs
+- [X] GAE https://cloud.google.com/appengine
+- [ ] BigQuery https://cloud.google.com/bigquery
+- [ ] PubSub https://cloud.google.com/pubsub
+- [ ] Operations https://cloud.google.com/products/operations
+- [ ] AutoML https://cloud.google.com/automl
+- [ ] Dataflow https://cloud.google.com/dataflow
+
+## books
 
 Where to find new books:
 
