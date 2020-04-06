@@ -6,7 +6,71 @@ My list of anything related to what I'm studying
 - [books](#books)
 - [本](#本)
 
-## docs
+## guides, white papers, conferences, courses, Youtube accounts and best practices
+
+- dev.to https://dev.to/
+- You Don't Know JS https://github.com/getify/You-Dont-Know-JS
+- Fireship.io https://fireship.io/courses/
+- Fireship https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos
+- Node.js Best Practices https://github.com/goldbergyoni/nodebestpractices
+- JavaScript Algorithms and Data Structures https://github.com/trekhleb/javascript-algorithms
+- Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
+- Front-end Developer Interview Questions https://github.com/h5bp/Front-end-Developer-Interview-Questions/
+- 30 seconds of code https://www.30secondsofcode.org/js/p/1
+- bestofjs https://bestofjs.org/
+- stateofjs.com https://stateofjs.com/
+- Product Hunt https://www.producthunt.com/
+- Papers we love http://paperswelove.org/
+- Airbnb Style Guide https://github.com/airbnb/javascript
+- Serverless Stack https://serverless-stack.com/
+- 33 JS Concepts https://github.com/leonardomso/33-js-concepts
+- Modern JavaScript Tutorial https://javascript.info/
+- JavaScript Air https://javascriptair.com/
+- Echo JS https://echojs.com/
+- Daily JS https://medium.com/dailyjs
+- Academind Pro https://academind.com/
+- Academind https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
+- CSS-Tricks https://css-tricks.com/
+- codrops https://tympanus.net/codrops/
+- web.dev https://web.dev/
+- stackshare https://stackshare.io/
+- Speaker Deck https://speakerdeck.com/
+- Honeypot https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos
+- Smashing Magazine https://www.smashingmagazine.com/
+- Scrimba https://scrimba.com/
+- Udemy https://www.udemy.com/
+- freeCodeCamp https://github.com/freeCodeCamp/freeCodeCamp
+- alligator.io https://alligator.io/
+- Traversy Media https://www.youtube.com/user/TechGuyWeb/videos
+- The Net Ninja https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+- DesignCourse https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+- Serverless Architecture Conference https://serverless-architecture.io/
+- connpass https://connpass.com/
+- TECH PLAY https://techplay.jp/
+- Doorkeeper https://www.doorkeeper.jp/
+- AWS Whitepapers https://aws.amazon.com/whitepapers/
+- Evan You (@youyuxi) https://twitter.com/youyuxi
+- Frontend Masters https://frontendmasters.com/
+- Qiita https://qiita.com/
+- KENTA/雑食系エンジニアTV https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg/videos
+- PSYENCE:MEDIA https://tech.recruit-mp.co.jp/
+- Developers.IO https://dev.classmethod.jp/
+- はてブ/it https://b.hatena.ne.jp/hotentry/it
+- はてブ開発ブログ https://staff.hatenablog.com/
+- AWSマンガ https://aws.amazon.com/jp/campaigns/manga/series/
+- c|net japan https://japan.cnet.com/
+- @IT https://www.atmarkit.co.jp/
+- ITmedia https://www.itmedia.co.jp/
+- Menthas https://menthas.com/
+- Publickey https://www.publickey1.jp/
+- Google Developers jp https://developers-jp.googleblog.com/
+- LINE Engineering https://engineering.linecorp.com/ja/blog/
+- クックパッド開発者ブログ https://techlife.cookpad.com/
+- Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/
+- Mercari Engineering Blog https://tech.mercari.com/
+- WebNAUT https://webnaut.jp/
+
+## docs of cutting edge
 
 To glimpse through documentation and getting through the 'getting started':
 
@@ -54,6 +118,17 @@ To glimpse through documentation and getting through the 'getting started':
 - [ ] Operations https://cloud.google.com/products/operations
 - [ ] AutoML https://cloud.google.com/automl
 - [ ] Dataflow https://cloud.google.com/dataflow
+
+## docs (for what I think is a bleeding edge)
+
+- [X] NestJS https://nestjs.com/
+- [X] Angular 9 https://angular.io/
+- [ ] Theia https://theia-ide.org/
+- [ ] Deno https://deno.land/
+- [ ] Svelte https://svelte.dev/
+- [ ] Puppeteer https://bestofjs.org/projects/puppeteer
+- [ ] brave https://brave.com/
+
 
 ## books
 
