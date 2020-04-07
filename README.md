@@ -131,6 +131,227 @@ To glimpse through documentation and getting through the 'getting started':
 - [ ] Puppeteer https://bestofjs.org/projects/puppeteer
 - [ ] brave https://brave.com/
 
+## Front-End
+
+- [Bulma](https://bulma.io/) - CSS
+- [Tailwind CSS](https://tailwindcss.com/) - CSS
+- [Tailwind UI](https://tailwindui.com/) - UI Toolkit
+- [augmented-ui](https://augmented-ui.com/) - CSS
+- [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/) - CSS
+- [extra.css](https://extra-css.netlify.com/) - CSS
+- [Water.css](https://watercss.netlify.com/) - CSS
+- [SweetAlert2](https://sweetalert2.github.io/) - Notification
+- [Popper](https://popper.js.org/) - Tooltip
+- [Happy Hues](https://www.happyhues.co/) - Hues
+- [Color Designer](https://colordesigner.io/gradient-generator) - Hues
+- [animated-css-background-generator](https://wweb.dev/resources/animated-css-background-generator) - Background
+- [Mycolorpanda](https://www.mycolorpanda.com/) - Gradients
+- [Gradient Magic](https://www.gradientmagic.com/) - Gradients
+- [Izmir Hover Effects](https://ciar4n.com/izmir/) - Hover Effects
+- [IsometricSass](https://morgancaron.github.io/IsometricSass/) - Isometric
+- [Font Awesome](https://fontawesome.com/) - Icons
+- [useAnimations](https://useanimations.com/) - Animated icons
+- [Popmotion](https://popmotion.io/) - Animation
+- [CSS Animo](https://cssanimo.netlify.com/) - Animation
+- [Animate.css](https://daneden.github.io/animate.css/) - Animation
+- [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - Animation
+- [CSS WAND](https://www.csswand.dev/) - Animation
+- [vov.css](https://vaibhav111tandon.github.io/vov.css/) - Animation
+- [BOX-SHADOWS.CSS](https://madeas.github.io/box-shadows/) - box-shadow
+- [RFS](https://github.com/twbs/rfs) Responsive Font Sizes
+- [CSSans Pro](https://cssans.pro/) - Font
+- [Typetura](https://typetura.com/) - Typography
+- [CSS Layout](https://csslayout.io/) - Layout
+- [p5](http://p5js.org/) - Canvas
+- [Get Waves](https://getwaves.io/) - SVG
+- [Blobmaker](https://www.blobmaker.app/) - SVG
+- [Chart.js](https://www.chartjs.org/) Chart
+- [ECharts](https://www.echartsjs.com/) Chart
+- [SurveyJS](https://surveyjs.io/Library) - Survey
+- [Flexbox.ninja](https://flexbox.ninja/) - Case Studies
+- [UIkit](http://getuikit.com/) Lightweight Framework
+- [Alpine.js](https://github.com/alpinejs/alpine) Minimal Framework
+- [Ionic](https://ionicframework.com/) Hybrid
+- [Onsen UI](https://onsen.io/) Hybrid
+- [Weex](https://weex.apache.org/) Hybrid
+- [Swiper](https://swiperjs.com/) Mobile Touch Slider
+- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - UI Toolkit
+- [Fomantic-UI](https://fomantic-ui.com/) - UI Toolkit
+- [DHTMLX Libraries](https://dhtmlx.com/) - UI Toolkit
+- [linaria](https://linaria.now.sh/) - CSS in JS
+- [styled components](https://styled-components.com/) - CSS in JS
+- [Emotion](https://emotion.sh/) - CSS in JS
+- [PostCSS](https://postcss.org/) - CSS in JS
+- [tabler](https://tabler.io/) - Admin
+- [Material Design](https://material.io/) - Design System
+- [Carbon Design System](https://www.carbondesignsystem.com/) - Design System
+- [Eva Design System](https://eva.design/) - Design System
+- [Ant Design](https://ant.design/) - Design System
+- [AMP](https://amp.dev/) - Google
+- [Diez](https://diez.org/) - Design Token
+- [Axios](https://github.com/axios/axios) HTTP Client
+- [Apollo](https://www.apollographql.com/) GraphQL Client
+- [RxJS](https://rxjs-dev.firebaseapp.com/) State Management
+- [imba](https://www.imba.io/) Programming Language (that compiles to JS)
+- [inVISION](https://www.invisionapp.com/) Prototyping Tool
+- [figma](https://www.figma.com/) Design Tool
+- [Storybook](https://storybook.js.org/) UI Development
+- [Svelte](https://svelte.dev/) Front-end Framework
+- [Sapper](https://sapper.svelte.dev/) Framework for Svelte
+- [webpack](https://webpack.js.org/) Bundler
+
+## Back-End
+
+- [Nodemailer](https://nodemailer.com/) Mailer
+- [mailchimp](https://mailchimp.com/) Mailing Solutions
+- [SendGrid](https://sendgrid.com/) Mailing Solutions
+- [mailgun](https://www.mailgun.com/) Mailing Solutions
+- [News API](https://newsapi.org/) API
+- [Claudia.js](https://claudiajs.com/) Serverless
+- [Firebase](https://firebase.google.com/) Backend Solutions
+- [TypeORM](https://typeorm.io/) ORM
+- [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) Encryption
+- [Passport.js](http://www.passportjs.org/) Authentication
+- [Puppeteer](https://pptr.dev/) Browser Automation
+- [Puppeteer Recorder](https://github.com/checkly/puppeteer-recorder) Browser Automation
+- [Nightmare](https://open.segment.com/) Browser Automation
+- [Playwright](https://www.npmjs.com/package/playwright) Browser Automation
+- [Socket.IO](https://socket.io/) Real-time
+- [Feathers](https://feathersjs.com/) Back-End Framework / Real-time
+- [Postman](https://www.postman.com/) API Development
+- [Swagger](https://swagger.io/) API Development
+- [Hasura GraphQL](https://hasura.io/) GraphQL
+- [Postwoman](https://postwoman.io/) API Development
+- [MongoDB](https://www.mongodb.com/) NoSQL
+- [Compass](https://www.mongodb.com/products/compass) GUI for MongoDB
+- [Mongoose](https://mongoosejs.com/) ODM for MongoDB
+- [PostgreSQL](https://www.postgresql.org/) RDB
+- [Postgres.js](https://github.com/porsager/postgres) PostgreSQL Client
+- [Postgres.app](https://postgresapp.com/) PostgreSQL for Mac Local Development
+- [pgAdmin](https://www.pgadmin.org/) PostgreSQL Tools
+- [ElephantSQL](https://www.elephantsql.com/) GUI for PostgreSQL
+- [MySQL](https://www.mysql.com/) RDB
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) GUI for MySQL
+
+## Web-Development
+
+- [Chrome](https://www.google.com/chrome/) Browser
+- [Visual Studio Code](https://code.visualstudio.com/) Code Editor
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) VS Code Extensions
+- [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) VS Code Extensions
+- [Theia](https://theia-ide.org/) Cloud IDE
+- [git](https://git-scm.com/) Git
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) VS Code Extensions
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) VS Code Extensions
+- [nvm](https://github.com/nvm-sh/nvm) Version Manager
+- [GitHub Desktop](https://desktop.github.com/) GitHub
+- [GitHub CLI](https://cli.github.com/) GitHub
+- [Docker](https://www.docker.com/) Container
+- [Pulumi](https://www.pulumi.com/) Infrastructure as Code
+- [Terraform](https://www.terraform.io/) Infrastructure as Code
+- [Gitpod](https://www.gitpod.io/) GitHub / Cloud IDE
+- [GitHub Actions](https://github.com/features/actions) Dev Workflow Automation / CI/CD
+- [Oh My Zsh](https://ohmyz.sh/) Zsh
+- [iTerm2](https://www.iterm2.com/) Terminal
+- [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) Cloud IDE
+- [Elasticsearch](https://www.elastic.co/elasticsearch/) Search / Analytics
+- [brave](https://brave.com/) Browser / Debugging for privacy-conscious environment
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) Browser / Debugging for CSS
+- [JAMstack](https://jamstack.org/) Solution Stack
+- [GRANDstack](https://grandstack.io/) Solution Stack
+- [MEAN](<https://en.wikipedia.org/wiki/MEAN_(solution_stack)>) Solution Stack
+- [Prettier](https://prettier.io/) Formatter
+- [ESLint](https://eslint.org/) Linter
+- [Homebrew](https://brew.sh/) Package Manager
+- [CircleCI](https://circleci.com/) CI/CD
+- [Travis CI](https://travis-ci.com/) CI/CD
+- [Stripe](https://stripe.com/) Payments
+- [Paypal](https://developer.paypal.com/classic-home/) Payments
+- [Google Identity Platform](https://developers.google.com/identity) Authentication
+- [LINE Login](https://developers.line.biz/en/services/line-login/) Authentication
+- [LINE Pay](https://pay.line.me/portal/global/main) LINE Pay
+- [Auth0](https://auth0.com/) Auth0
+- [algolia](https://www.algolia.com/) Searching
+- [Uppy](https://uppy.io/) Uploading
+- [Dialogflow](https://dialogflow.com/) Chatbot
+- [Pusher](https://pusher.com/) Real-time
+- [reCAPTHA](https://developers.google.com/recaptcha) Security
+- [GitDuck](https://gitduck.com/) Code Sharing
+- [zapier](https://zapier.com/) Workflow Automation
+- [n8n.io](https://n8n.io/) Workflow Automation
+- [Jest](https://jestjs.io/) Testing
+- [Cypress](https://www.cypress.io/) E2E Testing
+- [slack](https://slack.com/) Collaboration
+- [GIPHY](https://developers.giphy.com/) GIFs
+
+## Google Cloud Platform
+
+- [Cloud Run](https://cloud.google.com/run) Knative
+- [Container Registry](https://cloud.google.com/container-registry/) Repository
+- [Cloud Build](https://cloud.google.com/cloud-build/) CI/CD
+- [Cloud SQL](https://cloud.google.com/sql/) Managed RDB
+- [Cloud Storage](https://cloud.google.com/storage/) Object Storage
+- [App Engine](https://cloud.google.com/appengine/) PaaS
+
+## Vue Ecosystem
+
+- [Nuxt.js](https://nuxtjs.org/) Isomorphic / SSR
+- [Quasar](https://quasar.dev/) Hybrid
+- [vue-cli](https://cli.vuejs.org/) CLI
+- [vue-devtools](https://github.com/vuejs/vue-devtools) - Debugging Tools
+- [Vetur](https://vuejs.github.io/vetur/) VS Code Plugin
+- [vue-router](http://router.vuejs.org/) Router
+- [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin) Admin
+- [Vuex](https://vuex.vuejs.org/) - State Management
+- [Vuelidate](https://github.com/vuelidate/vuelidate) - Validation
+- [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - Form
+- [vue-resource](https://github.com/pagekit/vue-resource) - HTTP Client
+- [Vue Apollo](https://vue-apollo.netlify.com/) - GraphQL Client
+- [Vuefire](https://vuefire.vuejs.org/) - Firebase
+- [VuePress](https://vuepress.vuejs.org/) SSG
+- [Gridsome](https://gridsome.org/) SSG
+- [Buefy](https://buefy.org/) Bulma
+- [vuesax](https://lusaxweb.github.io/vuesax/) - UI Toolkit
+- [Element](https://element.eleme.io/) - UI Toolkit
+- [iView](http://iview.talkingdata.com/) - UI Toolkit
+- [Vuetify](https://vuetifyjs.com/) - Material Design
+- [Vue Material](https://vuematerial.io/) - Material Design
+- [Ant Design Vue](https://antdv.com/) - Ant Design
+- [Carbon Components Vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design
+- [Vant](https://youzan.github.io/) - Mobile UI
+- [vux](https://vux.li/) - Mobile UI
+- [Mint UI](http://mint-ui.github.io/) - Mobile UI
+- [BootstrapVue](https://bootstrap-vue.js.org/) - Bootstrap
+- [PrimeVue](https://primefaces.org/primevue/) - Prime
+- [Epic Spinners](https://epic-spinners.epicmax.co/) - Spinners
+
+## Angular Ecosystem
+
+- [Angular CLI](https://cli.angular.io/) - CLI
+- [Angury](https://augury.rangle.io/) - Debugging Tools
+- [ngx-admin](https://bestofjs.org/projects/ngx-admin) admin
+- [NGXS](http://ngxs.io/) State Management
+- [NgRx](https://ngrx.io/) - State Management
+- [AngularFire](https://firebaseopensource.com/projects/angular/angularfire2) Firebase
+- [Scully](https://github.com/scullyio/scully) SSG
+- [Apollo Angular](http://apollographql.com/docs/angular/) - GraphQL Client
+- [Angular Universal](https://github.com/angular/universal) SSR
+- [Nebular](https://akveo.github.io/nebular/) - Eva Design
+- [Clarity Design System](https://clarity.design/) - Clarity Design
+- [NG-ZORRO](https://ng.ant.design/) - Ant Design
+- [Teradata Covalent](https://teradata.github.io/covalent/) - Material Design
+- [Material Design for Angular](https://material.angular.io/) - Material Design
+- [Carbon Components Angular](https://github.com/IBM/carbon-components-angular) - Carbon Design
+- [ng-lightning](http://ng-lightning.github.io/ng-lightning/) - Lightning Design
+- [NG Bootstrap](https://ng-bootstrap.github.io/) - Bootstrap
+- [ngx-bootstrap](https://valor-software.com/ngx-bootstrap) - Bootstrap
+- [PrimeNG](https://www.primefaces.org/primeng/) - Prime
+- [ngx-charts](https://swimlane.gitbook.io/ngx-charts/) - Chart
+- [AngularUI Grid](http://ui-grid.info/) - Data Grid
+- [ag-grid](http://www.ag-grid.com/) - Data Grid
+- [UI Bakery](https://uibakery.io/) - No-code
+- [Nx](https://nx.dev/angular) - Monorepo
+- [Nx Console](https://nx.dev/nx-console) - Console
 
 ## books
 
