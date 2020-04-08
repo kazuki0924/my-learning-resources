@@ -1,76 +1,99 @@
 My list of anything related to what I'm studying
 
-勉強に使ってきたor使う予定の情報源をまとめたmdです
+勉強に使ってきた or 使う予定の情報源をまとめた md です
 
+- [bookmarks](#bookmarks)
 - [docs](#docs)
 - [books](#books)
 - [本](#本)
 
-## guides, white papers, conferences, courses, Youtube accounts and best practices
+## bookmarks
 
-- dev.to https://dev.to/
-- You Don't Know JS https://github.com/getify/You-Dont-Know-JS
-- Fireship.io https://fireship.io/courses/
-- Fireship https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos
-- Node.js Best Practices https://github.com/goldbergyoni/nodebestpractices
-- JavaScript Algorithms and Data Structures https://github.com/trekhleb/javascript-algorithms
-- Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
-- Front-end Developer Interview Questions https://github.com/h5bp/Front-end-Developer-Interview-Questions/
-- 30 seconds of code https://www.30secondsofcode.org/js/p/1
-- bestofjs https://bestofjs.org/
-- stateofjs.com https://stateofjs.com/
-- Product Hunt https://www.producthunt.com/
-- Papers we love http://paperswelove.org/
-- Airbnb Style Guide https://github.com/airbnb/javascript
-- Serverless Stack https://serverless-stack.com/
-- 33 JS Concepts https://github.com/leonardomso/33-js-concepts
-- Modern JavaScript Tutorial https://javascript.info/
-- JavaScript Air https://javascriptair.com/
-- Echo JS https://echojs.com/
-- Daily JS https://medium.com/dailyjs
-- Academind Pro https://academind.com/
-- Academind https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
-- CSS-Tricks https://css-tricks.com/
-- codrops https://tympanus.net/codrops/
-- web.dev https://web.dev/
-- stackshare https://stackshare.io/
-- Speaker Deck https://speakerdeck.com/
-- Honeypot https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos
-- Smashing Magazine https://www.smashingmagazine.com/
-- Scrimba https://scrimba.com/
-- Udemy https://www.udemy.com/
-- freeCodeCamp https://github.com/freeCodeCamp/freeCodeCamp
-- alligator.io https://alligator.io/
-- Traversy Media https://www.youtube.com/user/TechGuyWeb/videos
-- The Net Ninja https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
-- DesignCourse https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
-- Serverless Architecture Conference https://serverless-architecture.io/
-- connpass https://connpass.com/
-- TECH PLAY https://techplay.jp/
-- Doorkeeper https://www.doorkeeper.jp/
-- AWS Whitepapers https://aws.amazon.com/whitepapers/
-- Evan You (@youyuxi) https://twitter.com/youyuxi
-- Frontend Masters https://frontendmasters.com/
-- Qiita https://qiita.com/
-- KENTA/雑食系エンジニアTV https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg/videos
-- PSYENCE:MEDIA https://tech.recruit-mp.co.jp/
-- Developers.IO https://dev.classmethod.jp/
-- はてブ/it https://b.hatena.ne.jp/hotentry/it
-- はてブ開発ブログ https://staff.hatenablog.com/
-- AWSマンガ https://aws.amazon.com/jp/campaigns/manga/series/
-- c|net japan https://japan.cnet.com/
-- @IT https://www.atmarkit.co.jp/
-- ITmedia https://www.itmedia.co.jp/
-- Menthas https://menthas.com/
-- Publickey https://www.publickey1.jp/
-- Google Developers jp https://developers-jp.googleblog.com/
-- LINE Engineering https://engineering.linecorp.com/ja/blog/
-- クックパッド開発者ブログ https://techlife.cookpad.com/
-- Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/
-- Mercari Engineering Blog https://tech.mercari.com/
-- WebNAUT https://webnaut.jp/
-- Gizmodo https://www.gizmodo.jp/
-- TechCrunch Japan https://jp.techcrunch.com/
+- [dev.to](https://dev.to/) - Dev Community
+- [reddit/node.js](https://www.reddit.com/r/node/) - Dev Community
+- [stackoverflow/node.js(https://stackoverflow.com/questions/tagged/node.js?tab=Newest) - Dev Community
+- [Medium/node.js](https://medium.com/the-node-js-collection) - Dev Community
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Books
+- [Fireship.io](https://fireship.io/) - Front-End / Firebase / Flutter
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos) - Front-End / Firebase / Flutter
+- [Node.js/blog](https://nodejs.org/en/blog/) - Node.js
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Best Practices
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Computer Science
+- [Papers we love](http://paperswelove.org/) - Computer Science
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - Career
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/) - Career
+- [30 seconds of code/JS](https://www.30secondsofcode.org/js/p/1) - Snippets
+- [bestofjs](https://bestofjs.org/) - JS Ecosystem
+- [stateofjs.com](https://stateofjs.com/) - JS Ecosystem
+- [Product Hunt](https://www.producthunt.com/) - Products
+- [Airbnb Style Guide](https://github.com/airbnb/javascript) - Best Practices
+- [Serverless Stack](https://serverless-stack.com/) - Best Practices
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - JS Fundamentals
+- [Modern JavaScript Tutorial](https://javascript.info/) - JS Fundamentals
+- [JavaScript Air](https://javascriptair.com/) - Podcasts
+- [Echo JS](https://echojs.com/) - JS News
+- [Daily JS](https://medium.com/dailyjs) - JS News
+- [Academind Pro](https://academind.com/) - JS Courses
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos) - JS Fundamentals
+- [CSS-Tricks](https://css-tricks.com/) - CSS Guides
+- [codrops](https://tympanus.net/codrops/) - CSS Guides
+- [web.dev](https://web.dev/) - Web Performance
+- [stackshare](https://stackshare.io/) - Tech Stack
+- [Speaker Deck](https://speakerdeck.com/) - Slides
+- [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos) - Interviews
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Dev Magazines
+- [Scrimba](https://scrimba.com/) - Learning Platform / imba
+- [Udemy](https://www.udemy.com/) - Learning Platform / Videos
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Learning Platform / Interactive
+- [alligator.io](https://alligator.io/) - JS Guides
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) - JS Guides
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - JS Guides
+- [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - UI/UX Guides
+- [Frontend Masters](https://frontendmasters.com/) - JS Guides
+- [JSconf Youtube Playlist](https://www.youtube.com/results?search_query=JSconf&sp=CAISAhAD) - Conferences
+- [NodeConf Youtube Playlist](https://www.youtube.com/results?search_query=nodeconf&sp=CAISAhAD) - Conferences
+- [Node + JS Interactive Youtube Playlist](https://www.youtube.com/results?search_query=Node+%2B+JS+Interactive&sp=CAISAhAD) - Conferences
+- [TSConf Youtube Playlist](https://www.youtube.com/results?search_query=TSConf&sp=CAISAhAD) - Conferences
+- [Serverless Architecture Conference Youtube Playlist](https://www.youtube.com/results?search_query=Serverless+Architecture+Conference&sp=CAISAhAD) - Conferences
+- [ServerlessDays Youtube Playlist](https://www.youtube.com/results?search_query=serverlessdays&sp=CAISAhAD) - Conferences
+- [VueConf Youtube Playlist](https://www.youtube.com/results?search_query=VueConf&sp=CAISAhAD) - Conferences
+- [JSCamp Youtube Playlist](https://www.youtube.com/results?search_query=JSCamp&sp=CAISAhAD) - Conferences
+- [dotJS Youtube Playlist](https://www.youtube.com/results?search_query=dotJS&sp=CAISAhAD) - Conferences
+- [ng-conf Youtube Playlist](https://www.youtube.com/results?search_query=ng-conf&sp=CAISAhAD) - Conferences
+- [AngularConnect Youtube Playlist](https://www.youtube.com/results?search_query=AngularConnect&sp=CAISAhAD) - Conferences
+- [angularday Youtube Playlist](https://www.youtube.com/results?search_query=angularday&sp=CAISAhAD) - Conferences
+- [DevOps Conference Youtube Playlist](https://www.youtube.com/results?search_query=devops+conference&sp=CAISAhAD) - Conferences
+- [JAMstack conf Youtube Playlist](https://www.youtube.com/results?search_query=JAMstack+conf&sp=CAISAhAD) - Conferences
+- [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos) - Google
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) - Google
+- [Firebase Official Youtube Channel](https://www.youtube.com/user/Firebase/videos) - Google
+- [GitHub Official Youtube Channel](https://www.youtube.com/user/github/videos) - GitHub
+- [AWS re:Invent Youtube Playlist](https://www.youtube.com/results?search_query=AWS+re%3AInvent&sp=CAISAhAD) - AWS
+- [AWS Whitepapers](https://aws.amazon.com/whitepapers/) - AWS
+- [AWS マンガ](https://aws.amazon.com/jp/campaigns/manga/series/) - AWS
+- [connpass](https://connpass.com/) - 勉強会
+- [TECH PLAY](https://techplay.jp/) - 勉強会
+- [Doorkeeper](https://www.doorkeeper.jp/) - 勉強会
+- [Evan You (@youyuxi)](https://twitter.com/youyuxi) - Twitter
+- [Qiita](https://qiita.com/) - アウトプット
+- [KENTA/雑食系エンジニア TV](https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg/videos) - キャリア
+- [PSYENCE:MEDIA](https://tech.recruit-mp.co.jp/) - エンジニアリング
+- [Developers.IO](https://dev.classmethod.jp/) - エンジニアリング
+- [Google Developers jp](https://developers-jp.googleblog.com/) - エンジニアリング
+- [LINE Engineering](https://engineering.linecorp.com/ja/blog/) - エンジニアリング
+- [クックパッド開発者ブログ](https://techlife.cookpad.com/) - エンジニアリング
+- [Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/) - エンジニアリング
+- [Mercari Engineering Blog](https://tech.mercari.com/) - エンジニアリング
+- [はてブ/it](https://b.hatena.ne.jp/hotentry/it) - IT ニュース
+- [はてブ開発ブログ](https://staff.hatenablog.com/) - エンジニアリング
+- [c|net japan](https://japan.cnet.com/) - IT ニュース
+- [@IT](https://www.atmarkit.co.jp/) - IT ニュース
+- [ITmedia](https://www.itmedia.co.jp/) - IT ニュース
+- [Menthas](https://menthas.com/) - IT ニュース
+- [Publickey](https://www.publickey1.jp/) - IT ニュース
+- [WebNAUT](https://webnaut.jp/) - デザイン
+- [Gizmodo](https://www.gizmodo.jp/) - ガジェット
+- [TechCrunch Japan](https://jp.techcrunch.com/) - スタートアップ
 
 ## docs of cutting edge
 
@@ -80,20 +103,20 @@ To glimpse through documentation and getting through the 'getting started':
 - [ ] GitLab CI https://docs.gitlab.com/ee/ci/
 - [ ] ServerlessFramework https://serverless.com/
 - [ ] **Swagger** https://swagger.io/
-- [X] Node.js https://nodejs.org/
-- [X] Express https://www.express.com/
-- [X] TypeScript https://www.typescriptlang.org/
-- [X] Vue.js https://vuejs.org/
+- [x] Node.js https://nodejs.org/
+- [x] Express https://www.express.com/
+- [x] TypeScript https://www.typescriptlang.org/
+- [x] Vue.js https://vuejs.org/
 - [ ] Nuxt.js https://nuxtjs.org/
 - [ ] Vuetify https://vuetifyjs.com/
 - [ ] **Apollo** https://www.apollographql.com/
-- [X] **GraphQL** https://graphql.org/
+- [x] **GraphQL** https://graphql.org/
 - [ ] Jest https://jestjs.io/
 - [ ] Nginx https://www.nginx.com/
-- [X] MySQL https://www.mysql.com/
+- [x] MySQL https://www.mysql.com/
 - [ ] MariaDB https://mariadb.org/
 - [ ] Redis https://redis.io/
-- [X] Docker https://www.docker.com/
+- [x] Docker https://www.docker.com/
 - [ ] Flutter https://flutter.dev/
 - [ ] Dart https://dart.dev/
 - [ ] Elasticsearch https://www.elastic.co/
@@ -103,18 +126,18 @@ To glimpse through documentation and getting through the 'getting started':
 - [ ] **Lambda** https://aws.amazon.com/lambda/
 - [ ] CloudWatch https://aws.amazon.com/cloudwatch/
 - [ ] EC2 https://aws.amazon.com/ec2/
-- [X] S3 https://aws.amazon.com/s3/
+- [x] S3 https://aws.amazon.com/s3/
 - [ ] ELB https://aws.amazon.com/elasticloadbalancing/
 - [ ] API Gateway https://aws.amazon.com/api-gateway/
 - [ ] RDS https://aws.amazon.com/rds/
 - [ ] CloudFormation https://aws.amazon.com/cloudformation/
 - [ ] Cognito https://aws.amazon.com/cognito/
-- [X] Firebase https://firebase.google.com/
-- [X] Firestore https://firebase.google.com/docs/firestore
-- [X] Cloud Functions for Firebase https://firebase.google.com/docs/functions
-- [X] Cloud Storage for Firebase https://firebase.google.com/docs/storage
-- [X] CloudSQL https://cloud.google.com/sql/docs
-- [X] GAE https://cloud.google.com/appengine
+- [x] Firebase https://firebase.google.com/
+- [x] Firestore https://firebase.google.com/docs/firestore
+- [x] Cloud Functions for Firebase https://firebase.google.com/docs/functions
+- [x] Cloud Storage for Firebase https://firebase.google.com/docs/storage
+- [x] CloudSQL https://cloud.google.com/sql/docs
+- [x] GAE https://cloud.google.com/appengine
 - [ ] BigQuery https://cloud.google.com/bigquery
 - [ ] PubSub https://cloud.google.com/pubsub
 - [ ] Operations https://cloud.google.com/products/operations
@@ -123,8 +146,8 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## docs (for what I think is a bleeding edge)
 
-- [X] NestJS https://nestjs.com/
-- [X] Angular 9 https://angular.io/
+- [x] NestJS https://nestjs.com/
+- [x] Angular 9 https://angular.io/
 - [ ] Theia https://theia-ide.org/
 - [ ] Deno https://deno.land/
 - [ ] Svelte https://svelte.dev/
