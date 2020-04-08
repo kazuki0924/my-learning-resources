@@ -11,7 +11,7 @@ My list of anything related to what I'm studying
 
 - [dev.to](https://dev.to/) - Dev Community
 - [reddit/node.js](https://www.reddit.com/r/node/) - Dev Community
-- [stackoverflow/node.js(https://stackoverflow.com/questions/tagged/node.js?tab=Newest) - Dev Community
+- [stackoverflow/node.js](https://stackoverflow.com/questions/tagged/node.js?tab=Newest) - Dev Community
 - [Medium/node.js](https://medium.com/the-node-js-collection) - Dev Community
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Books
 - [Fireship.io](https://fireship.io/) - Front-End / Firebase / Flutter
