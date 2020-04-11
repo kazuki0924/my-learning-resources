@@ -9,7 +9,7 @@ My list of anything related to what I'm studying
 
 ## Stay at home
 
-- [Vue Mastery(https://www.vuemastery.com/free-week/)] - Free courses from April 13 to April 19.
+- [Vue Mastery](https://www.vuemastery.com/free-week/) - Free courses from April 13 to April 19.
   - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
   - Vue 3 Reactivity https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
