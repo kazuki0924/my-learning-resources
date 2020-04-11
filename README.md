@@ -13,6 +13,13 @@ My list of anything related to what I'm studying
   - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
   - Vue 3 Reactivity https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
+  
+## Purchased
+- https://www.udemy.com/course/aws-serverless-a-complete-introduction/
+- https://www.udemy.com/course/docker-mastery-for-nodejs/
+- https://www.udemy.com/course/web-scraping-in-nodejs/
+- https://www.udemy.com/course/web-crawling-with-nodejs-hm-amazon-linkedin-aliexpress/
+- https://scrimba.com/g/gdesignbootcamp
 
 ## bookmarks
 
