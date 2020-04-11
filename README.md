@@ -15,13 +15,23 @@ My list of anything related to what I'm studying
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
   
 ## Purchased
-
-- https://www.udemy.com/course/aws-serverless-a-complete-introduction/
-- https://www.udemy.com/course/docker-mastery-for-nodejs/
-- https://www.udemy.com/course/web-scraping-in-nodejs/
-- https://www.udemy.com/course/web-crawling-with-nodejs-hm-amazon-linkedin-aliexpress/
-- https://scrimba.com/g/gdesignbootcamp
-
+- [ ] https://www.udemy.com/course/vuejs-2-the-complete-guide/
+- [ ] https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/
+- [ ] https://www.udemy.com/course/aws-serverless-a-complete-introduction/
+- [ ] https://www.udemy.com/course/aws-lambda-serverless/
+- [ ] https://www.udemy.com/course/docker-mastery/
+- [ ] https://www.udemy.com/course/docker-mastery-for-nodejs/
+- [ ] https://www.udemy.com/course/web-scraping-in-nodejs/
+- [ ] https://www.udemy.com/course/web-crawling-with-nodejs-hm-amazon-linkedin-aliexpress/
+- [ ] https://fireship.io/courses/cloud-functions/
+- [ ] https://scrimba.com/g/gdesignbootcamp
+- [ ] https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+- [x] https://www.udemy.com/course/nodejs-the-complete-guide/
+- [x] https://www.udemy.com/course/nestjs-zero-to-hero/
+- [x] https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
+- [x] https://www.udemy.com/course/the-complete-guide-to-angular-2/
+- [ ] https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/
+- [ ] https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
 ## bookmarks
 
 - [dev.to](https://dev.to/) - Dev Community
