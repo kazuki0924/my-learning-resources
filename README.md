@@ -7,14 +7,15 @@ My list of anything related to what I'm studying
 - [books](#books)
 - [本](#本)
 
-## Stay at home
+## Free for a limited time
 
-- [Vue Mastery](https://www.vuemastery.com/free-week/) - Free courses from April 13 to April 19.
+- Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
   - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
   - Vue 3 Reactivity https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
   
 ## Purchased
+
 - https://www.udemy.com/course/aws-serverless-a-complete-introduction/
 - https://www.udemy.com/course/docker-mastery-for-nodejs/
 - https://www.udemy.com/course/web-scraping-in-nodejs/
