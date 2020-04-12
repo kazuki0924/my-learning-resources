@@ -27,10 +27,6 @@ My list of anything related to what I'm studying
 - [ ] https://fireship.io/courses/cloud-functions/
 - [ ] https://scrimba.com/g/gdesignbootcamp
 - [ ] https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
-- [x] https://www.udemy.com/course/nodejs-the-complete-guide/
-- [x] https://www.udemy.com/course/nestjs-zero-to-hero/
-- [x] https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
-- [x] https://www.udemy.com/course/the-complete-guide-to-angular-2/
 - [ ] https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/
 - [ ] https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
 
@@ -41,6 +37,13 @@ My list of anything related to what I'm studying
 - https://www.manning.com/books/serverless-applications-with-node-js
 - https://www.oreilly.com/library/view/git-for-teams/9781491911204/
 - https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1
+
+## completed
+
+- https://www.udemy.com/course/nodejs-the-complete-guide/
+- https://www.udemy.com/course/nestjs-zero-to-hero/
+- https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
+- https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
 ## bookmarks
 
