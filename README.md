@@ -126,17 +126,8 @@ My list of anything related to what I'm studying
 
 To glimpse through documentation and getting through the 'getting started':
 
-- [ ] GitLab https://gitlab.com/
-- [ ] GitLab CI https://docs.gitlab.com/ee/ci/
-- [ ] ServerlessFramework https://serverless.com/
-- [ ] **Swagger** https://swagger.io/
-- [x] Node.js https://nodejs.org/
-- [x] Express https://www.express.com/
 - [x] TypeScript https://www.typescriptlang.org/
-- [x] Vue.js https://vuejs.org/
-- [ ] Nuxt.js https://nuxtjs.org/
-- [ ] Vuetify https://vuetifyjs.com/
-- [ ] **Apollo** https://www.apollographql.com/
+- [ ] Deno https://deno.land/
 - [x] **GraphQL** https://graphql.org/
 - [ ] Jest https://jestjs.io/
 - [ ] Nginx https://www.nginx.com/
@@ -159,27 +150,7 @@ To glimpse through documentation and getting through the 'getting started':
 - [ ] RDS https://aws.amazon.com/rds/
 - [ ] CloudFormation https://aws.amazon.com/cloudformation/
 - [ ] Cognito https://aws.amazon.com/cognito/
-- [x] Firebase https://firebase.google.com/
-- [x] Firestore https://firebase.google.com/docs/firestore
-- [x] Cloud Functions for Firebase https://firebase.google.com/docs/functions
-- [x] Cloud Storage for Firebase https://firebase.google.com/docs/storage
-- [x] CloudSQL https://cloud.google.com/sql/docs
-- [x] GAE https://cloud.google.com/appengine
-- [ ] BigQuery https://cloud.google.com/bigquery
-- [ ] PubSub https://cloud.google.com/pubsub
-- [ ] Operations https://cloud.google.com/products/operations
-- [ ] AutoML https://cloud.google.com/automl
-- [ ] Dataflow https://cloud.google.com/dataflow
 
-## docs (for what I think is a bleeding edge)
-
-- [x] NestJS https://nestjs.com/
-- [x] Angular 9 https://angular.io/
-- [ ] Theia https://theia-ide.org/
-- [ ] Deno https://deno.land/
-- [ ] Svelte https://svelte.dev/
-- [ ] Puppeteer https://bestofjs.org/projects/puppeteer
-- [ ] brave https://brave.com/
 
 ## Front-End
 
@@ -252,6 +223,9 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## Back-End
 
+- [Node.js](https://nodejs.org/) Node.js
+- [Express](https://www.express.com/) Node.js
+- [NestJS](https://nestjs.com/) Node.js / TypeScript
 - [ServerlessFramework](https://serverless.com/) Serverless
 - [Nodemailer](https://nodemailer.com/) Mailer
 - [mailchimp](https://mailchimp.com/) Mailing Solutions
@@ -338,7 +312,7 @@ To glimpse through documentation and getting through the 'getting started':
 - [slack](https://slack.com/) Collaboration
 - [GIPHY](https://developers.giphy.com/) GIFs
 
-## Google Cloud Platform
+## Google Cloud Platform / Firebase
 
 - [Cloud Run](https://cloud.google.com/run) Knative
 - [Container Registry](https://cloud.google.com/container-registry/) Repository
@@ -346,6 +320,15 @@ To glimpse through documentation and getting through the 'getting started':
 - [Cloud SQL](https://cloud.google.com/sql/) Managed RDB
 - [Cloud Storage](https://cloud.google.com/storage/) Object Storage
 - [App Engine](https://cloud.google.com/appengine/) PaaS
+- [BigQuery](https://cloud.google.com/bigquery) Data Warehouse 
+- [PubSub](https://cloud.google.com/pubsub) Pub/Sub
+- [Operations](https://cloud.google.com/products/operations) Analysis
+- [AutoML](https://cloud.google.com/automl) - ML
+- [Dataflow](https://cloud.google.com/dataflow) Cloud Computing
+- [Firebase](https://firebase.google.com/) BaaS
+- [Firestore](https://firebase.google.com/docs/firestore) - NoSQL
+- [Cloud Functions for Firebase](https://firebase.google.com/docs/functions) - Serverless
+- [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - Object Storage
 
 ## Vue Ecosystem
 
@@ -381,6 +364,7 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## Angular Ecosystem
 
+- [Angular](https://angular.io/)
 - [Angular CLI](https://cli.angular.io/) - CLI
 - [Angury](https://augury.rangle.io/) - Debugging Tools
 - [ngx-admin](https://bestofjs.org/projects/ngx-admin) admin
@@ -405,7 +389,8 @@ To glimpse through documentation and getting through the 'getting started':
 - [ag-grid](http://www.ag-grid.com/) - Data Grid
 - [UI Bakery](https://uibakery.io/) - No-code
 - [Nx](https://nx.dev/angular) - Monorepo
-- [Nx Console](https://nx.dev/nx-console) - Console
+- [NestJS](https://nestjs.com/) - Back-End for Monorepo
+- [Nx Console](https://nx.dev/nx-console) - GUI
 
 ## books
 
