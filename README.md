@@ -34,6 +34,14 @@ My list of anything related to what I'm studying
 - [ ] https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/
 - [ ] https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
 
+## wishlist
+
+- https://www.udemy.com/course/quasarframework/
+- https://www.oreilly.com/library/view/learning-serverless/9781492057000/
+- https://www.manning.com/books/serverless-applications-with-node-js
+- https://www.oreilly.com/library/view/git-for-teams/9781491911204/
+- https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1
+
 ## bookmarks
 
 - [dev.to](https://dev.to/) - Dev Community
