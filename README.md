@@ -181,13 +181,13 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## Front-End
 
-- [Bulma](https://bulma.io/) - CSS
-- [Tailwind CSS](https://tailwindcss.com/) - CSS
+- [Bulma](https://bulma.io/) - CSS Framework / Flexbox
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - [Tailwind UI](https://tailwindui.com/) - UI Toolkit
-- [augmented-ui](https://augmented-ui.com/) - CSS
-- [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/) - CSS
-- [extra.css](https://extra-css.netlify.com/) - CSS
-- [Water.css](https://watercss.netlify.com/) - CSS
+- [augmented-ui](https://augmented-ui.com/) - CSS / Just-add-water
+- [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/) - CSS Framework
+- [extra.css](https://extra-css.netlify.com/) - CSS / Just-add-water
+- [Water.css](https://watercss.netlify.com/) - CSS / Just-add-water
 - [SweetAlert2](https://sweetalert2.github.io/) - Notification
 - [Popper](https://popper.js.org/) - Tooltip
 - [Happy Hues](https://www.happyhues.co/) - Hues
@@ -196,7 +196,7 @@ To glimpse through documentation and getting through the 'getting started':
 - [Mycolorpanda](https://www.mycolorpanda.com/) - Gradients
 - [Gradient Magic](https://www.gradientmagic.com/) - Gradients
 - [Izmir Hover Effects](https://ciar4n.com/izmir/) - Hover Effects
-- [IsometricSass](https://morgancaron.github.io/IsometricSass/) - Isometric
+- [IsometricSass](https://morgancaron.github.io/IsometricSass/) - SASS / Isometric
 - [Font Awesome](https://fontawesome.com/) - Icons
 - [useAnimations](https://useanimations.com/) - Animated icons
 - [Popmotion](https://popmotion.io/) - Animation
