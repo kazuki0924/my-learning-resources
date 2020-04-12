@@ -7,7 +7,7 @@ My list of anything related to what I'm studying
 - [books](#books)
 - [本](#本)
 
-## Free for a limited time
+## Courses (Free for a limited time)
 
 - Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
   - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
@@ -15,6 +15,7 @@ My list of anything related to what I'm studying
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
   
 ## Purchased
+
 - [ ] https://www.udemy.com/course/vuejs-2-the-complete-guide/
 - [ ] https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/
 - [ ] https://www.udemy.com/course/aws-serverless-a-complete-introduction/
@@ -32,6 +33,7 @@ My list of anything related to what I'm studying
 - [x] https://www.udemy.com/course/the-complete-guide-to-angular-2/
 - [ ] https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/
 - [ ] https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
+
 ## bookmarks
 
 - [dev.to](https://dev.to/) - Dev Community
@@ -250,6 +252,7 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## Back-End
 
+- [ServerlessFramework](https://serverless.com/) Serverless
 - [Nodemailer](https://nodemailer.com/) Mailer
 - [mailchimp](https://mailchimp.com/) Mailing Solutions
 - [SendGrid](https://sendgrid.com/) Mailing Solutions
@@ -283,6 +286,8 @@ To glimpse through documentation and getting through the 'getting started':
 
 ## Web-Development
 
+- [GitLab](https://gitlab.com/) - Source Repository
+- [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
 - [Chrome](https://www.google.com/chrome/) Browser
 - [Visual Studio Code](https://code.visualstudio.com/) Code Editor
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) VS Code Extensions
@@ -292,6 +297,7 @@ To glimpse through documentation and getting through the 'getting started':
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) VS Code Extensions
 - [nvm](https://github.com/nvm-sh/nvm) Version Manager
+- [GitHub](https://github.com/) Source Repository
 - [GitHub Desktop](https://desktop.github.com/) GitHub
 - [GitHub CLI](https://cli.github.com/) GitHub
 - [Docker](https://www.docker.com/) Container
