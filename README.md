@@ -357,6 +357,8 @@ My list of anything related to what I'm studying
 - [Jest](https://jestjs.io/) Testing
 - [Cypress](https://www.cypress.io/) E2E Testing
 - [slack](https://slack.com/) Collaboration
+- [Rectangle](https://rectangleapp.com/) Resizing windows
+- [Clipy](https://github.com/Clipy/Clipy) Clipboard extension
 - [GIPHY](https://developers.giphy.com/) GIFs
 
 ## Google Cloud Platform / Firebase
