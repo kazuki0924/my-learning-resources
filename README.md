@@ -152,6 +152,19 @@ My list of anything related to what I'm studying
 - [Izmir Hover Effects](https://ciar4n.com/izmir/) - Hover Effects
 - [IsometricSass](https://morgancaron.github.io/IsometricSass/) - SASS / Isometric
 - [Font Awesome](https://fontawesome.com/) - Icons
+- [Ionicons](https://ionicons.com/) - Icons
+- [GitHub Octicons](https://octicons.github.com/) - Icons
+- [Material Design Icons](https://material.io/resources/icons/?style=baseline) - Icons
+- [Boxicons](https://boxicons.com/) - Icons
+- [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - Icons
+- [Bootstrap Icons](https://icons.getbootstrap.com/) - Icons
+- [PaymentFont](https://paymentfont.com/) - Icons
+- [Iconic](https://useiconic.com/) - Icons
+- [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) - Icons
+- [Stack Icons](http://stackicons.com/) - Icons
+- [OpenWeb Icons](https://pfefferle.dev/openwebicons/) - Icons
+- [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) - Icons
+- [Elusive Icons](http://elusiveicons.com/) - Icons
 - [useAnimations](https://useanimations.com/) - Animated icons
 - [Popmotion](https://popmotion.io/) - Animation
 - [CSS Animo](https://cssanimo.netlify.com/) - Animation
@@ -205,6 +218,7 @@ My list of anything related to what I'm studying
 ## Back-End
 
 - [Node.js](https://nodejs.org/) Node.js
+- [nvm](https://github.com/nvm-sh/nvm) Version Manager
 - [Express](https://www.express.com/) Node.js Framework
 - [Deno](https://deno.land/) - JS Runtime
 - [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
@@ -241,32 +255,60 @@ My list of anything related to what I'm studying
 - [ElephantSQL](https://www.elephantsql.com/) GUI for PostgreSQL
 - [MySQL](https://www.mysql.com/) RDB
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) GUI for MySQL
-
-- [MariaDB] (https://mariadb.org/)
-- [Redis] (https://redis.io/)
-- [Nginx] (https://www.nginx.com/)
+- [MariaDB](https://mariadb.org/) RDB
+- [Redis](https://redis.io/) Key-value Database
+- [Nginx](https://www.nginx.com/) - Web Server
 
 ## Web-Development
 
 - [TypeScript](https://www.typescriptlang.org/) - JS Superset
-- [GitLab](https://gitlab.com/) - Source Repository
-- [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) VS Code Extensions
 - [Chrome](https://www.google.com/chrome/) - Browser
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Chrome Extensions
 - [Visual Studio Code](https://code.visualstudio.com/) Code Editor
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) VS Code Extensions
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) VS Code Extensions
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
-- []() VS Code Extensions
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) VS Code Extensions
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) VS Code Extensions
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) VS Code Extensions
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) VS Code Extensions
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) VS Code Extensions
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) VS Code Extensions
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) VS Code Extensions
+- [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) VS Code Extensions
+- [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) VS Code Extensions
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) VS Code Extensions
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) VS Code Extensions
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) VS Code Extensions
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) VS Code Extensions
+- [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) VS Code Extensions
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) VS Code Extensions
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) VS Code Extensions
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) VS Code Extensions
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) VS Code Extensions
+- [Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) VS Code Extensions
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) VS Code Extensions
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code Extensions
+- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) VS Code Extensions
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) VS Code Extensions
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) VS Code Extensions
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) VS Code Extensions
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code Extensions
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) VS Code Extensions
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) VS Code Extensions
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) VS Code Extensions
+- [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) VS Code Extensions
+- [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) VS Code Extensions
+- [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) VS Code Extensions
+- [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) VS Code Extensions
+- [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) VS Code Extensions
+- [docs-linting](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-linting) VS Code Extensions
+- [docs-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) VS Code Extensions
+- [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) VS Code Extensions
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) VS Code Extensions
+- [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) VS Code Extensions
 - [git](https://git-scm.com/) Git
-- [nvm](https://github.com/nvm-sh/nvm) Version Manager
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) VS Code Extensions
 - [GitHub](https://github.com/) Source Repository
@@ -277,6 +319,10 @@ My list of anything related to what I'm studying
 - [GitHub Actions](https://github.com/features/actions) Dev Workflow Automation / CI/CD
 - [GitHub CLI](https://cli.github.com/) GitHub
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - VS Code Extensions
+- [GitLab](https://gitlab.com/) - Source Repository / Dev Workflow
+- [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) VS Code Extensions
+- [Gitlab Notifications](https://marketplace.visualstudio.com/items?itemName=logerfo.gitlab-notifications) VS Code Extensions
 - [Docker](https://www.docker.com/) Container
 - [Pulumi](https://www.pulumi.com/) Infrastructure as Code
 - [Terraform](https://www.terraform.io/) Infrastructure as Code
@@ -369,6 +415,8 @@ My list of anything related to what I'm studying
 - [Angular](https://angular.io/)
 - [Angular CLI](https://cli.angular.io/) - CLI
 - [Angury](https://augury.rangle.io/) - Debugging Tools
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) VS Code Extensions
+- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) VS Code Extensions
 - [ngx-admin](https://bestofjs.org/projects/ngx-admin) admin
 - [NGXS](http://ngxs.io/) State Management
 - [NgRx](https://ngrx.io/) - State Management
