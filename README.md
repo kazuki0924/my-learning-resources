@@ -361,7 +361,7 @@ My list of anything related to what I'm studying
 - [Clipy](https://github.com/Clipy/Clipy) Clipboard extension
 - [GIPHY](https://developers.giphy.com/) GIFs
 
-## Google Cloud Platform / Firebase
+## Google Cloud Platform
 
 - [Cloud Run](https://cloud.google.com/run) Knative
 - [Container Registry](https://cloud.google.com/container-registry/) Repository
@@ -374,10 +374,28 @@ My list of anything related to what I'm studying
 - [Operations](https://cloud.google.com/products/operations) Analysis
 - [AutoML](https://cloud.google.com/automl) - ML
 - [Dataflow](https://cloud.google.com/dataflow) Cloud Computing
+
+## Firebase
+
 - [Firebase](https://firebase.google.com/) BaaS
 - [Firestore](https://firebase.google.com/docs/firestore) - NoSQL
 - [Cloud Functions for Firebase](https://firebase.google.com/docs/functions) - Serverless
 - [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - Object Storage
+
+## Amazon Web Services
+
+- Amplify https://aws.amazon.com/amplify/
+- AppSync https://aws.amazon.com/appsync/
+- Aurora https://aws.amazon.com/rds/aurora/
+- Lambda https://aws.amazon.com/lambda/
+- CloudWatch https://aws.amazon.com/cloudwatch/
+- EC2 https://aws.amazon.com/ec2/
+- S3 https://aws.amazon.com/s3/
+- ELB https://aws.amazon.com/elasticloadbalancing/
+- API Gateway https://aws.amazon.com/api-gateway/
+- RDS https://aws.amazon.com/rds/
+- CloudFormation https://aws.amazon.com/cloudformation/
+- Cognito https://aws.amazon.com/cognito/
 
 ## Vue Ecosystem
 
