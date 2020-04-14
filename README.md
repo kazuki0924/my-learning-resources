@@ -133,36 +133,6 @@ My list of anything related to what I'm studying
 - [Gizmodo](https://www.gizmodo.jp/) - ガジェット
 - [TechCrunch Japan](https://jp.techcrunch.com/) - スタートアップ
 
-## docs of cutting edge
-
-To glimpse through documentation and getting through the 'getting started':
-
-- [x] TypeScript https://www.typescriptlang.org/
-- [ ] Deno https://deno.land/
-- [x] **GraphQL** https://graphql.org/
-- [ ] Jest https://jestjs.io/
-- [ ] Nginx https://www.nginx.com/
-- [x] MySQL https://www.mysql.com/
-- [ ] MariaDB https://mariadb.org/
-- [ ] Redis https://redis.io/
-- [x] Docker https://www.docker.com/
-- [ ] Flutter https://flutter.dev/
-- [ ] Dart https://dart.dev/
-- [ ] Elasticsearch https://www.elastic.co/
-- [ ] Amplify https://aws.amazon.com/amplify/
-- [ ] **AppSync** https://aws.amazon.com/appsync/
-- [ ] Aurora https://aws.amazon.com/rds/aurora/
-- [ ] **Lambda** https://aws.amazon.com/lambda/
-- [ ] CloudWatch https://aws.amazon.com/cloudwatch/
-- [ ] EC2 https://aws.amazon.com/ec2/
-- [x] S3 https://aws.amazon.com/s3/
-- [ ] ELB https://aws.amazon.com/elasticloadbalancing/
-- [ ] API Gateway https://aws.amazon.com/api-gateway/
-- [ ] RDS https://aws.amazon.com/rds/
-- [ ] CloudFormation https://aws.amazon.com/cloudformation/
-- [ ] Cognito https://aws.amazon.com/cognito/
-
-
 ## Front-End
 
 - [Bulma](https://bulma.io/) - CSS Framework / Flexbox
@@ -235,8 +205,11 @@ To glimpse through documentation and getting through the 'getting started':
 ## Back-End
 
 - [Node.js](https://nodejs.org/) Node.js
-- [Express](https://www.express.com/) Node.js
-- [NestJS](https://nestjs.com/) Node.js / TypeScript
+- [Express](https://www.express.com/) Node.js Framework
+- [Deno](https://deno.land/) - JS Runtime
+- [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
+- [NestJS](https://nestjs.com/) Node.js / TypeScript Framework
+- [GraphQL](https://graphql.org/) GraphQL
 - [ServerlessFramework](https://serverless.com/) Serverless
 - [Nodemailer](https://nodemailer.com/) Mailer
 - [mailchimp](https://mailchimp.com/) Mailing Solutions
@@ -269,27 +242,44 @@ To glimpse through documentation and getting through the 'getting started':
 - [MySQL](https://www.mysql.com/) RDB
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) GUI for MySQL
 
+- [MariaDB] (https://mariadb.org/)
+- [Redis] (https://redis.io/)
+- [Nginx] (https://www.nginx.com/)
+
 ## Web-Development
 
+- [TypeScript](https://www.typescriptlang.org/) - JS Superset
 - [GitLab](https://gitlab.com/) - Source Repository
 - [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
-- [Chrome](https://www.google.com/chrome/) Browser
+- [Chrome](https://www.google.com/chrome/) - Browser
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Chrome Extensions
 - [Visual Studio Code](https://code.visualstudio.com/) Code Editor
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) VS Code Extensions
-- [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) VS Code Extensions
-- [Theia](https://theia-ide.org/) Cloud IDE
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) VS Code Extensions
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
+- []() VS Code Extensions
 - [git](https://git-scm.com/) Git
+- [nvm](https://github.com/nvm-sh/nvm) Version Manager
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) VS Code Extensions
-- [nvm](https://github.com/nvm-sh/nvm) Version Manager
 - [GitHub](https://github.com/) Source Repository
 - [GitHub Desktop](https://desktop.github.com/) GitHub
+- [Gitpod](https://www.gitpod.io/) GitHub / Cloud IDE
+- [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki/related) - Chrome Extensions
+- [Theia](https://theia-ide.org/) Cloud IDE
+- [GitHub Actions](https://github.com/features/actions) Dev Workflow Automation / CI/CD
 - [GitHub CLI](https://cli.github.com/) GitHub
+- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - VS Code Extensions
 - [Docker](https://www.docker.com/) Container
 - [Pulumi](https://www.pulumi.com/) Infrastructure as Code
 - [Terraform](https://www.terraform.io/) Infrastructure as Code
-- [Gitpod](https://www.gitpod.io/) GitHub / Cloud IDE
-- [GitHub Actions](https://github.com/features/actions) Dev Workflow Automation / CI/CD
 - [Oh My Zsh](https://ohmyz.sh/) Zsh
 - [iTerm2](https://www.iterm2.com/) Terminal
 - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) Cloud IDE
@@ -347,7 +337,8 @@ To glimpse through documentation and getting through the 'getting started':
 - [Quasar](https://quasar.dev/) Hybrid
 - [vue-cli](https://cli.vuejs.org/) CLI
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Debugging Tools
-- [Vetur](https://vuejs.github.io/vetur/) VS Code Plugin
+- [Vetur](https://vuejs.github.io/vetur/) VS Code Extensions
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) VS Code Extensions
 - [vue-router](http://router.vuejs.org/) Router
 - [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin) Admin
 - [Vuex](https://vuex.vuejs.org/) - State Management
