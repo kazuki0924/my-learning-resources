@@ -10,10 +10,11 @@ My list of anything related to what I'm studying
 ## Courses (Free for a limited time)
 
 - Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
+
   - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
   - Vue 3 Reactivity https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/
   - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
-  
+
 ## Purchased
 
 - [ ] https://www.udemy.com/course/vuejs-2-the-complete-guide/
@@ -369,7 +370,7 @@ My list of anything related to what I'm studying
 - [Cloud SQL](https://cloud.google.com/sql/) Managed RDB
 - [Cloud Storage](https://cloud.google.com/storage/) Object Storage
 - [App Engine](https://cloud.google.com/appengine/) PaaS
-- [BigQuery](https://cloud.google.com/bigquery) Data Warehouse 
+- [BigQuery](https://cloud.google.com/bigquery) Data Warehouse
 - [PubSub](https://cloud.google.com/pubsub) Pub/Sub
 - [Operations](https://cloud.google.com/products/operations) Analysis
 - [AutoML](https://cloud.google.com/automl) - ML
@@ -1243,7 +1244,7 @@ title - release date
 
 ## スクラム
 
-- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
+- [スクラム実践入門 ── 成果を生 �� 出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
 
 ![](https://gihyo.jp/assets/images/cover/2015/9784774172361.jpg)
 
@@ -1328,3 +1329,719 @@ title - release date
 - [アルゴリズム図鑑 絵で見てわかる 26 のアルゴリズム](https://www.seshop.com/static/images/product/20245/L.png) 06/2017
 
 ![](https://www.seshop.com/static/images/product/20245/L.png)
+
+The Angular Workshop
+https://www.packtpub.com/web-development/the-angular-workshop
+06/2020
+
+Learn Nuxt.js
+https://www.packtpub.com/web-development/learn-nuxt-js
+06/2020
+
+Learn Webpack
+https://www.packtpub.com/web-development/learn-webpack
+06/2020
+
+Mastering AWS CloudFormation
+https://www.packtpub.com/cloud-networking/mastering-aws-cloudformation
+05/2020
+
+Hands-On Web Penetration Testing with Metasploit
+https://www.packtpub.com/networking-and-servers/hands-web-penetration-testing-metasploit
+05/2020
+
+Learn SQL Database Programming
+https://www.packtpub.com/data/learn-sql-database-programming
+05/2020
+
+Angular 8 for Enterprise-Ready Web Applications - Second Edition
+https://www.packtpub.com/web-development/angular-8-enterprise-ready-web-applications-second-edition
+04/2020
+
+40 Algorithms Every Programmer Should Know
+https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know
+04/2020
+
+Flutter Projects
+https://www.packtpub.com/mobile/flutter-projects
+04/2020
+
+Learn Docker - Fundamentals of Docker 19.x - Second Edition
+https://www.packtpub.com/cloud-networking/learn-docker-fundamentals-of-docker-19-x-second-edition
+03/2020
+
+Hands-On JavaScript High Performance
+https://www.packtpub.com/web-development/hands-on-javascript-high-performance
+02/2020
+
+AWS Security Cookbook
+https://www.packtpub.com/security/aws-security-cookbook
+02/2020
+
+Hands-On Serverless Computing with Google Cloud
+https://www.packtpub.com/cloud-networking/hands-on-serverless-computing-with-google-cloud-platform
+02/2020
+
+Mastering JavaScript Functional Programming - Second Edition
+https://www.packtpub.com/web-development/mastering-javascript-functional-programming-second-edition
+01/2020
+
+Clean Code in JavaScript
+https://www.packtpub.com/web-development/clean-code-in-javascript
+01/2020
+
+Learn AWS Serverless Computing
+https://www.packtpub.com/cloud-networking/learn-aws-serverless-computing
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789958355-original.jpeg
+12/2019
+
+The JavaScript Workshop
+https://www.packtpub.com/programming/the-javascript-workshop
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838641917-original.png
+11/2019
+
+Serverless Architectures with Kubernetes
+https://www.packtpub.com/cloud-networking/serverless-architectures-with-kubernetes
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838983277-original.png
+11/2019
+
+The HTML and CSS Workshop
+https://www.packtpub.com/web-development/the-html-and-css-workshop
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838824532-original.png
+11/2019
+
+Nest.js: A Progressive Node.js Framework
+https://www.packtpub.com/programming/nest-js-a-progressive-node-js-framework
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781800204737-original.png
+11/2019
+
+Vue.js: Understanding its Tools and Ecosystem
+https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem
+11/2019
+
+Hands-On Machine Learning with TensorFlow.js
+https://www.packtpub.com/data/hands-on-machine-learning-with-tensorflow-js
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838821739-original.jpeg
+11/2019
+
+Learn TypeScript 3 by Building Web Applications
+https://www.packtpub.com/programming/typescript-3-0-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789615869-original.png
+11/2019
+
+Learning DevOps
+https://www.packtpub.com/cloud-networking/learning-devops
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838642730-original.jpeg
+10/2019
+
+Building Forms with Vue.js
+https://www.packtpub.com/business-other/building-forms-with-vue-js
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg
+10/2019
+
+Elasticsearch 7 Quick Start Guide
+https://www.packtpub.com/data/elasticsearch-7-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789803327-original.jpeg
+10/2019
+
+Rust Programming Cookbook
+https://www.packtpub.com/programming/rust-programming-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789530667-original.jpeg
+10/2019
+
+Testing Vue.js Components with Jest
+https://www.packtpub.com/programming/testing-vue-js-components-with-jest
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839219689-original.jpeg
+10/2019
+
+Refactoring TypeScript
+https://www.packtpub.com/web-development/refactoring-typescript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839218040-original.png
+10/2019
+
+Professional JavaScript
+https://www.packtpub.com/application-development/professional-javascript-0
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838820213-original.png
+09/2019
+
+Get Your Hands Dirty on Clean Architecture
+https://www.packtpub.com/programming/get-your-hands-dirty-on-clean-architecture
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839211966-original.jpeg
+09/2019
+
+Angular Projects
+https://www.packtpub.com/web-development/angular-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838559359-original.jpeg
+09/2019
+
+Flutter for Beginners
+https://www.packtpub.com/mobile/flutter-for-beginners
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788996082-original.png
+09/2019
+
+DevOps Paradox
+https://www.packtpub.com/web-development/devops-paradox
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789133639-original.jpeg
+08/2019
+
+Web Development with Angular and Bootstrap - Third Edition
+https://www.packtpub.com/web-development/web-development-angular-and-bootstrap-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788838108-original.jpeg
+08/2019
+
+Advanced Elasticsearch 7.0
+https://www.packtpub.com/data/mastering-elasticsearch-7-0
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789957754-original.jpeg
+08/2019
+
+Mastering GitLab 12
+https://www.packtpub.com/cloud-networking/mastering-gitlab-12
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789531282-original.png
+08/2019
+
+Enterprise API Management
+https://www.packtpub.com/virtualization-and-cloud/enterprise-api-management
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781787284432-original.png
+07/2019
+
+Advanced TypeScript Programming Projects
+https://www.packtpub.com/application-development/advanced-typescript-3-programming-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789133042-original.jpeg
+07/2019
+
+Improving your Penetration Testing Skills
+https://www.packtpub.com/security/improving-your-penetration-testing-skills
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838646073-original.png
+07/2019
+
+The Successful Software Manager
+https://www.packtpub.com/business-other/the-successful-software-manager
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789615531-original.png
+06/2019
+
+Modern Programming: Object Oriented Programming and Best Practices
+https://www.packtpub.com/programming/modern-programming-object-oriented-programming-and-best-practices
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838986186-original.png
+06/2019
+
+AWS Certified Developer - Associate Guide - Second Edition
+https://www.packtpub.com/virtualization-and-cloud/aws-certified-developer-associate-guide-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12026cover.png
+06/2019
+
+Continuous Delivery with Docker and Jenkins - Second Edition
+https://www.packtpub.com/virtualization-and-cloud/continuous-delivery-docker-and-jenkins-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/5/552183cover.png
+05/2019
+
+Learning Elastic Stack 7.0 - Second Edition
+https://www.packtpub.com/big-data-and-business-intelligence/learning-elastic-stack-70-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b13048_0.png
+05/2019
+
+Full-Stack Web Development with Vue.js and Node
+https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788831147_cover.png
+12/2018
+
+Building Large-Scale Web Applications with Angular
+https://www.packtpub.com/web-development/building-large-scale-web-applications-angular
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c13251_cover.png
+12/2018
+
+Node.js Complete Reference Guide
+https://www.packtpub.com/web-development/nodejs-complete-reference-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c13044_reupload.png
+12/2018
+
+Cloud-Native Continuous Integration and Delivery
+https://www.packtpub.com/virtualization-and-cloud/cloud-native-continuous-integration-and-delivery
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789805659_0.png
+12/2018
+
+Serverless Architectures with AWS
+https://www.packtpub.com/networking-and-servers/serverless-architectures-aws
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789805024.png
+12/2018
+
+Command Line Fundamentals
+https://www.packtpub.com/application-development/command-line-fundamentals
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12667.png
+12/2018
+
+Complete Vue.js 2 Web Development
+https://www.packtpub.com/application-development/complete-vuejs-2-web-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c13224_cover.png
+12/2018
+
+Hands-On Dark Web Analysis
+https://www.packtpub.com/networking-and-servers/hands-dark-web-analysis
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789133363_1.png
+12/2018
+
+Learn Type-Driven Development
+https://www.packtpub.com/application-development/learn-type-driven-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09613.png
+12/2018
+
+Hands-On Data Structures and Algorithms with Rust
+https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10269_cover.png
+01/2019
+
+Learn Linux Shell Scripting - Fundamentals of Bash 4.4
+https://www.packtpub.com/networking-and-servers/learn-linux-shell-scripting-fundamentals-bash-44
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10117_cover.png
+12/2018
+
+Responsive Web Design by Example
+https://www.packtpub.com/web-development/responsive-web-design-example-0
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_20.png
+12/2018
+
+Modern JavaScript Web Development Cookbook
+https://www.packtpub.com/web-development/modern-javascript-web-development-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09958.png
+12/2018
+
+Hands-On Functional Programming with TypeScript
+https://www.packtpub.com/application-development/hands-functional-programming-typescript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09411_new1_0.png
+01/2019
+
+Multi-Cloud for Architects
+https://www.packtpub.com/virtualization-and-cloud/multi-cloud-architects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788623766_cover.png
+01/2019
+
+Implementing AWS: Design, Build, and Manage your Infrastructure
+https://www.packtpub.com/networking-and-servers/implementing-aws-design-build-and-manage-your-infrastructure
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/0/c09694_reupload.png
+01/2019
+
+Mastering Rust - Second Edition
+https://www.packtpub.com/application-development/mastering-rust-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789346572-20copy.png
+01/2019
+
+Advanced JavaScript
+https://www.packtpub.com/application-development/advanced-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/2/12665_cover.png
+01/2019
+
+Hands-On RESTful API Design Patterns and Best Practices
+https://www.packtpub.com/application-development/hands-restful-api-design-patterns-and-best-practices
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10006_0.png
+01/2019
+
+Serverless Programming Cookbook
+https://www.packtpub.com/application-development/serverless-programming-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788623797-20copy.png
+01/2019
+
+Hands-On Serverless Computing
+https://www.packtpub.com/virtualization-and-cloud/hands-serverless-computing
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09779_mockupcover_0.png
+07/2018
+
+AWS Lambda Quick Start Guide
+https://www.packtpub.com/virtualization-and-cloud/aws-lambda-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11345.png
+06/2018
+
+Serverless Design Patterns and Best Practices
+https://www.packtpub.com/application-development/serverless-design-patterns-and-best-practices
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09129_0.png
+04/2018
+
+Docker for Serverless Applications
+https://www.packtpub.com/virtualization-and-cloud/docker-serverless-applications
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09434_0.png
+04/2018
+
+Mastering AWS Lambda
+https://www.packtpub.com/virtualization-and-cloud/mastering-aws-lambda
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05548.png
+08/2017
+
+Building Serverless Architectures
+https://www.packtpub.com/application-development/building-serverless-architectures
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/u/building_cover.png
+07/2017
+
+Building Serverless Web Applications
+https://www.packtpub.com/application-development/building-serverless-web-applications
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/9/5995_cover.png
+07/2017
+
+Docker for Serverless Applications
+https://www.packtpub.com/virtualization-and-cloud/docker-serverless-applications
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09434_0.png
+04/2018
+
+JavaScript Unlocked
+https://www.packtpub.com/web-development/javascript-unlocked
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/5/1572os_4886_javascript20unlocked.jpg
+12/2015
+
+Practical Internet of Things with JavaScript
+https://www.packtpub.com/hardware-and-creative/advanced-iot-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07286_cover.png
+02/2017
+
+Learning Angular - Second Edition
+https://www.packtpub.com/web-development/learning-angular-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06169_cover.png
+12/2017
+
+Vue.js 2 Web Development Projects
+https://www.packtpub.com/web-development/vuejs-2-web-development-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06168.png
+11/2017
+
+Mastering JavaScript Functional Programming
+https://www.packtpub.com/web-development/mastering-javascript-functional-programming
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06372.png
+11/2017
+
+Isomorphic JavaScript Web Development
+https://www.packtpub.com/web-development/isomorphic-javascript-web-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05226_0.png
+10/2017
+
+Vue.js 2 and Bootstrap 4 Web Development
+https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_5.png
+09/2017
+
+Web Development with MongoDB and Node - Third Edition
+https://www.packtpub.com/web-development/web-development-mongodb-and-node-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788395083.png
+09/2017
+
+MEAN Cookbook
+https://www.packtpub.com/web-development/mean-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06640_cover.png
+09/2017
+
+Learn Chart.js
+https://www.packtpub.com/web-development/learn-chartjs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789342482_cover.png
+02/2019
+
+Mastering TypeScript 3 - Third Edition
+https://www.packtpub.com/application-development/mastering-typescript-3-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11558.png
+02/2019
+
+MongoDB, Express, Angular, and Node.js Fundamentals
+https://www.packtpub.com/web-development/mongodb-express-angular-and-nodejs-fundamentals
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12718_pub.png
+03/2019
+
+Mastering Docker Enterprise
+https://www.packtpub.com/virtualization-and-cloud/mastering-docker-enterprise
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12053.png
+03/2019
+
+Building Google Cloud Platform Solutions
+https://www.packtpub.com/virtualization-and-cloud/building-google-cloud-platform-solutions
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838647438cov_low20res.png
+03/2019
+
+Hands-On RESTful Web Services with TypeScript 3
+https://www.packtpub.com/application-development/hands-restful-web-services-typescript-3
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b13139_mockupcover.png
+03/2019
+
+Google Flutter Mobile Development Quick Start Guide
+https://www.packtpub.com/application-development/google-flutter-mobile-development-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11253.png
+03/2019
+
+Mastering MongoDB 4.x - Second Edition
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-mongodb-4x-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12072_mockupcover.png
+03/2019
+
+Architecting Cloud Native Applications
+https://www.packtpub.com/virtualization-and-cloud/architecting-cloud-native-applications
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/4/3/43317cov_low20res.png
+04/2019
+
+Implementing Cloud Design Patterns for AWS - Second Edition
+https://www.packtpub.com/virtualization-and-cloud/implementing-cloud-design-patterns-aws-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10419_mockupcover.png
+04/2019
+
+Docker High Performance
+https://www.packtpub.com/networking-and-servers/docker-high-performance-second-edition
+01/2016
+
+Node Cookbook - Third Edition
+https://www.packtpub.com/web-development/node-cookbook-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/f/4/f4586f60-b13d-4ea2-95e7-34385e7e5a00.png
+07/2017
+
+Vue.js 2 Cookbook
+https://www.packtpub.com/web-development/vuejs-2-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781786468093_new.png
+04/2017
+
+Mastering Reactive JavaScript
+https://www.packtpub.com/web-development/mastering-reactive-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05603_cover.png
+05/2017
+
+Internet of Things Programming with JavaScript
+https://www.packtpub.com/web-development/internet-things-programming-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781785888564.png
+02/2017
+
+Building Bots with Node.js
+https://www.packtpub.com/application-development/building-bots-nodejs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05625_cover.png
+01/2017
+
+Object-Oriented JavaScript - Third Edition
+https://www.packtpub.com/web-development/object-oriented-javascript-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05239.png
+01/2017
+
+The Majesty Of Vue.js
+https://www.packtpub.com/web-development/majesty-vuejs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06239_cover_low.png
+11/2016
+
+JavaScript: Functional Programming for JavaScript Developers
+https://www.packtpub.com/web-development/javascript-functional-programming-javascript-developers
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/978-1-78712-466-0.png
+08/2016
+
+Node.js Design Patterns - Second Edition
+https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05259_cover.png
+07/2016
+
+Node.js Web Development - Fourth Edition
+https://www.packtpub.com/web-development/nodejs-web-development-fourth-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09380.png
+06/2016
+
+Mastering Redis
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/8/1/8181cov_.jpg
+05/2016
+
+RESTful Web API Design with Node.js - Second Edition
+https://www.packtpub.com/web-development/restful-web-api-design-nodejs-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/i/m/im9137.jpg
+05/2016
+
+Developing Microservices with Node.js
+https://www.packtpub.com/web-development/developing-microservices-nodejs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/7/4/7406os_.jpg
+04/2016
+
+Version Control with Git and GitHub
+https://www.packtpub.com/application-development/version-control-git-and-github
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12556_lowres_cover.png
+12/2018
+
+Mastering Vim
+https://www.packtpub.com/application-development/mastering-vim
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_11044.png
+11/2018
+
+GitLab Quick Start Guide
+https://www.packtpub.com/virtualization-and-cloud/gitlab-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789534344_cover.png
+11/2018
+
+Learning Shell Scripting with Zsh
+https://www.packtpub.com/application-development/learning-shell-scripting-zsh
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/2/9/2937os_learning20shell20scripting20with20zsh.jpg
+01/2014
+
+Git Version Control Cookbook - Second Edition
+https://www.packtpub.com/application-development/git-version-control-cookbook-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10764_mockupcover.png
+07/2018
+
+Git Essentials - Second Edition
+https://www.packtpub.com/application-development/git-essentials-second-edition
+11/2017
+
+Git: Mastering Version Control
+https://www.packtpub.com/application-development/git-mastering-version-control
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/0/c06152_mockupcover_low.png
+10/2016
+
+Mastering Git
+https://www.packtpub.com/application-development/mastering-git
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b03537_cover.png
+04/2016
+
+GitHub Essentials - Second Edition
+https://www.packtpub.com/web-development/github-essentials-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10613.png
+06/2018
+
+Learn Blockchain Programming with JavaScript
+https://www.packtpub.com/web-development/learn-blockchain-programming-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12086.png
+11/2018
+
+Electron Projects
+https://www.packtpub.com/mobile/electron-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838552206-original.png
+11/2019
+
+Vue.js Quick Start Guide
+https://www.packtpub.com/application-development/vuejs-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11251.png
+10/2018
+
+Building Enterprise JavaScript Applications
+https://www.packtpub.com/web-development/building-enterprise-javascript-applications
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover20-20copy_8514.png
+09/2018
+
+Voicebot and Chatbot Design
+https://www.packtpub.com/application-development/voicebot-and-chatbot-design
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10563.png
+09/2018
+
+VuePress Quick Start Guide
+https://www.packtpub.com/web-development/vuepress-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover20-20copy_11693.png
+09/2018
+
+D3.js Quick Start Guide
+https://www.packtpub.com/application-development/d3js-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b10991.png
+09/2018
+
+Mastering Angular Components - Second Edition
+https://www.packtpub.com/web-development/mastering-angular-components-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07253_mockupcover.png
+07/2018
+
+Voice User Interface Projects
+https://www.packtpub.com/web-development/voice-user-interface-projects
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b08554_cover_new.png
+07/2018
+
+Angular Design Patterns
+https://www.packtpub.com/web-development/angular-design-patterns
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781786461728.png
+07/2018
+
+Progressive Web Application Development by Example
+https://www.packtpub.com/application-development/progressive-web-application-development-example
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06922.png
+07/2018
+
+Beginning API Development with Node.js
+https://www.packtpub.com/web-development/beginning-api-development-nodejs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11615.png
+07/2018
+
+Hands-On Microservices with Node.js
+https://www.packtpub.com/web-development/hands-microservices-nodejs
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/978178862021520-20copy.png
+06/2018
+
+RESTful Web API Design with Node.js 10 - Third Edition
+https://www.packtpub.com/web-development/restful-web-api-design-nodejs-10-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09382_cover.png
+04/2018
+
+Learning JavaScript Data Structures and Algorithms - Third Edition
+https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-third-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09377_cover.png
+04/2018
+
+Beginning Server-Side Application Development with Angular
+https://www.packtpub.com/web-development/beginning-server-side-application-development-angular
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c11174.png
+04/2018
+
+JavaScript and JSON Essentials - Second Edition
+https://www.packtpub.com/web-development/javascript-and-json-essentials-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09376_cover.png
+04/2018
+
+ECMAScript Cookbook
+https://www.packtpub.com/web-development/ecmascript-cookbook
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09047_cover.png
+03/2018
+
+Advanced Node.js Development
+https://www.packtpub.com/web-development/advanced-nodejs-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b08381.png
+03/2018
+
+Architecting Angular Applications with Redux, RxJS, and NgRx
+https://www.packtpub.com/web-development/architecting-angular-applications-redux-rxjs-and-ngrx
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07031_cover.png
+03/2018
+
+Vue.js 2 Design Patterns and Best Practices
+https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09397.png
+03/2018
+
+Learn ECMAScript - Second Edition
+https://www.packtpub.com/web-development/learn-ecmascript-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09356.png
+01/2019
+
+Learning Node.js Development
+https://www.packtpub.com/web-development/learning-nodejs-development
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b08380_cover.png
+01/2018
+
+Hands-On Data Structures and Algorithms with JavaScript
+https://www.packtpub.com/web-development/hands-data-structures-and-algorithms-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_8016_0.png
+01/2018
+
+Mastering Node.js - Second Edition
+https://www.packtpub.com/web-development/mastering-nodejs-second-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b04865.png
+12/2017
+
+Vue.js 2.x by Example
+https://www.packtpub.com/application-development/vuejs-2x-example
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07757.png
+12/2017
+
+Learn Penetration Testing
+https://www.packtpub.com/networking-and-servers/learn-penetration-testing
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/2/123_b14193_cover.png
+05/2019
+
+Elasticsearch 7.0 Cookbook - Fourth Edition
+https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-70-cookbook-fourth-edition
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/m/o/mockupb12959.png
+04/2019
+
+Vue CLI 3 Quick Start Guide
+https://www.packtpub.com/web-development/vue-cli-3-quick-start-guide
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789950342cover.png
+05/2019
+
+Learn D3.js
+https://www.packtpub.com/web-development/learn-d3js
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/3/13918_p.png
+05/2019
+
+Building Microservices with JavaScript
+https://www.packtpub.com/web-development/building-microservices-javascript
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c14706low20res.png
+05/2019
+
+The Complete Rust Programming Reference Guide
+https://www.packtpub.com/application-development/complete-rust-programming-reference-guide
+05/2019
