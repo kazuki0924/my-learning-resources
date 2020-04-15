@@ -832,10 +832,6 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/b/ce535da-a523-4ef6-9434-cb8bc9fed503/Yerburgh-TestingVue-HI.png)
 
-- [JUnit in Action, Third Edition](https://www.manning.com/books/junit-in-action-third-edition) - Summer/2020
-
-![](https://images.manning.com/360/480/resize/book/4/8949ed3-ef18-4a91-a5b4-39dd9dcbe2bf/Tudose-JUnit-MEAP-HI.png)
-
 ## Git
 
 - [Git in Practice](https://www.manning.com/books/git-in-practice) - 09/2014
@@ -1282,7 +1278,7 @@ title - release date
 
 ## スクラム
 
-- [スクラム実践入門 ── 成果を生 �� 出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
+- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
 
 ![](https://gihyo.jp/assets/images/cover/2015/9784774172361.jpg)
 
