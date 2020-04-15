@@ -245,6 +245,8 @@ My list of anything related to what I'm studying
 - [Postman](https://www.postman.com/) API Development
 - [Swagger](https://swagger.io/) API Development
 - [Hasura GraphQL](https://hasura.io/) GraphQL
+- [GraphQL Nexus](https://nexus.js.org/) GraphQL Schemas
+- [Prisma](https://www.prisma.io/) Database Toolkit
 - [Postwoman](https://postwoman.io/) API Development
 - [MongoDB](https://www.mongodb.com/) NoSQL
 - [Compass](https://www.mongodb.com/products/compass) GUI for MongoDB
@@ -398,6 +400,16 @@ My list of anything related to what I'm studying
 - CloudFormation https://aws.amazon.com/cloudformation/
 - Cognito https://aws.amazon.com/cognito/
 
+## Other Platforms
+
+- Azure https://azure.microsoft.com/en-us/
+- DigitalOcean https://www.digitalocean.com/
+- 8base https://www.8base.com/
+- Parse https://parseplatform.org/
+- Netlify https://www.netlify.com/
+- IBM Cloud https://www.ibm.com/cloud
+- Heroku https://www.heroku.com/
+
 ## Vue Ecosystem
 
 - [Nuxt.js](https://nuxtjs.org/) Isomorphic / SSR
@@ -469,6 +481,7 @@ Where to find new books:
 
 - [O'Reilly(英語)](https://www.oreilly.com/search/?query=*&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&publishers=O%27Reilly%20Media%2C%20Inc.&sort=publication_date&facet_json=true&page=0)
 - [Manning(英語)](https://www.manning.com/catalog/sort/sort-by-date)
+- [Packt(英語)](https://www.packtpub.com/all-products?product_type_filter=Book&released=Available~Coming%20soon&sortBy=store_prod_us_products_date_of_publication_desc)
 - [impress top gear(日本語)](https://book.impress.co.jp/category/series/topgear/)
 - [WEB+DB PRESS plus(日本語)](https://gihyo.jp/magazine/wdpress/plus)
 
