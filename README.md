@@ -239,7 +239,7 @@ My list of anything related to what I'm studying
 
 - [Node.js](https://nodejs.org/) Node.js
 - [nvm](https://github.com/nvm-sh/nvm) Version Manager
-- [Express](https://www.express.com/) Node.js Framework
+- [Express](https://www.expressjs.com/) Node.js Framework
 - [Deno](https://deno.land/) - JS Runtime
 - [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
 - [NestJS](https://nestjs.com/) Node.js / TypeScript Framework
