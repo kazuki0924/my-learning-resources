@@ -210,7 +210,7 @@ My list of anything related to what I'm studying
 - [Onsen UI](https://onsen.io/) Hybrid
 - [Weex](https://weex.apache.org/) Hybrid
 - [Swiper](https://swiperjs.com/) Mobile Touch Slider
-- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - UI Toolkit
+- [Semantic-UI](https://semantic-ui.com/) - UI Toolkit
 - [Fomantic-UI](https://fomantic-ui.com/) - UI Toolkit
 - [DHTMLX Libraries](https://dhtmlx.com/) - UI Toolkit
 - [linaria](https://linaria.now.sh/) - CSS in JS
