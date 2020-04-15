@@ -10,10 +10,21 @@ My list of anything related to what I'm studying
 ## Courses (Free for a limited time)
 
 - Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
+- [X] https://www.vuemastery.com/courses/intro-to-vue-js/
+- [X] https://www.vuemastery.com/courses/real-world-vue-js/
+- [X] https://www.vuemastery.com/courses/Component-Design-Patterns/ (Early Access)
+- [X] https://www.vuemastery.com/courses/vue-3-essentials/ (Early Access)
+- [X] https://www.vuemastery.com/courses/unit-testing/ (Early Access)
+- [ ] https://www.vuemastery.com/courses/advanced-components/
+- [ ] https://www.vuemastery.com/courses/vue-3-reactivity/  (Early Access)
 
-  - Vue 3 Essentials https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/
-  - Vue 3 Reactivity https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/
-  - Component Design Patterns https://www.vuemastery.com/courses/Component-Design-Patterns/introduction/
+## Vue.js Core from Evan You
+
+- https://frontendmasters.com/teachers/evan-you/
+- https://www.vuemastery.com/courses/advanced-components/
+- https://www.vuemastery.com/courses/vue-3-reactivity/
+- https://egghead.io/podcasts/evan-you-creator-of-vue-js
+- http://www.fullstackradio.com/81
 
 ## Purchased
 
