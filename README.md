@@ -256,9 +256,10 @@ My list of anything related to what I'm studying
 - [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) Encryption
 - [Passport.js](http://www.passportjs.org/) Authentication
 - [Puppeteer](https://pptr.dev/) Browser Automation
-- [Puppeteer Recorder](https://github.com/checkly/puppeteer-recorder) Browser Automation
-- [Nightmare](https://open.segment.com/) Browser Automation
-- [Playwright](https://www.npmjs.com/package/playwright) Browser Automation
+- [Puppeteer Recorder](https://checklyhq.com/docs/puppeteer-recorder/) Browser Automation
+- [Nightmare](https://github.com/segmentio/nightmare) Browser Automation
+- [Daydream](https://github.com/segmentio/daydream) Browser Automation
+- [Playwright](https://github.com/microsoft/playwright) Browser Automation
 - [Socket.IO](https://socket.io/) Real-time
 - [Feathers](https://feathersjs.com/) Back-End Framework / Real-time
 - [Postman](https://www.postman.com/) API Development
@@ -280,6 +281,7 @@ My list of anything related to what I'm studying
 - [MariaDB](https://mariadb.org/) RDB
 - [Redis](https://redis.io/) Key-value Database
 - [Nginx](https://www.nginx.com/) - Web Server
+- [NSQ](https://nsq.io/) - Messaging
 
 ## Web-Development
 
