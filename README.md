@@ -3,7 +3,6 @@ My list of anything related to what I'm studying
 勉強に使ってきた or 使う予定の情報源をまとめた md です
 
 - [bookmarks](#bookmarks)
-- [docs](#docs)
 - [books](#books)
 - [本](#本)
 
@@ -15,8 +14,17 @@ My list of anything related to what I'm studying
 - [X] https://www.vuemastery.com/courses/Component-Design-Patterns/ (Early Access)
 - [X] https://www.vuemastery.com/courses/vue-3-essentials/ (Early Access)
 - [X] https://www.vuemastery.com/courses/unit-testing/ (Early Access)
-- [ ] https://www.vuemastery.com/courses/advanced-components/
-- [ ] https://www.vuemastery.com/courses/vue-3-reactivity/  (Early Access)
+- [X] https://www.vuemastery.com/courses/advanced-components/
+- [X] https://www.vuemastery.com/courses/vue-3-reactivity/  (Early Access)
+- [ ] https://www.vuemastery.com/courses/mastering-vuex/
+- [ ] https://www.vuemastery.com/courses/next-level-vue/
+- Pluralsight https://www.pluralsight.com/ - #FREEapril
+- [ ] https://www.pluralsight.com/courses/aws-nodejs-serverless-framework-using
+- [ ] https://www.pluralsight.com/courses/connecting-amazon-dynamodb
+- [ ] https://www.pluralsight.com/courses/play-by-play-build-serverless-node-web-api
+- [ ] https://www.pluralsight.com/paths/vue
+- [ ] https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda
+- [ ] https://www.pluralsight.com/courses/aws-developer-lambda-deep-dive
 
 ## Vue.js Core from Evan You
 
