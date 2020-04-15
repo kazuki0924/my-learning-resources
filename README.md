@@ -28,11 +28,11 @@ My list of anything related to what I'm studying
 
 ## Vue.js Core from Evan You
 
-- https://frontendmasters.com/teachers/evan-you/
-- https://www.vuemastery.com/courses/advanced-components/
-- https://www.vuemastery.com/courses/vue-3-reactivity/
-- https://egghead.io/podcasts/evan-you-creator-of-vue-js
-- http://www.fullstackradio.com/81
+- [ ] https://frontendmasters.com/teachers/evan-you/
+- [ ] https://www.vuemastery.com/courses/advanced-components/
+- [ ] https://www.vuemastery.com/courses/vue-3-reactivity/
+- [ ] https://egghead.io/podcasts/evan-you-creator-of-vue-js
+- [ ] http://www.fullstackradio.com/81
 
 ## Purchased
 
@@ -52,11 +52,11 @@ My list of anything related to what I'm studying
 
 ## wishlist
 
-- https://www.udemy.com/course/quasarframework/
-- https://www.oreilly.com/library/view/learning-serverless/9781492057000/
-- https://www.manning.com/books/serverless-applications-with-node-js
-- https://www.oreilly.com/library/view/git-for-teams/9781491911204/
-- https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1
+- [ ] https://www.udemy.com/course/quasarframework/
+- [ ] https://www.oreilly.com/library/view/learning-serverless/9781492057000/
+- [ ] https://www.manning.com/books/serverless-applications-with-node-js
+- [ ] https://www.oreilly.com/library/view/git-for-teams/9781491911204/
+- [ ] https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1
 
 ## completed
 
@@ -68,14 +68,14 @@ My list of anything related to what I'm studying
 ## bookmarks
 
 - [dev.to](https://dev.to/) - Dev Community
-- [reddit/node.js](https://www.reddit.com/r/node/) - Dev Community
-- [stackoverflow/node.js](https://stackoverflow.com/questions/tagged/node.js?tab=Newest) - Dev Community
+- [reddit/node.js](https://www.reddit.com/r/node/) - Dev Community / Node.js
+- [stackoverflow/node.js](https://stackoverflow.com/questions/tagged/node.js?tab=Newest) - Dev Community / Node.js
 - [Medium/node.js](https://medium.com/the-node-js-collection) - Dev Community
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Books
-- [Fireship.io](https://fireship.io/) - Front-End / Firebase / Flutter
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos) - Front-End / Firebase / Flutter
+- [Fireship.io](https://fireship.io/) - Hands-On Web Development
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos) - Hands-On Web Development
 - [Node.js/blog](https://nodejs.org/en/blog/) - Node.js
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Best Practices
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Best Practices / Node.js
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Computer Science
 - [Papers we love](http://paperswelove.org/) - Computer Science
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - Career
@@ -83,16 +83,16 @@ My list of anything related to what I'm studying
 - [30 seconds of code/JS](https://www.30secondsofcode.org/js/p/1) - Snippets
 - [bestofjs](https://bestofjs.org/) - JS Ecosystem
 - [stateofjs.com](https://stateofjs.com/) - JS Ecosystem
-- [Product Hunt](https://www.producthunt.com/) - Products
+- [Product Hunt](https://www.producthunt.com/) - Web Development Tools
 - [Airbnb Style Guide](https://github.com/airbnb/javascript) - Best Practices
 - [Serverless Stack](https://serverless-stack.com/) - Best Practices
-- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - JS Fundamentals
-- [Modern JavaScript Tutorial](https://javascript.info/) - JS Fundamentals
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - JS Guides
+- [Modern JavaScript Tutorial](https://javascript.info/) - JS Guides
 - [JavaScript Air](https://javascriptair.com/) - Podcasts
 - [Echo JS](https://echojs.com/) - JS News
 - [Daily JS](https://medium.com/dailyjs) - JS News
-- [Academind Pro](https://academind.com/) - JS Courses
-- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos) - JS Fundamentals
+- [Academind Pro](https://academind.com/) - Hands-On Web Development
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos) - Hands-On Web Development
 - [CSS-Tricks](https://css-tricks.com/) - CSS Guides
 - [codrops](https://tympanus.net/codrops/) - CSS Guides
 - [web.dev](https://web.dev/) - Web Performance
@@ -100,7 +100,7 @@ My list of anything related to what I'm studying
 - [Speaker Deck](https://speakerdeck.com/) - Slides
 - [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos) - Interviews
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Dev Magazines
-- [Scrimba](https://scrimba.com/) - Learning Platform / imba
+- [Scrimba](https://scrimba.com/) - Learning Platform / Scrimba
 - [Udemy](https://www.udemy.com/) - Learning Platform / Videos
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Learning Platform / Interactive
 - [alligator.io](https://alligator.io/) - JS Guides
@@ -122,8 +122,8 @@ My list of anything related to what I'm studying
 - [angularday Youtube Playlist](https://www.youtube.com/results?search_query=angularday&sp=CAISAhAD) - Conferences
 - [DevOps Conference Youtube Playlist](https://www.youtube.com/results?search_query=devops+conference&sp=CAISAhAD) - Conferences
 - [JAMstack conf Youtube Playlist](https://www.youtube.com/results?search_query=JAMstack+conf&sp=CAISAhAD) - Conferences
-- [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos) - Google
-- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) - Google
+- [Google Developers Youtube Channel](https://www.youtube.com/user/GoogleDevelopers/videos) - Google
+- [Google Chrome Developers Youtube Channel](https://www.youtube.com/user/ChromeDevelopers/videos) - Google
 - [Firebase Official Youtube Channel](https://www.youtube.com/user/Firebase/videos) - Google
 - [GitHub Official Youtube Channel](https://www.youtube.com/user/github/videos) - GitHub
 - [AWS re:Invent Youtube Playlist](https://www.youtube.com/results?search_query=AWS+re%3AInvent&sp=CAISAhAD) - AWS
@@ -164,6 +164,8 @@ My list of anything related to what I'm studying
 - [Water.css](https://watercss.netlify.com/) - CSS / Just-add-water
 - [SweetAlert2](https://sweetalert2.github.io/) - Notification
 - [Popper](https://popper.js.org/) - Tooltip
+- [Autosize](http://www.jacklmoore.com/autosize/) - Textarea
+- [PhotoSwipe](https://photoswipe.com/) - Gallery
 - [Happy Hues](https://www.happyhues.co/) - Hues
 - [Color Designer](https://colordesigner.io/gradient-generator) - Hues
 - [animated-css-background-generator](https://wweb.dev/resources/animated-css-background-generator) - Background
@@ -193,26 +195,28 @@ My list of anything related to what I'm studying
 - [CSS WAND](https://www.csswand.dev/) - Animation
 - [vov.css](https://vaibhav111tandon.github.io/vov.css/) - Animation
 - [BOX-SHADOWS.CSS](https://madeas.github.io/box-shadows/) - box-shadow
-- [RFS](https://github.com/twbs/rfs) Responsive Font Sizes
+- [RFS](https://github.com/twbs/rfs) - Responsive Font Sizes
 - [CSSans Pro](https://cssans.pro/) - Font
 - [Typetura](https://typetura.com/) - Typography
 - [CSS Layout](https://csslayout.io/) - Layout
 - [p5](http://p5js.org/) - Canvas
 - [Get Waves](https://getwaves.io/) - SVG
 - [Blobmaker](https://www.blobmaker.app/) - SVG
-- [Chart.js](https://www.chartjs.org/) Chart
-- [ECharts](https://www.echartsjs.com/) Chart
+- [Chart.js](https://www.chartjs.org/) - Chart
+- [ECharts](https://www.echartsjs.com/) - Chart
 - [SurveyJS](https://surveyjs.io/Library) - Survey
 - [Flexbox.ninja](https://flexbox.ninja/) - Case Studies
-- [UIkit](http://getuikit.com/) Lightweight Framework
-- [Alpine.js](https://github.com/alpinejs/alpine) Minimal Framework
-- [Ionic](https://ionicframework.com/) Hybrid
-- [Onsen UI](https://onsen.io/) Hybrid
-- [Weex](https://weex.apache.org/) Hybrid
-- [Swiper](https://swiperjs.com/) Mobile Touch Slider
+- [UIkit](http://getuikit.com/) - Lightweight Framework
+- [Alpine.js](https://github.com/alpinejs/alpine) - Minimal Framework
+- [Ionic](https://ionicframework.com/) - Hybrid Mobile / Cross-Platform
+- [Onsen UI](https://onsen.io/) - Hybrid Mobile / Cross-Platform
+- [Weex](https://weex.apache.org/) - Hybrid Mobile / Cross-Platform
+- [Swiper](https://swiperjs.com/) - Mobile Touch Slider
+- [XScroll](http://xscroll.github.io/) - Mobile Scrolling Framework
 - [Semantic-UI](https://semantic-ui.com/) - UI Toolkit
 - [Fomantic-UI](https://fomantic-ui.com/) - UI Toolkit
 - [DHTMLX Libraries](https://dhtmlx.com/) - UI Toolkit
+- [WeUI](https://github.com/Tencent/weui) - UI Toolkit
 - [linaria](https://linaria.now.sh/) - CSS in JS
 - [styled components](https://styled-components.com/) - CSS in JS
 - [Emotion](https://emotion.sh/) - CSS in JS
@@ -222,186 +226,185 @@ My list of anything related to what I'm studying
 - [Carbon Design System](https://www.carbondesignsystem.com/) - Design System
 - [Eva Design System](https://eva.design/) - Design System
 - [Ant Design](https://ant.design/) - Design System
-- [AMP](https://amp.dev/) - Google
+- [AMP](https://amp.dev/) - Google Project
 - [Diez](https://diez.org/) - Design Token
-- [Axios](https://github.com/axios/axios) HTTP Client
-- [Apollo](https://www.apollographql.com/) GraphQL Client
-- [RxJS](https://rxjs-dev.firebaseapp.com/) State Management
-- [imba](https://www.imba.io/) Programming Language (that compiles to JS)
-- [inVISION](https://www.invisionapp.com/) Prototyping Tool
-- [figma](https://www.figma.com/) Design Tool
-- [Storybook](https://storybook.js.org/) UI Development
-- [Svelte](https://svelte.dev/) Front-end Framework
-- [Sapper](https://sapper.svelte.dev/) Framework for Svelte
-- [webpack](https://webpack.js.org/) Bundler
+- [Axios](https://github.com/axios/axios) - HTTP Client
+- [Apollo](https://www.apollographql.com/) - GraphQL Client
+- [RxJS](https://rxjs-dev.firebaseapp.com/) - State Management
+- [imba](https://www.imba.io/) - Programming Language (that compiles to JS)
+- [inVISION](https://www.invisionapp.com/) - Prototyping Tool
+- [figma](https://www.figma.com/) - Design Tool
+- [Storybook](https://storybook.js.org/) - UI Development
+- [Svelte](https://svelte.dev/) - Front-end Framework
+- [Sapper](https://sapper.svelte.dev/) - Framework for Svelte
+- [webpack](https://webpack.js.org/) - Bundler
 
 ## Back-End
 
-- [Node.js](https://nodejs.org/) Node.js
-- [nvm](https://github.com/nvm-sh/nvm) Version Manager
-- [Express](https://www.expressjs.com/) Node.js Framework
+- [Node.js](https://nodejs.org/) - Node.js
+- [nvm](https://github.com/nvm-sh/nvm) - Version Manager
+- [Express](https://www.expressjs.com/) - Node.js Framework
 - [Deno](https://deno.land/) - JS Runtime
 - [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
-- [NestJS](https://nestjs.com/) Node.js / TypeScript Framework
-- [GraphQL](https://graphql.org/) GraphQL
-- [ServerlessFramework](https://serverless.com/) Serverless
-- [Nodemailer](https://nodemailer.com/) Mailer
-- [mailchimp](https://mailchimp.com/) Mailing Solutions
-- [SendGrid](https://sendgrid.com/) Mailing Solutions
-- [mailgun](https://www.mailgun.com/) Mailing Solutions
-- [News API](https://newsapi.org/) API
-- [Claudia.js](https://claudiajs.com/) Serverless
-- [Firebase](https://firebase.google.com/) Backend Solutions
-- [TypeORM](https://typeorm.io/) ORM
-- [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) Encryption
-- [Passport.js](http://www.passportjs.org/) Authentication
-- [Puppeteer](https://pptr.dev/) Browser Automation
-- [Puppeteer Recorder](https://checklyhq.com/docs/puppeteer-recorder/) Browser Automation
-- [Nightmare](https://github.com/segmentio/nightmare) Browser Automation
-- [Daydream](https://github.com/segmentio/daydream) Browser Automation
-- [Playwright](https://github.com/microsoft/playwright) Browser Automation
-- [Socket.IO](https://socket.io/) Real-time
-- [Feathers](https://feathersjs.com/) Back-End Framework / Real-time
-- [Postman](https://www.postman.com/) API Development
-- [Swagger](https://swagger.io/) API Development
-- [Hasura GraphQL](https://hasura.io/) GraphQL
-- [GraphQL Nexus](https://nexus.js.org/) GraphQL Schemas
-- [Prisma](https://www.prisma.io/) Database Toolkit
-- [Postwoman](https://postwoman.io/) API Development
-- [MongoDB](https://www.mongodb.com/) NoSQL
-- [Compass](https://www.mongodb.com/products/compass) GUI for MongoDB
-- [Mongoose](https://mongoosejs.com/) ODM for MongoDB
-- [PostgreSQL](https://www.postgresql.org/) RDB
-- [Postgres.js](https://github.com/porsager/postgres) PostgreSQL Client
-- [Postgres.app](https://postgresapp.com/) PostgreSQL for Mac Local Development
-- [pgAdmin](https://www.pgadmin.org/) PostgreSQL Tools
-- [ElephantSQL](https://www.elephantsql.com/) GUI for PostgreSQL
-- [MySQL](https://www.mysql.com/) RDB
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) GUI for MySQL
-- [MariaDB](https://mariadb.org/) RDB
-- [Redis](https://redis.io/) Key-value Database
+- [NestJS](https://nestjs.com/) - Node.js / TypeScript Framework
+- [GraphQL](https://graphql.org/) - GraphQL
+- [ServerlessFramework](https://serverless.com/) - Serverless
+- [Nodemailer](https://nodemailer.com/) - Mailer
+- [mailchimp](https://mailchimp.com/) - Mailing Solutions
+- [SendGrid](https://sendgrid.com/) - Mailing Solutions
+- [mailgun](https://www.mailgun.com/) - Mailing Solutions
+- [News API](https://newsapi.org/) - 3rd Party API
+- [Claudia.js](https://claudiajs.com/) - Serverless
+- [TypeORM](https://typeorm.io/) - ORM
+- [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - Encryption
+- [Passport.js](http://www.passportjs.org/) - Authentication
+- [Puppeteer](https://pptr.dev/) - Browser Automation
+- [Puppeteer Recorder](https://checklyhq.com/docs/puppeteer-recorder/) - Browser Automation
+- [Nightmare](https://github.com/segmentio/nightmare) - Browser Automation
+- [Daydream](https://github.com/segmentio/daydream) - Browser Automation
+- [Playwright](https://github.com/microsoft/playwright) - Browser Automation
+- [Socket.IO](https://socket.io/) - Real-time
+- [Feathers](https://feathersjs.com/) - Back-End Framework / Real-time
+- [Postman](https://www.postman.com/) - API Development
+- [Swagger](https://swagger.io/) - API Development
+- [Hasura GraphQL](https://hasura.io/) - GraphQL Server
+- [GraphQL Nexus](https://nexus.js.org/) - GraphQL Schemas
+- [Prisma](https://www.prisma.io/) - Database Toolkit
+- [Postwoman](https://postwoman.io/) - API Development
+- [MongoDB](https://www.mongodb.com/) - NoSQL
+- [Compass](https://www.mongodb.com/products/compass) - GUI for MongoDB
+- [Mongoose](https://mongoosejs.com/) - ODM for MongoDB
+- [PostgreSQL](https://www.postgresql.org/) - RDB
+- [Postgres.js](https://github.com/porsager/postgres) - PostgreSQL Client
+- [Postgres.app](https://postgresapp.com/) - PostgreSQL for Mac Local Development
+- [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Tools
+- [ElephantSQL](https://www.elephantsql.com/) - GUI for PostgreSQL
+- [MySQL](https://www.mysql.com/) - RDB
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) - GUI for MySQL
+- [MariaDB](https://mariadb.org/) - RDB
+- [Redis](https://redis.io/) - Key-value Database
 - [Nginx](https://www.nginx.com/) - Web Server
 - [NSQ](https://nsq.io/) - Messaging
 
 ## Web-Development
 
 - [TypeScript](https://www.typescriptlang.org/) - JS Superset
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) VS Code Extensions
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - VS Code Extensions
 - [Chrome](https://www.google.com/chrome/) - Browser
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Chrome Extensions
-- [Visual Studio Code](https://code.visualstudio.com/) Code Editor
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) VS Code Extensions
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) VS Code Extensions
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) VS Code Extensions
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) VS Code Extensions
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) VS Code Extensions
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) VS Code Extensions
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) VS Code Extensions
-- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) VS Code Extensions
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) VS Code Extensions
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) VS Code Extensions
-- [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) VS Code Extensions
-- [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) VS Code Extensions
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) VS Code Extensions
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) VS Code Extensions
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) VS Code Extensions
-- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) VS Code Extensions
-- [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) VS Code Extensions
-- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) VS Code Extensions
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) VS Code Extensions
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) VS Code Extensions
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) VS Code Extensions
-- [Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) VS Code Extensions
-- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) VS Code Extensions
-- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code Extensions
-- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) VS Code Extensions
-- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) VS Code Extensions
-- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) VS Code Extensions
-- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) VS Code Extensions
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code Extensions
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) VS Code Extensions
-- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) VS Code Extensions
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) VS Code Extensions
-- [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) VS Code Extensions
-- [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) VS Code Extensions
-- [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) VS Code Extensions
-- [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) VS Code Extensions
-- [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) VS Code Extensions
-- [docs-linting](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-linting) VS Code Extensions
-- [docs-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) VS Code Extensions
-- [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) VS Code Extensions
-- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) VS Code Extensions
-- [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) VS Code Extensions
-- [git](https://git-scm.com/) Git
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) VS Code Extensions
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) VS Code Extensions
-- [GitHub](https://github.com/) Source Repository
-- [GitHub Desktop](https://desktop.github.com/) GitHub
-- [Gitpod](https://www.gitpod.io/) GitHub / Cloud IDE
+- [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - VS Code Extensions
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - VS Code Extensions
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - VS Code Extensions
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - VS Code Extensions
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - VS Code Extensions
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - VS Code Extensions
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - VS Code Extensions
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - VS Code Extensions
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - VS Code Extensions
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - VS Code Extensions
+- [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) - VS Code Extensions
+- [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - VS Code Extensions
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - VS Code Extensions
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - VS Code Extensions
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - VS Code Extensions
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - VS Code Extensions
+- [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - VS Code Extensions
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - VS Code Extensions
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - VS Code Extensions
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - VS Code Extensions
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code Extensions
+- [Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) - VS Code Extensions
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) - VS Code Extensions
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - VS Code Extensions
+- [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - VS Code Extensions
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - VS Code Extensions
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - VS Code Extensions
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - VS Code Extensions
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - VS Code Extensions
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS Code Extensions
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - VS Code Extensions
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - VS Code Extensions
+- [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) - VS Code Extensions
+- [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code Extensions
+- [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) - VS Code Extensions
+- [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) - VS Code Extensions
+- [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) - VS Code Extensions
+- [docs-linting](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-linting) - VS Code Extensions
+- [docs-images](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) - VS Code Extensions
+- [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) - VS Code Extensions
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - VS Code Extensions
+- [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) - VS Code Extensions
+- [git](https://git-scm.com/) - Git
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - VS Code Extensions
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - VS Code Extensions
+- [GitHub](https://github.com/) - Source Repository
+- [GitHub Desktop](https://desktop.github.com/) - GitHub
+- [Gitpod](https://www.gitpod.io/) - GitHub / Cloud IDE
 - [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki/related) - Chrome Extensions
-- [Theia](https://theia-ide.org/) Cloud IDE
-- [GitHub Actions](https://github.com/features/actions) Dev Workflow Automation / CI/CD
-- [GitHub CLI](https://cli.github.com/) GitHub
+- [Theia](https://theia-ide.org/) - Cloud IDE
+- [GitHub Actions](https://github.com/features/actions) - Dev Workflow Automation / CI/CD
+- [GitHub CLI](https://cli.github.com/) - GitHub
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - VS Code Extensions
 - [GitLab](https://gitlab.com/) - Source Repository / Dev Workflow
 - [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
-- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) VS Code Extensions
-- [Gitlab Notifications](https://marketplace.visualstudio.com/items?itemName=logerfo.gitlab-notifications) VS Code Extensions
-- [Docker](https://www.docker.com/) Container
-- [Pulumi](https://www.pulumi.com/) Infrastructure as Code
-- [Terraform](https://www.terraform.io/) Infrastructure as Code
-- [Oh My Zsh](https://ohmyz.sh/) Zsh
-- [iTerm2](https://www.iterm2.com/) Terminal
-- [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) Cloud IDE
-- [Elasticsearch](https://www.elastic.co/elasticsearch/) Search / Analytics
-- [brave](https://brave.com/) Browser / Debugging for privacy-conscious environment
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) Browser / Debugging for CSS
-- [JAMstack](https://jamstack.org/) Solution Stack
-- [GRANDstack](https://grandstack.io/) Solution Stack
-- [MEAN](<https://en.wikipedia.org/wiki/MEAN_(solution_stack)>) Solution Stack
-- [Prettier](https://prettier.io/) Formatter
-- [ESLint](https://eslint.org/) Linter
-- [Homebrew](https://brew.sh/) Package Manager
-- [CircleCI](https://circleci.com/) CI/CD
-- [Travis CI](https://travis-ci.com/) CI/CD
-- [Stripe](https://stripe.com/) Payments
-- [Paypal](https://developer.paypal.com/classic-home/) Payments
-- [Google Identity Platform](https://developers.google.com/identity) Authentication
-- [LINE Login](https://developers.line.biz/en/services/line-login/) Authentication
-- [LINE Pay](https://pay.line.me/portal/global/main) LINE Pay
-- [Auth0](https://auth0.com/) Auth0
-- [algolia](https://www.algolia.com/) Searching
-- [Uppy](https://uppy.io/) Uploading
-- [Dialogflow](https://dialogflow.com/) Chatbot
-- [Pusher](https://pusher.com/) Real-time
-- [reCAPTHA](https://developers.google.com/recaptcha) Security
-- [GitDuck](https://gitduck.com/) Code Sharing
-- [zapier](https://zapier.com/) Workflow Automation
-- [n8n.io](https://n8n.io/) Workflow Automation
-- [Jest](https://jestjs.io/) Testing
-- [Cypress](https://www.cypress.io/) E2E Testing
-- [slack](https://slack.com/) Collaboration
-- [Rectangle](https://rectangleapp.com/) Resizing windows
-- [Clipy](https://github.com/Clipy/Clipy) Clipboard extension
-- [GIPHY](https://developers.giphy.com/) GIFs
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) - VS Code Extensions
+- [Gitlab Notifications](https://marketplace.visualstudio.com/items?itemName=logerfo.gitlab-notifications) - VS Code Extensions
+- [Docker](https://www.docker.com/) - Container
+- [Pulumi](https://www.pulumi.com/) - Infrastructure as Code
+- [Terraform](https://www.terraform.io/) - Infrastructure as Code
+- [Oh My Zsh](https://ohmyz.sh/) - Zsh
+- [iTerm2](https://www.iterm2.com/) - Terminal
+- [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) - Cloud IDE
+- [Elasticsearch](https://www.elastic.co/elasticsearch/) - Search / Analytics
+- [brave](https://brave.com/) - Browser / Debugging for privacy-conscious environment
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Browser / Debugging for CSS
+- [JAMstack](https://jamstack.org/) - Solution Stack
+- [GRANDstack](https://grandstack.io/) - Solution Stack
+- [MEAN](<https://en.wikipedia.org/wiki/MEAN_(solution_stack)>) - Solution Stack
+- [Prettier](https://prettier.io/) - Formatter
+- [ESLint](https://eslint.org/) - Linter
+- [Homebrew](https://brew.sh/) - Package Manager
+- [CircleCI](https://circleci.com/) - CI/CD
+- [Travis CI](https://travis-ci.com/) - CI/CD
+- [Stripe](https://stripe.com/) - Payments
+- [Paypal](https://developer.paypal.com/classic-home/) - Payments
+- [Google Identity Platform](https://developers.google.com/identity) - Authentication
+- [LINE Login](https://developers.line.biz/en/services/line-login/) - Authentication
+- [LINE Pay](https://pay.line.me/portal/global/main) - LINE Pay
+- [Auth0](https://auth0.com/) - Auth0
+- [algolia](https://www.algolia.com/) - Searching
+- [Uppy](https://uppy.io/) - Uploading
+- [Dialogflow](https://dialogflow.com/) - Chatbot
+- [Pusher](https://pusher.com/) - Real-time
+- [reCAPTHA](https://developers.google.com/recaptcha) - Security
+- [GitDuck](https://gitduck.com/) - Code Sharing
+- [zapier](https://zapier.com/) - Workflow Automation
+- [n8n.io](https://n8n.io/) - Workflow Automation
+- [Jest](https://jestjs.io/) - Testing
+- [Cypress](https://www.cypress.io/) - E2E Testing
+- [slack](https://slack.com/) - Collaboration
+- [Rectangle](https://rectangleapp.com/) - Resizing windows
+- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension
+- [GIPHY](https://developers.giphy.com/) - GIFs
 
 ## Google Cloud Platform
 
-- [Cloud Run](https://cloud.google.com/run) Knative
-- [Container Registry](https://cloud.google.com/container-registry/) Repository
-- [Cloud Build](https://cloud.google.com/cloud-build/) CI/CD
-- [Cloud SQL](https://cloud.google.com/sql/) Managed RDB
-- [Cloud Storage](https://cloud.google.com/storage/) Object Storage
-- [App Engine](https://cloud.google.com/appengine/) PaaS
-- [BigQuery](https://cloud.google.com/bigquery) Data Warehouse
-- [PubSub](https://cloud.google.com/pubsub) Pub/Sub
-- [Operations](https://cloud.google.com/products/operations) Analysis
+- [Cloud Run](https://cloud.google.com/run) - Knative
+- [Container Registry](https://cloud.google.com/container-registry/) - Repository
+- [Cloud Build](https://cloud.google.com/cloud-build/) - CI/CD
+- [Cloud SQL](https://cloud.google.com/sql/) - Managed RDB
+- [Cloud Storage](https://cloud.google.com/storage/) - Object Storage
+- [App Engine](https://cloud.google.com/appengine/) - PaaS
+- [BigQuery](https://cloud.google.com/bigquery) - Data Warehouse
+- [PubSub](https://cloud.google.com/pubsub) - Pub/Sub
+- [Operations](https://cloud.google.com/products/operations) - Analysis
 - [AutoML](https://cloud.google.com/automl) - ML
-- [Dataflow](https://cloud.google.com/dataflow) Cloud Computing
+- [Dataflow](https://cloud.google.com/dataflow) - Cloud Computing
 
 ## Firebase
 
-- [Firebase](https://firebase.google.com/) BaaS
+- [Firebase](https://firebase.google.com/) - BaaS
 - [Firestore](https://firebase.google.com/docs/firestore) - NoSQL
 - [Cloud Functions for Firebase](https://firebase.google.com/docs/functions) - Serverless
 - [Cloud Storage for Firebase](https://firebase.google.com/docs/storage) - Object Storage
@@ -433,33 +436,34 @@ My list of anything related to what I'm studying
 
 ## Vue Ecosystem
 
-- [Nuxt.js](https://nuxtjs.org/) Isomorphic / SSR
-- [Quasar](https://quasar.dev/) Hybrid
-- [vue-cli](https://cli.vuejs.org/) CLI
+- [Nuxt.js](https://nuxtjs.org/) - Isomorphic / SSR
+- [Quasar](https://quasar.dev/) - Hybrid Mobile / Cross-Platform
+- [vue-cli](https://cli.vuejs.org/) - CLI
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Debugging Tools
-- [Vetur](https://vuejs.github.io/vetur/) VS Code Extensions
-- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) VS Code Extensions
-- [vue-router](http://router.vuejs.org/) Router
-- [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin) Admin
+- [Vetur](https://vuejs.github.io/vetur/) - VS Code Extensions
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) - VS Code Extensions
+- [vue-router](http://router.vuejs.org/) - Router
+- [Vue Element Admin](https://github.com/PanJiaChen/vue-element-admin) - Admin
+- [Vuestic Admin](https://github.com/epicmaxco/vuestic-admin) - Admin
 - [Vuex](https://vuex.vuejs.org/) - State Management
-- [Vuelidate](https://github.com/vuelidate/vuelidate) - Validation
+- [Vuelidate](https://vuelidate.js.org/) - Validation
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) - Form
 - [vue-resource](https://github.com/pagekit/vue-resource) - HTTP Client
 - [Vue Apollo](https://vue-apollo.netlify.com/) - GraphQL Client
 - [Vuefire](https://vuefire.vuejs.org/) - Firebase
-- [VuePress](https://vuepress.vuejs.org/) SSG
-- [Gridsome](https://gridsome.org/) SSG
-- [Buefy](https://buefy.org/) Bulma
+- [VuePress](https://vuepress.vuejs.org/) - SSG
+- [Gridsome](https://gridsome.org/) - SSG
+- [Buefy](https://buefy.org/) - Bulma
 - [vuesax](https://lusaxweb.github.io/vuesax/) - UI Toolkit
 - [Element](https://element.eleme.io/) - UI Toolkit
 - [iView](http://iview.talkingdata.com/) - UI Toolkit
 - [Vuetify](https://vuetifyjs.com/) - Material Design
 - [Vue Material](https://vuematerial.io/) - Material Design
-- [Ant Design Vue](https://antdv.com/) - Ant Design
-- [Carbon Components Vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design
-- [Vant](https://youzan.github.io/) - Mobile UI
-- [vux](https://vux.li/) - Mobile UI
-- [Mint UI](http://mint-ui.github.io/) - Mobile UI
+- [Ant Design Vue](https://antdv.com/docs/vue/introduce/) - Ant Design
+- [Carbon Components Vue](http://vue.carbondesignsystem.com/?path=/story/welcome--default) - Carbon Design
+- [Vant](https://youzan.github.io/vant/#/en-US/) - Mobile UI
+- [vux](https://github.com/airyland/vux) - Mobile UI
+- [Mint UI](http://mint-ui.github.io/#!/en) - Mobile UI
 - [BootstrapVue](https://bootstrap-vue.js.org/) - Bootstrap
 - [PrimeVue](https://primefaces.org/primevue/) - Prime
 - [Epic Spinners](https://epic-spinners.epicmax.co/) - Spinners
@@ -469,15 +473,15 @@ My list of anything related to what I'm studying
 - [Angular](https://angular.io/)
 - [Angular CLI](https://cli.angular.io/) - CLI
 - [Angury](https://augury.rangle.io/) - Debugging Tools
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) VS Code Extensions
-- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) VS Code Extensions
-- [ngx-admin](https://bestofjs.org/projects/ngx-admin) admin
-- [NGXS](http://ngxs.io/) State Management
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - VS Code Extensions
+- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - VS Code Extensions
+- [ngx-admin](https://bestofjs.org/projects/ngx-admin) - Admin
+- [NGXS](http://ngxs.io/) - State Management
 - [NgRx](https://ngrx.io/) - State Management
-- [AngularFire](https://firebaseopensource.com/projects/angular/angularfire2) Firebase
-- [Scully](https://github.com/scullyio/scully) SSG
+- [AngularFire](https://firebaseopensource.com/projects/angular/angularfire2) - Firebase
+- [Scully](https://github.com/scullyio/scully) - SSG
 - [Apollo Angular](http://apollographql.com/docs/angular/) - GraphQL Client
-- [Angular Universal](https://github.com/angular/universal) SSR
+- [Angular Universal](https://github.com/angular/universal) - SSR
 - [Nebular](https://akveo.github.io/nebular/) - Eva Design
 - [Clarity Design System](https://clarity.design/) - Clarity Design
 - [NG-ZORRO](https://ng.ant.design/) - Ant Design
