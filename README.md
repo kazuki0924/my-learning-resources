@@ -1018,7 +1018,7 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781491902431/250w/)
 
-## Web Framework and Technology
+## Web Framework / Web Technology
 
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - 09/2018
 
@@ -1028,9 +1028,28 @@ title - release date
 
 ![](https://www.safaribooksonline.com/library/cover/9781491997239/250w/)
 
+- [Learn Nuxt.js](https://www.packtpub.com/web-development/learn-nuxt-js) - 06/2020
+
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789952698-original.jpeg)
+
+- [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem) - 11/2019
+![](https://www.safaribooksonline.com/library/cover/9781939902597/250w/)
+
+- [Angular in Action](https://www.manning.com/books/angular-in-action) - 03/2018
+
+![](https://images.manning.com/360/480/resize/book/d/429f68a-5162-4798-853e-4cb04f91bc63/Wilken-Angular-HI.png)
+
 - [Angular: Up and Running](https://www.oreilly.com/library/view/angular-up-and/9781491999820/) - 06/2018
 
 ![](https://www.safaribooksonline.com/library/cover/9781491999820/250w/)
+
+- [The Angular Workshop](https://www.packtpub.com/web-development/the-angular-workshop] - 06/2020
+
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838645533-original.jpeg)
+
+- [Angular 8 for Enterprise-Ready Web Applications - Second Edition](https://www.packtpub.com/web-development/angular-8-enterprise-ready-web-applications-second-edition) - 04/2020
+
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b14094_mockupcover.png)
 
 - [RxJS in Action](https://www.manning.com/books/rxjs-in-action) - 07/2017
 
@@ -1039,6 +1058,13 @@ title - release date
 - [React Quickly](https://www.manning.com/books/react-quickly) - 08/2017
 
 ![](https://images.manning.com/360/480/resize/book/4/049be81-e8c1-4618-b444-28b45ee8e477/Mardan_RQ_hires_fc.png)
+
+- [Web Development with Node and Express, 2nd Edition](https://www.oreilly.com/library/view/web-development-with/9781492053507/) - 11/2019
+
+![](https://www.safaribooksonline.com/library/cover/9781492053507/250w/)
+
+- [Nest.js: A Progressive Node.js Framework](https://www.packtpub.com/programming/nest-js-a-progressive-node-js-framework) - 11/2019
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781800204737-original.png)
 
 - [Express in Action](https://www.manning.com/books/express-in-action) - 04/2016
 
@@ -1052,9 +1078,9 @@ title - release date
 
 ![](https://images.manning.com/360/480/resize/book/8/7e34078-f701-4a72-85fd-9fc386c20102/Farrell-WebC-HI.png)
 
-- [Web Development with Node and Express, 2nd Edition](https://www.oreilly.com/library/view/web-development-with/9781492053507/) - 11/2019
+- [Learn Webpack](https://www.packtpub.com/web-development/learn-webpack) - 06/2020
 
-![](https://www.safaribooksonline.com/library/cover/9781492053507/250w/)
+![](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789954401-original.jpeg)
 
 ## Mobile Web
 
@@ -1366,18 +1392,6 @@ title - release date
 
 ![](https://www.seshop.com/static/images/product/20245/L.png)
 
-The Angular Workshop
-https://www.packtpub.com/web-development/the-angular-workshop
-06/2020
-
-Learn Nuxt.js
-https://www.packtpub.com/web-development/learn-nuxt-js
-06/2020
-
-Learn Webpack
-https://www.packtpub.com/web-development/learn-webpack
-06/2020
-
 Mastering AWS CloudFormation
 https://www.packtpub.com/cloud-networking/mastering-aws-cloudformation
 05/2020
@@ -1389,10 +1403,6 @@ https://www.packtpub.com/networking-and-servers/hands-web-penetration-testing-me
 Learn SQL Database Programming
 https://www.packtpub.com/data/learn-sql-database-programming
 05/2020
-
-Angular 8 for Enterprise-Ready Web Applications - Second Edition
-https://www.packtpub.com/web-development/angular-8-enterprise-ready-web-applications-second-edition
-04/2020
 
 40 Algorithms Every Programmer Should Know
 https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know
@@ -1446,15 +1456,6 @@ https://www.packtpub.com/web-development/the-html-and-css-workshop
 https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838824532-original.png
 11/2019
 
-Nest.js: A Progressive Node.js Framework
-https://www.packtpub.com/programming/nest-js-a-progressive-node-js-framework
-https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781800204737-original.png
-11/2019
-
-Vue.js: Understanding its Tools and Ecosystem
-https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem
-11/2019
-
 Hands-On Machine Learning with TensorFlow.js
 https://www.packtpub.com/data/hands-on-machine-learning-with-tensorflow-js
 https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838821739-original.jpeg
@@ -1468,11 +1469,6 @@ https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05e
 Learning DevOps
 https://www.packtpub.com/cloud-networking/learning-devops
 https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838642730-original.jpeg
-10/2019
-
-Building Forms with Vue.js
-https://www.packtpub.com/business-other/building-forms-with-vue-js
-https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg
 10/2019
 
 Elasticsearch 7 Quick Start Guide
@@ -2081,3 +2077,8 @@ https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05e
 The Complete Rust Programming Reference Guide
 https://www.packtpub.com/application-development/complete-rust-programming-reference-guide
 05/2019
+
+Building Forms with Vue.js
+https://www.packtpub.com/business-other/building-forms-with-vue-js
+https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg
+10/2019
