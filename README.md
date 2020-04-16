@@ -191,6 +191,8 @@ My list of anything related to what I'm studying
 - [Popmotion](https://popmotion.io/) - Animation
 - [CSS Animo](https://cssanimo.netlify.com/) - Animation
 - [Animate.css](https://daneden.github.io/animate.css/) - Animation
+- [GSAP](https://greensock.com/gsap/) - Animation
+- [Velocity.js](http://velocityjs.org/) - Animation
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - Animation
 - [CSS WAND](https://www.csswand.dev/) - Animation
 - [vov.css](https://vaibhav111tandon.github.io/vov.css/) - Animation
