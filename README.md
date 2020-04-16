@@ -7,6 +7,7 @@ My list of anything related to what I'm studying
 - [本](#本)
 
 https://www.udemy.com/course/aws-lambda-serverless-architecture/
+
 https://www.udemy.com/course/dynamodb/
 
 ## Courses (Free for a limited time)
