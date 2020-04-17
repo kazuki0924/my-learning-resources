@@ -106,12 +106,17 @@ My list of anything related to what I'm studying
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Dev Magazines
 - [Scrimba](https://scrimba.com/) - Learning Platform / Scrimba
 - [Udemy](https://www.udemy.com/) - Learning Platform / Videos
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Learning Platform / Interactive
+- [Pluralsight](https://app.pluralsight.com/) - Learning Platform / Videos
+- [Frontend Masters](https://frontendmasters.com/) - Learning Platform / Videos / Front-End
+- [The App Brewery](https://www.appbrewery.co/) - Learning Platform / Videos / Mobile
+- [Vue Mastery](https://www.vuemastery.com/)- Learning Platform / Videos / Vue.js
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Learning Platform / Interactive / Front-End
+- [Secure Code Warrior](https://securecodewarrior.com/) - Learning Platform / Interactive / Security
+- [Progate](https://prog-8.com/) - Learning Platform / Interactive
 - [alligator.io](https://alligator.io/) - JS Guides
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/videos) - JS Guides
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - JS Guides
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - UI/UX Guides
-- [Frontend Masters](https://frontendmasters.com/) - JS Guides
 - [JSconf Youtube Playlist](https://www.youtube.com/results?search_query=JSconf&sp=CAISAhAD) - Conferences
 - [NodeConf Youtube Playlist](https://www.youtube.com/results?search_query=nodeconf&sp=CAISAhAD) - Conferences
 - [Node + JS Interactive Youtube Playlist](https://www.youtube.com/results?search_query=Node+%2B+JS+Interactive&sp=CAISAhAD) - Conferences
@@ -157,7 +162,7 @@ My list of anything related to what I'm studying
 - [Gizmodo](https://www.gizmodo.jp/) - ガジェット
 - [TechCrunch Japan](https://jp.techcrunch.com/) - スタートアップ
 
-## Front-End
+## Front-End / Client-Side
 
 - [Bulma](https://bulma.io/) - CSS Framework / Flexbox
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
@@ -169,6 +174,7 @@ My list of anything related to what I'm studying
 - [SweetAlert2](https://sweetalert2.github.io/) - Notification
 - [Popper](https://popper.js.org/) - Tooltip
 - [Autosize](http://www.jacklmoore.com/autosize/) - Textarea
+- [NProgress.js](https://ricostacruz.com/nprogress/) - Progress Bar
 - [PhotoSwipe](https://photoswipe.com/) - Gallery
 - [Happy Hues](https://www.happyhues.co/) - Hues
 - [Color Designer](https://colordesigner.io/gradient-generator) - Hues
@@ -196,6 +202,7 @@ My list of anything related to what I'm studying
 - [CSS Animo](https://cssanimo.netlify.com/) - Animation
 - [Animate.css](https://daneden.github.io/animate.css/) - Animation
 - [GSAP](https://greensock.com/gsap/) - Animation
+- [anime.js](https://animejs.com/) - Animation
 - [Velocity.js](http://velocityjs.org/) - Animation
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/) - Animation
 - [CSS WAND](https://www.csswand.dev/) - Animation
@@ -219,6 +226,13 @@ My list of anything related to what I'm studying
 - [Weex](https://weex.apache.org/) - Hybrid Mobile / Cross-Platform
 - [Swiper](https://swiperjs.com/) - Mobile Touch Slider
 - [XScroll](http://xscroll.github.io/) - Mobile Scrolling Framework
+- [Cordova](https://cordova.apache.org/) - Web Technology to Mobile
+- [Adobe PhoneGap](https://phonegap.com/) - Web Technology to Mobile
+- [capacitor](https://capacitor.ionicframework.com/) - Web Technology to Mobile
+- [Framework7](https://github.com/framework7io/framework7/) - Web Technology to Mobile
+- [Flutter](https://flutter.dev/) - Hybrid Mobile / Cross-Platform
+- [Dart](https://dart.dev/) - Programming Language / Google Project
+- [AngularDart](https://angulardart.dev/) - Dart / Front-End Framework
 - [Semantic-UI](https://semantic-ui.com/) - UI Toolkit
 - [Fomantic-UI](https://fomantic-ui.com/) - UI Toolkit
 - [DHTMLX Libraries](https://dhtmlx.com/) - UI Toolkit
@@ -240,10 +254,13 @@ My list of anything related to what I'm studying
 - [imba](https://www.imba.io/) - Programming Language (that compiles to JS)
 - [inVISION](https://www.invisionapp.com/) - Prototyping Tool
 - [figma](https://www.figma.com/) - Design Tool
+- [Adobe Xd](https://www.adobe.com/products/xd.html) - Design Tool
 - [Storybook](https://storybook.js.org/) - UI Development
-- [Svelte](https://svelte.dev/) - Front-end Framework
-- [Sapper](https://sapper.svelte.dev/) - Framework for Svelte
+- [Svelte](https://svelte.dev/) - Front-end Framework / Web Components
+- [Sapper](https://sapper.svelte.dev/) - Svelte / Front-end Framework
 - [webpack](https://webpack.js.org/) - Bundler
+- [The Front-End Checklist](https://frontendchecklist.io/) - Checklist
+- [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/) - BEM / Cheat Sheet
 
 ## Back-End
 
@@ -318,6 +335,10 @@ My list of anything related to what I'm studying
 - [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - VS Code Extensions
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - VS Code Extensions
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - VS Code Extensions
+- [JavaScript Comment Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-comment) - VS Code Extensions
+- [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) - VS Code Extensions
+- [Better Comment](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.bettercomment) - VS Code Extensions
+- [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) - VS Code Extensions
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - VS Code Extensions
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code Extensions
 - [Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) - VS Code Extensions
@@ -473,6 +494,9 @@ My list of anything related to what I'm studying
 - [BootstrapVue](https://bootstrap-vue.js.org/) - Bootstrap
 - [PrimeVue](https://primefaces.org/primevue/) - Prime
 - [Epic Spinners](https://epic-spinners.epicmax.co/) - Spinners
+- [Vue-Multiselect](https://vue-multiselect.js.org/) - Multiselect
+- [vue-quick-menu](https://ashleylv.github.io/vue-quick-menu/index.html#/) - Quick Menu
+- [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker?ref=madewithvuejs.com) - Datepicker
 
 ## Angular Ecosystem
 
