@@ -6,9 +6,6 @@ My list of anything related to what I'm studying
 - [books](#books)
 - [本](#本)
 
-https://www.udemy.com/course/aws-lambda-serverless-architecture/
-https://www.udemy.com/course/dynamodb/
-
 ## Courses (Free for a limited time)
 
 - Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
@@ -57,6 +54,8 @@ https://www.udemy.com/course/dynamodb/
 
 ## wishlist
 
+- [ ] https://www.udemy.com/course/aws-lambda-serverless-architecture/
+- [ ] https://www.udemy.com/course/dynamodb/
 - [ ] https://www.udemy.com/course/quasarframework/
 - [ ] https://www.oreilly.com/library/view/learning-serverless/9781492057000/
 - [ ] https://www.manning.com/books/serverless-applications-with-node-js
@@ -521,7 +520,7 @@ title - release date
 
 ## Serverless
 
-- [Learning Serverless](https://www.oreilly.com/library/view/learning-serverless/9781492057000/) 11/2020
+- [Learning Serverless](https://www.oreilly.com/library/view/learning-serverless/9781492057000/) - 11/2020
 
 <img src="https://www.safaribooksonline.com/library/cover/9781492057000/250w/" />
 
@@ -583,7 +582,7 @@ title - release date
 
 <img src="https://images.manning.com/360/480/resize/book/b/20ddcc2-7c20-4d7b-aeac-ca11d2db279e/Geewax-GoogleCP-HI.png" width="250"/>
 
-- [Architecting for Scale, 2nd Edition](https://www.oreilly.com/library/view/architecting-for-scale/9781492057161/) 03/2020
+- [Architecting for Scale, 2nd Edition](https://www.oreilly.com/library/view/architecting-for-scale/9781492057161/) - 03/2020
 
 <img src="https://www.safaribooksonline.com/library/cover/9781492057161/250w/" />
 
@@ -607,7 +606,7 @@ title - release date
 
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) - 10/2019
 
-<img src="https://images.manning.com/360/480/resize/book/9/9a102d1-8e4d-4f20-a095-c60ca54fc5e6/Nickoloff-Docker-2ed-RGB.jpg)
+<img src="https://images.manning.com/360/480/resize/book/9/9a102d1-8e4d-4f20-a095-c60ca54fc5e6/Nickoloff-Docker-2ed-RGB.jpg" width="250"/>
 
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) - 02/2019
 
@@ -655,7 +654,7 @@ title - release date
 
 <img src="https://images.manning.com/360/480/resize/book/4/5497535-2cee-4a01-8089-ad49bca276b6/DeVore_RAD_hires.png" width="250"/>
 
-- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 10/2016
+- [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) - 10/2016
 
 <img src="https://images.manning.com/360/480/resize/book/5/77559c2-48c1-4197-9e89-b8abd768b9d2/Ghosh_FRDM_hires.png" width="250"/>
 
@@ -1035,16 +1034,15 @@ title - release date
 
 - [Learn Nuxt.js](https://www.packtpub.com/web-development/learn-nuxt-js) - 06/2020
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789952698-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789952698-original.jpeg" width="250"/>
 
 - [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem) - 11/2019
--
 
 <img src="https://www.safaribooksonline.com/library/cover/9781939902597/250w/" />
 
 - [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest) - 10/2019
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839219689-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839219689-original.jpeg" width="250"/>
 
 - [Full-Stack Web Development with Vue.js and Node](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-node) - 12/2018
 
@@ -1063,12 +1061,10 @@ title - release date
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781786468093_new.png" width="250"/>
 
 - [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) - 10/2018
--
 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11251.png" width="250"/>
 
 - [VuePress Quick Start Guide](https://www.packtpub.com/web-development/vuepress-quick-start-guide) - 09/2018
--
 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover20-20copy_11693.png" width="250"/>
 
@@ -1086,7 +1082,7 @@ title - release date
 
 - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js) - 10/2019
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg" width="250"/>
 
 - [Angular in Action](https://www.manning.com/books/angular-in-action) - 03/2018
 
@@ -1098,7 +1094,7 @@ title - release date
 
 - [The Angular Workshop](https://www.packtpub.com/web-development/the-angular-workshop) - 06/2020
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838645533-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838645533-original.jpeg" width="250"/>
 
 - [Angular 8 for Enterprise-Ready Web Applications - Second Edition](https://www.packtpub.com/web-development/angular-8-enterprise-ready-web-applications-second-edition) - 04/2020
 
@@ -1106,11 +1102,11 @@ title - release date
 
 - [Angular Projects](https://www.packtpub.com/web-development/angular-projects) - 09/2019
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838559359-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838559359-original.jpeg" width="250"/>
 
 - [Web Development with Angular and Bootstrap - Third Edition](https://www.packtpub.com/web-development/web-development-angular-and-bootstrap-third-edition) - 08/2019
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788838108-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781788838108-original.jpeg" width="250"/>
 
 - [Building Large-Scale Web Applications with Angular](https://www.packtpub.com/web-development/building-large-scale-web-applications-angular) - 12/2018
 
@@ -1121,20 +1117,18 @@ title - release date
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b06169_cover.png" width="250"/>
 
 - [Architecting Angular Applications with Redux, RxJS, and NgRx](https://www.packtpub.com/web-development/architecting-angular-applications-redux-rxjs-and-ngrx) - 03/2018
-  https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07031_cover.png
 
-* [Mastering Angular Components - Second Edition](https://www.packtpub.com/web-development/mastering-angular-components-second-edition) - 07/2018
-*
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07031_cover.png" width="250"/>
+
+- [Mastering Angular Components - Second Edition](https://www.packtpub.com/web-development/mastering-angular-components-second-edition) - 07/2018
 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b07253_mockupcover.png" width="250"/>
 
 - [Angular Design Patterns](https://www.packtpub.com/web-development/angular-design-patterns) - 07/2018
--
 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781786461728.png" width="250"/>
 
 - [Beginning Server-Side Application Development with Angular](https://www.packtpub.com/web-development/beginning-server-side-application-development-angular) - 04/2018
--
 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/1/c11174.png" width="250"/>
 
@@ -1168,7 +1162,7 @@ title - release date
 
 - [Learn Webpack](https://www.packtpub.com/web-development/learn-webpack) - 06/2020
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789954401-original.jpeg)
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789954401-original.jpeg" width="250"/>
 
 ## Mobile Web
 
@@ -1292,7 +1286,7 @@ title - release date
 
 <img src="https://images.manning.com/360/480/resize/book/5/17c1124-214f-4307-b4fe-fd961a9a31f4/McNamara-Rust-MEAP-HI.png" width="250"/>
 
-- [WebAssembly in Action](https://www.manning.com/books/webassembly-in-action) 11/2019
+- [WebAssembly in Action](https://www.manning.com/books/webassembly-in-action) - 11/2019
 
 <img src="https://images.manning.com/360/480/resize/book/7/97eac5c-498e-4454-bdb2-677ec3406f29/Gallant-WA-HI.png" width="250"/>
 
@@ -1362,121 +1356,121 @@ title - release date
 
 ## データベース
 
-- [達人に学ぶ DB 設計 徹底指南書 ～初級者で終わりたくないあなたへ](https://www.seshop.com/static/images/product/14106/L.png" width="250"/> 03/2012
+- [達人に学ぶ DB 設計 徹底指南書 ～初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798124704) - 03/2012
 
 <img src="https://www.seshop.com/static/images/product/14106/L.png" width="250"/>
 
-- [理論から学ぶデータベース実践入門――リレーショナルモデルによる効率的な SQL](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7197-5) 03/2015
+- [理論から学ぶデータベース実践入門――リレーショナルモデルによる効率的な SQL](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7197-5) - 03/2015
 
-<img src="https://gihyo.jp/assets/images/cover/2015/9784774171975.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2015/9784774171975.jpg" width="250"/>
 
 ## ネットワーク
 
-- [TCP 技術入門 ―進化を続ける基本プロトコル](https://gihyo.jp/magazine/wdpress/plus/978-4-297-10623-2)　 07/2019
+- [TCP 技術入門 ―進化を続ける基本プロトコル](https://gihyo.jp/magazine/wdpress/plus/978-4-297-10623-2) - 07/2019
 
-<img src="https://gihyo.jp/assets/images/cover/2019/9784297106232.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2019/9784297106232.jpg" width="250"/>
 
 ## アウトプット
 
-- [エンジニアの知的生産術 ── 効率的に学び，整理し，アウトプットする](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-9876-7) 08/2018
+- [エンジニアの知的生産術 ── 効率的に学び，整理し，アウトプットする](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-9876-7) - 08/2018
 
-<img src="https://gihyo.jp/assets/images/cover/2018/9784774198767.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2018/9784774198767.jpg" width="250"/>
 
-- [図解でわかる！理工系のためのよい文章の書き方 論文・レポートを自力で書けるようになる方法](https://www.shoeisha.co.jp/book/detail/9784798158891) 02/2019
+- [図解でわかる！理工系のためのよい文章の書き方 論文・レポートを自力で書けるようになる方法](https://www.shoeisha.co.jp/book/detail/9784798158891) - 02/2019
 
 <img src="https://www.seshop.com/static/images/product/22400/L.png" width="250"/>
 
 ## 文系スキル
 
-- [最強のエンジニアになるための 話し方の教科書](https://www.amazon.co.jp/%E6%9C%80%E5%BC%B7%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%BA%80%E5%B1%B1-%E9%9B%85%E5%8F%B8/dp/483780487X) 01/2019
+- [最強のエンジニアになるための 話し方の教科書](https://www.amazon.co.jp/%E6%9C%80%E5%BC%B7%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%BA%80%E5%B1%B1-%E9%9B%85%E5%8F%B8/dp/483780487X) - 01/2019
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51df7cZuzQL._SX350_BO1,204,203,200_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51df7cZuzQL._SX350_BO1,204,203,200_.jpg" width="250"/>
 
 ## スクラム
 
-- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) 03/2015
+- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-7236-1) - 03/2015
 
-<img src="https://gihyo.jp/assets/images/cover/2015/9784774172361.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2015/9784774172361.jpg" width="250"/>
 
 ## 関数プログラミング
 
-- [関数プログラミング実践入門 ── 簡潔で、正しいコードを書くために](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6926-2) 11/2014
+- [関数プログラミング実践入門 ── 簡潔で、正しいコードを書くために](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6926-2) - 11/2014
 
-<img src="https://gihyo.jp/assets/images/cover/2014/9784774169262.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2014/9784774169262.jpg" width="250"/>
 
-- [JavaScript 関数型プログラミング 複雑性を抑える発想と実践法を学ぶ](https://book.impress.co.jp/books/1115101137) 06/2017
+- [JavaScript 関数型プログラミング 複雑性を抑える発想と実践法を学ぶ](https://book.impress.co.jp/books/1115101137) - 06/2017
 
-<img src="https://img.ips.co.jp/ij/15/1115101137/1115101137-520x.jpg)
+<img src="https://img.ips.co.jp/ij/15/1115101137/1115101137-520x.jpg" width="250"/>
 
 ## チーム
 
-- [チーム開発実践入門 ── 共同作業を円滑に行うツール・メソッド](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1) 04/2014
+- [チーム開発実践入門 ── 共同作業を円滑に行うツール・メソッド](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1) - 04/2014
 
-<img src="https://gihyo.jp/assets/images/cover/2014/9784774164281.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2014/9784774164281.jpg" width="250"/>
 
-- [GitHub 実践入門 ──Pull Request による開発の変革](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6366-6) 03/2014
+- [GitHub 実践入門 ──Pull Request による開発の変革](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6366-6) - 03/2014
 
-<img src="https://gihyo.jp/assets/images/cover/2014/9784774163666.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2014/9784774163666.jpg" width="250"/>
 
 ## プログラミング
 
-- [コーディングを支える技術――成り立ちから学ぶプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-5654-5) 04/2013
+- [コーディングを支える技術――成り立ちから学ぶプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-5654-5) - 04/2013
 
-<img src="https://gihyo.jp/assets/images/cover/2013/9784774156545.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2013/9784774156545.jpg" width="250"/>
 
 ## エンジニアリング
 
-- [良いコードを書く技術 ― 読みやすく保守しやすいプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4596-9) 04/2011
+- [良いコードを書く技術 ― 読みやすく保守しやすいプログラミング作法](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4596-9) - 04/2011
 
-<img src="https://gihyo.jp/assets/images/cover/2011/9784774145969.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2011/9784774145969.jpg" width="250"/>
 
 ## Web
 
-- [Web を支える技術 ── HTTP，URI，HTML，そして REST](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3) 04/2010
+- [Web を支える技術 ── HTTP，URI，HTML，そして REST](https://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3) - 04/2010
 
-<img src="https://gihyo.jp/assets/images/cover/2010/9784774142043.jpg)
+<img src="https://gihyo.jp/assets/images/cover/2010/9784774142043.jpg" width="250"/>
 
 ## 設計
 
-- [クラウドネイティブ・アーキテクチャ 可用性と費用対効果を極める次世代設計の原則](https://book.impress.co.jp/books/1119101032) 11/2019
+- [クラウドネイティブ・アーキテクチャ 可用性と費用対効果を極める次世代設計の原則](https://book.impress.co.jp/books/1119101032) - 11/2019
 
-<img src="https://img.ips.co.jp/ij/19/1119101032/1119101032-520x.jpg)
+<img src="https://img.ips.co.jp/ij/19/1119101032/1119101032-520x.jpg" width="250"/>
 
-- [ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本](https://www.shoeisha.co.jp/book/detail/9784798151687) 02/2020
+- [ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本](https://www.shoeisha.co.jp/book/detail/9784798151687) - 02/2020
 
 <img src="https://www.seshop.com/static/images/product/20675/L.png" width="250"/>
 
 ## パブリッククラウド
 
-- [Amazon Web Services インフラサービス活用大全 システム構築/自動化、データストア、高信頼化](https://book.impress.co.jp/books/1117101110) 09/2019
+- [Amazon Web Services インフラサービス活用大全 システム構築/自動化、データストア、高信頼化](https://book.impress.co.jp/books/1117101110) - 09/2019
 
-<img src="https://img.ips.co.jp/ij/17/1117101110/1117101110-520x.jpg)
+<img src="https://img.ips.co.jp/ij/17/1117101110/1117101110-520x.jpg" width="250"/>
 
 - [Amazon Web Services ネットワーク入門](https://book.impress.co.jp/books/1116101043)
 
-<img src="https://img.ips.co.jp/ij/16/1116101043/1116101043-520x.jpg) 11/2016
+<img src="https://img.ips.co.jp/ij/16/1116101043/1116101043-520x.jpg" width="250"/> - 11/2016
 
 ## コンテナ
 
-- [Docker 実践ガイド第 2 版](https://book.impress.co.jp/books/1118101052) 02/2019
+- [Docker 実践ガイド第 2 版](https://book.impress.co.jp/books/1118101052) - 02/2019
 
-<img src="https://img.ips.co.jp/ij/18/1118101052/1118101052-520x.jpg)
+<img src="https://img.ips.co.jp/ij/18/1118101052/1118101052-520x.jpg" width="250"/>
 
 ## Lean/DevOps
 
-- [Lean と DevOps の科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する](https://book.impress.co.jp/books/1118101029) 11/2018
+- [Lean と DevOps の科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する](https://book.impress.co.jp/books/1118101029) - 11/2018
 
-<img src="https://img.ips.co.jp/ij/18/1118101029/1118101029-520x.jpg)
+<img src="https://img.ips.co.jp/ij/18/1118101029/1118101029-520x.jpg" width="250"/>
 
 ## データ分析基盤
 
-- [Elasticsearch 実践ガイド](https://book.impress.co.jp/books/1117101041) 06/2018
+- [Elasticsearch 実践ガイド](https://book.impress.co.jp/books/1117101041) - 06/2018
 
-<img src="https://img.ips.co.jp/ij/17/1117101041/1117101041-520x.jpg)
+<img src="https://img.ips.co.jp/ij/17/1117101041/1117101041-520x.jpg" width="250"/>
 
 ## アルゴリズム
 
-- [アルゴリズム図鑑 絵で見てわかる 26 のアルゴリズム](https://www.seshop.com/static/images/product/20245/L.png" width="250"/> 06/2017
+- [アルゴリズム図鑑 絵で見てわかる 26 のアルゴリズム](https://www.shoeisha.co.jp/book/detail/9784798149776) - 06/2017
 
 <img src="https://www.seshop.com/static/images/product/20245/L.png" width="250"/>
 
