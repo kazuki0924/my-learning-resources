@@ -17,7 +17,7 @@ My list of anything related to what I'm studying
 - [x] https://www.vuemastery.com/courses/advanced-components/
 - [x] https://www.vuemastery.com/courses/vue-3-reactivity/ (Early Access)
 - [x] https://www.vuemastery.com/courses/animating-vue/
-- [ ] https://www.vuemastery.com/courses/mastering-vuex/
+- [x] https://www.vuemastery.com/courses/mastering-vuex/
 - [ ] https://www.vuemastery.com/courses/next-level-vue/
 - Pluralsight https://www.pluralsight.com/ - #FREEapril
 - [ ] https://www.pluralsight.com/courses/aws-nodejs-serverless-framework-using
