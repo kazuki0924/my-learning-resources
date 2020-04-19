@@ -81,6 +81,7 @@ My list of anything related to what I'm studying
 - [Node.js/blog](https://nodejs.org/en/blog/) - Node.js
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Best Practices / Node.js
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - Computer Science
+- [mostly-adequate-guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Functional Programming
 - [Papers we love](http://paperswelove.org/) - Computer Science
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - Career
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/) - Career
@@ -88,7 +89,9 @@ My list of anything related to what I'm studying
 - [bestofjs](https://bestofjs.org/) - JS Ecosystem
 - [stateofjs.com](https://stateofjs.com/) - JS Ecosystem
 - [Product Hunt](https://www.producthunt.com/) - Web Development Tools
+- [Prototypr.io](https://www.prototypr.io/home/) - Web Development Tools
 - [Airbnb Style Guide](https://github.com/airbnb/javascript) - Best Practices
+- [VS Code Recipes](https://github.com/Microsoft/vscode-recipes) - Microsoft repo
 - [Serverless Stack](https://serverless-stack.com/) - Best Practices
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - JS Guides
 - [Modern JavaScript Tutorial](https://javascript.info/) - JS Guides
@@ -111,6 +114,7 @@ My list of anything related to what I'm studying
 - [The App Brewery](https://www.appbrewery.co/) - Learning Platform / Videos / Mobile
 - [Vue Mastery](https://www.vuemastery.com/)- Learning Platform / Videos / Vue.js
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Learning Platform / Interactive / Front-End
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learning Platform / Interactive / Git
 - [Secure Code Warrior](https://securecodewarrior.com/) - Learning Platform / Interactive / Security
 - [Progate](https://prog-8.com/) - Learning Platform / Interactive
 - [alligator.io](https://alligator.io/) - JS Guides
@@ -237,6 +241,7 @@ My list of anything related to what I'm studying
 - [Fomantic-UI](https://fomantic-ui.com/) - UI Toolkit
 - [DHTMLX Libraries](https://dhtmlx.com/) - UI Toolkit
 - [WeUI](https://github.com/Tencent/weui) - UI Toolkit
+- [DevExtreme](https://js.devexpress.com/) - UI Toolkit
 - [linaria](https://linaria.now.sh/) - CSS in JS
 - [styled components](https://styled-components.com/) - CSS in JS
 - [Emotion](https://emotion.sh/) - CSS in JS
@@ -340,6 +345,13 @@ My list of anything related to what I'm studying
 - [Better Comment](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.bettercomment) - VS Code Extensions
 - [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) - VS Code Extensions
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - VS Code Extensions
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - VS Code Extensions
+- [Prettier for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code Extensions
+- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - VS Code Extensions
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - VS Code Extensions
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - VS Code Extensions
+- [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - VS Code Extensions
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - VS Code Extensions
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code Extensions
 - [Node Debug](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2) - VS Code Extensions
 - [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) - VS Code Extensions
@@ -381,16 +393,20 @@ My list of anything related to what I'm studying
 - [Pulumi](https://www.pulumi.com/) - Infrastructure as Code
 - [Terraform](https://www.terraform.io/) - Infrastructure as Code
 - [Oh My Zsh](https://ohmyz.sh/) - Zsh
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Zsh theme
 - [iTerm2](https://www.iterm2.com/) - Terminal
 - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) - Cloud IDE
 - [Elasticsearch](https://www.elastic.co/elasticsearch/) - Search / Analytics
+- [Datadog](https://www.datadoghq.com/) - Monitoring as a Service
 - [brave](https://brave.com/) - Browser / Debugging for privacy-conscious environment
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Browser / Debugging for CSS
 - [JAMstack](https://jamstack.org/) - Solution Stack
 - [GRANDstack](https://grandstack.io/) - Solution Stack
 - [MEAN](<https://en.wikipedia.org/wiki/MEAN_(solution_stack)>) - Solution Stack
 - [Prettier](https://prettier.io/) - Formatter
+- [EditorConfig](https://editorconfig.org/) - Editor Tools
 - [ESLint](https://eslint.org/) - Linter
+- [JSDoc](https://jsdoc.app/) - Comments
 - [Homebrew](https://brew.sh/) - Package Manager
 - [CircleCI](https://circleci.com/) - CI/CD
 - [Travis CI](https://travis-ci.com/) - CI/CD
@@ -400,7 +416,7 @@ My list of anything related to what I'm studying
 - [LINE Login](https://developers.line.biz/en/services/line-login/) - Authentication
 - [LINE Pay](https://pay.line.me/portal/global/main) - LINE Pay
 - [Auth0](https://auth0.com/) - Auth0
-- [algolia](https://www.algolia.com/) - Searching
+- [Algolia](https://www.algolia.com/) - Searching
 - [Uppy](https://uppy.io/) - Uploading
 - [Dialogflow](https://dialogflow.com/) - Chatbot
 - [Pusher](https://pusher.com/) - Real-time
@@ -410,7 +426,10 @@ My list of anything related to what I'm studying
 - [n8n.io](https://n8n.io/) - Workflow Automation
 - [Jest](https://jestjs.io/) - Testing
 - [Cypress](https://www.cypress.io/) - E2E Testing
-- [slack](https://slack.com/) - Collaboration
+- [Slack](https://slack.com/) - Collaboration Tools
+- [Discord](https://discordapp.com/) - Chat Tools
+- [LINE for Mac](https://apps.apple.com/us/app/line/id539883307?mt=12) - Chat Tools
+- [FeaturePeek](https://featurepeek.com/) - Collaboration Tools
 - [Rectangle](https://rectangleapp.com/) - Resizing windows
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension
 - [GIPHY](https://developers.giphy.com/) - GIFs
@@ -497,6 +516,7 @@ My list of anything related to what I'm studying
 - [Vue-Multiselect](https://vue-multiselect.js.org/) - Multiselect
 - [vue-quick-menu](https://ashleylv.github.io/vue-quick-menu/index.html#/) - Quick Menu
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker?ref=madewithvuejs.com) - Datepicker
+- [made with vue.js](https://madewithvuejs.com/) - Use Cases
 
 ## Angular Ecosystem
 
