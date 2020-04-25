@@ -175,6 +175,7 @@ My list of anything related to what I'm studying
 - [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/) - CSS Framework
 - [extra.css](https://extra-css.netlify.com/) - CSS / Just-add-water
 - [Water.css](https://watercss.netlify.com/) - CSS / Just-add-water
+- [98.css](https://jdan.github.io/98.css/) - CSS / Just-add-water
 - [SweetAlert2](https://sweetalert2.github.io/) - Notification
 - [Popper](https://popper.js.org/) - Tooltip
 - [Autosize](http://www.jacklmoore.com/autosize/) - Textarea
@@ -275,6 +276,11 @@ My list of anything related to what I'm studying
 - [Deno](https://deno.land/) - JS Runtime
 - [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
 - [NestJS](https://nestjs.com/) - Node.js / TypeScript Framework
+- [AdonisJs](https://adonisjs.com/) - Node.js Framework
+- [Fastify](https://www.fastify.io/) - Node.js Framework
+- [hapi](https://hapi.dev/) - Node.js Framework
+- [koa](https://koajs.com/) - Node.js Framework
+- [micro](https://github.com/zeit/micro) - Node.js Framework
 - [GraphQL](https://graphql.org/) - GraphQL
 - [ServerlessFramework](https://serverless.com/) - Serverless
 - [Nodemailer](https://nodemailer.com/) - Mailer
@@ -345,6 +351,7 @@ My list of anything related to what I'm studying
 - [Better Comment](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.bettercomment) - VS Code Extensions
 - [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) - VS Code Extensions
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - VS Code Extensions
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - VS Code Extensions
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - VS Code Extensions
 - [Prettier for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code Extensions
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - VS Code Extensions
@@ -367,6 +374,8 @@ My list of anything related to what I'm studying
 - [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) - VS Code Extensions
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code Extensions
 - [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) - VS Code Extensions
+- [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - VS Code Extensions
+- [Create Files & Folders : On The Go](https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder) - VS Code Extensions
 - [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) - VS Code Extensions
 - [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) - VS Code Extensions
 - [docs-linting](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-linting) - VS Code Extensions
@@ -503,6 +512,7 @@ My list of anything related to what I'm studying
 - [vuesax](https://lusaxweb.github.io/vuesax/) - UI Toolkit
 - [Element](https://element.eleme.io/) - UI Toolkit
 - [iView](http://iview.talkingdata.com/) - UI Toolkit
+- [Framevuerk](https://framevuerk.com/) - UI Toolkit
 - [Vuetify](https://vuetifyjs.com/) - Material Design
 - [Vue Material](https://vuematerial.io/) - Material Design
 - [Ant Design Vue](https://antdv.com/docs/vue/introduce/) - Ant Design
@@ -549,6 +559,10 @@ My list of anything related to what I'm studying
 - [Nx](https://nx.dev/angular) - Monorepo
 - [NestJS](https://nestjs.com/) - Back-End for Monorepo
 - [Nx Console](https://nx.dev/nx-console) - GUI
+
+## Other
+- [Dropbox](https://www.dropbox.com/) - Online Storage
+- [Dropbox for Gmail](https://chrome.google.com/webstore/detail/dropbox-for-gmail/dpdmhfocilnekecfjgimjdeckachfbec/related) - Chrome Extension
 
 ## books
 
