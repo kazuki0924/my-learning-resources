@@ -526,6 +526,7 @@ My list of anything related to what I'm studying
 - [Vue-Multiselect](https://vue-multiselect.js.org/) - Multiselect
 - [vue-quick-menu](https://ashleylv.github.io/vue-quick-menu/index.html#/) - Quick Menu
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker?ref=madewithvuejs.com) - Datepicker
+- [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Vuex
 - [made with vue.js](https://madewithvuejs.com/) - Use Cases
 
 ## Angular Ecosystem
