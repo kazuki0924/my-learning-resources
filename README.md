@@ -404,7 +404,6 @@ My list of anything related to what I'm studying
 - [Terminal Tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - VS Code Extensions
 - [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json) - VS Code Extensions
 - [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense) - VS Code Extensions
-- []() - VS Code Extensions
 - [git](https://git-scm.com/) - Git
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - VS Code Extensions
@@ -413,6 +412,11 @@ My list of anything related to what I'm studying
 - [Gitpod](https://www.gitpod.io/) - GitHub / Cloud IDE
 - [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki/related) - Chrome Extensions
 - [Theia](https://theia-ide.org/) - Cloud IDE
+- [Atom](https://atom.io/) - Text Editor
+- [Brackets](http://brackets.io/) - Text Editor / Front-End
+- [Boost Note](https://boostnote.io/) - Markdown Editor
+- [Sublime Text](https://www.sublimetext.com/) - Text Editor
+- [Webstorm](https://www.jetbrains.com/webstorm/) - IDE
 - [GitHub Actions](https://github.com/features/actions) - Dev Workflow Automation / CI/CD
 - [GitHub CLI](https://cli.github.com/) - GitHub
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - VS Code Extensions
@@ -420,6 +424,7 @@ My list of anything related to what I'm studying
 - [GitLab CI](https://docs.gitlab.com/ee/ci/) - CI/CD
 - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) - VS Code Extensions
 - [Gitlab Notifications](https://marketplace.visualstudio.com/items?itemName=logerfo.gitlab-notifications) - VS Code Extensions
+- [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) - Chrome Extensions
 - [Docker](https://www.docker.com/) - Container
 - [Pulumi](https://www.pulumi.com/) - Infrastructure as Code
 - [Terraform](https://www.terraform.io/) - Infrastructure as Code
@@ -460,10 +465,14 @@ My list of anything related to what I'm studying
 - [Slack](https://slack.com/) - Collaboration Tools
 - [Discord](https://discordapp.com/) - Chat Tools
 - [LINE for Mac](https://apps.apple.com/us/app/line/id539883307?mt=12) - Chat Tools
+- [LINE Share](https://chrome.google.com/webstore/detail/line-share/gljjiokipgajokbgfmoekcdmfceoijjh) - LINE Share
 - [FeaturePeek](https://featurepeek.com/) - Collaboration Tools
 - [Rectangle](https://rectangleapp.com/) - Resizing windows
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension
 - [GIPHY](https://developers.giphy.com/) - GIFs
+- [GIPHY for Chrome](https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi) - Chrome Extensions
+- [Vim](https://www.vim.org/) - Vim
+- [neovim](https://neovim.io/) - Vim
 - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim / VS Code Extensions
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim / Chrome Extensions
 - [Destiny](https://github.com/benawad/destiny) - Folder Structure
@@ -590,8 +599,26 @@ My list of anything related to what I'm studying
 - [Nx Console](https://nx.dev/nx-console) - GUI
 
 ## Other
+- [YouTube](https://www.youtube.com/) - YouTube
 - [Dropbox](https://www.dropbox.com/) - Online Storage
-- [Dropbox for Gmail](https://chrome.google.com/webstore/detail/dropbox-for-gmail/dpdmhfocilnekecfjgimjdeckachfbec/related) - Chrome Extension
+- [Dropbox for Gmail](https://chrome.google.com/webstore/detail/dropbox-for-gmail/dpdmhfocilnekecfjgimjdeckachfbec) - Chrome Extension
+- [iCloud](https://www.icloud.com/) - Online Storage
+- [Evernote](https://evernote.com/) - Notes
+- [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - Chrome Extensions
+- [Amazon](https://www.amazon.co.jp/) - Amazon
+- [Kindle for Mac](https://apps.apple.com/us/app/kindle/id405399194?mt=12) - eBooks
+- [VLC](https://www.videolan.org/vlc/index.html) - Media Player
+- [Go for Gmail](https://apps.apple.com/us/app/go-for-gmail-email-client/id979538493?mt=12) - Gmail
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Chrome Extensions
+- [Grammarly](https://app.grammarly.com/) - Grammar
+- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Chrome Extensions
+- [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - Chrome Extensions
+- [Custom Cursor for Chrome](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale) - Chrome Extensions
+- [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) - Chrome Extensions / Themes
+- [ClickUp](https://chrome.google.com/webstore/detail/clickup-tasks-screenshots/pliibjocnfmkagafnbkfcimonlnlpghj) - Chrome Extensions
+- [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - Chrome Extensions
+- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) - Chrome Extensions
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - Chrome Extensions
 
 ## books
 
