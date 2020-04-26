@@ -326,6 +326,7 @@ My list of anything related to what I'm studying
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - VS Code Extensions
 - [Chrome](https://www.google.com/chrome/) - Browser
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Chrome Extensions
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Chrome Extensions
 - [Visual Studio Code](https://code.visualstudio.com/) - Code Editor
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - VS Code Extensions
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - VS Code Extensions
@@ -374,7 +375,6 @@ My list of anything related to what I'm studying
 - [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) - VS Code Extensions
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code Extensions
 - [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) - VS Code Extensions
-- [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - VS Code Extensions
 - [Create Files & Folders : On The Go](https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder) - VS Code Extensions
 - [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) - VS Code Extensions
 - [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) - VS Code Extensions
@@ -383,6 +383,20 @@ My list of anything related to what I'm studying
 - [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml) - VS Code Extensions
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - VS Code Extensions
 - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools) - VS Code Extensions
+- [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) - Themes / VS Code Extensions
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) - Themes / VS Code Extensions
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - Themes / VS Code Extensions
+- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) - Themes / VS Code Extensions
+- [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) - Themes / VS Code Extensions
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - Themes / VS Code Extensions
+- [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) - Themes / VS Code Extensions
+- [Vue Theme](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme) - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
+- []() - Themes / VS Code Extensions
 - [git](https://git-scm.com/) - Git
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - VS Code Extensions
@@ -442,6 +456,8 @@ My list of anything related to what I'm studying
 - [Rectangle](https://rectangleapp.com/) - Resizing windows
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension
 - [GIPHY](https://developers.giphy.com/) - GIFs
+- [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim / VS Code Extensions
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim / Chrome Extensions
 
 ## Google Cloud Platform
 
