@@ -415,6 +415,7 @@ My list of anything related to what I'm studying
 - [Atom](https://atom.io/) - Text Editor
 - [Brackets](http://brackets.io/) - Text Editor / Front-End
 - [Boost Note](https://boostnote.io/) - Markdown Editor
+- [Typora](https://typora.io/) - Markdown Editor
 - [Sublime Text](https://www.sublimetext.com/) - Text Editor
 - [Webstorm](https://www.jetbrains.com/webstorm/) - IDE
 - [GitHub Actions](https://github.com/features/actions) - Dev Workflow Automation / CI/CD
