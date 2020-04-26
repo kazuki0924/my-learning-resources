@@ -202,6 +202,7 @@ My list of anything related to what I'm studying
 - [OpenWeb Icons](https://pfefferle.dev/openwebicons/) - Icons
 - [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) - Icons
 - [Elusive Icons](http://elusiveicons.com/) - Icons
+- [CSS gg](https://css.gg/) - CSS Icon
 - [useAnimations](https://useanimations.com/) - Animated icons
 - [Popmotion](https://popmotion.io/) - Animation
 - [CSS Animo](https://cssanimo.netlify.com/) - Animation
@@ -267,11 +268,13 @@ My list of anything related to what I'm studying
 - [webpack](https://webpack.js.org/) - Bundler
 - [The Front-End Checklist](https://frontendchecklist.io/) - Checklist
 - [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/) - BEM / Cheat Sheet
+- [Can I use...](https://caniuse.com/) - Support Tables
 
 ## Back-End
 
 - [Node.js](https://nodejs.org/) - Node.js
 - [nvm](https://github.com/nvm-sh/nvm) - Version Manager
+- [zsh-nvm](https://github.com/lukechilds/zsh-nvm) - zsh plugin
 - [Express](https://www.expressjs.com/) - Node.js Framework
 - [Deno](https://deno.land/) - JS Runtime
 - [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - VS Code Extensions
@@ -371,6 +374,7 @@ My list of anything related to what I'm studying
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - VS Code Extensions
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - VS Code Extensions
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - VS Code Extensions
+- [Babel ES6/ES7](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring) - VS Code Extensions
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - VS Code Extensions
 - [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) - VS Code Extensions
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code Extensions
@@ -391,12 +395,16 @@ My list of anything related to what I'm studying
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - Themes / VS Code Extensions
 - [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) - Themes / VS Code Extensions
 - [Vue Theme](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme) - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
-- []() - Themes / VS Code Extensions
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Themes / VS Code Extensions
+- [Slack Theme](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme) - Themes / VS Code Extensions
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - VS Code Extensions
+- [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - VS Code Extensions
+- [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=Compulim.vscode-clock) - VS Code Extensions
+- [Shortcuts](https://marketplace.visualstudio.com/items?itemName=gizak.shortcuts) - VS Code Extensions
+- [Terminal Tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - VS Code Extensions
+- [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json) - VS Code Extensions
+- [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense) - VS Code Extensions
+- []() - VS Code Extensions
 - [git](https://git-scm.com/) - Git
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - VS Code Extensions
@@ -458,6 +466,10 @@ My list of anything related to what I'm studying
 - [GIPHY](https://developers.giphy.com/) - GIFs
 - [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim / VS Code Extensions
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Vim / Chrome Extensions
+- [Destiny](https://github.com/benawad/destiny) - Folder Structure
+- [FiraCode](https://github.com/tonsky/FiraCode) - Fonts for Programmers
+- [Powerline fonts](https://github.com/powerline/fonts) - Fonts for Programmers
+
 
 ## Google Cloud Platform
 
