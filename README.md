@@ -6,69 +6,6 @@ My list of anything related to what I'm studying
 - [books](#books)
 - [本](#本)
 
-## Courses (Free for a limited time)
-
-- Vue Mastery https://www.vuemastery.com/free-week/ - Free courses from April 13 to April 19.
-- [x] https://www.vuemastery.com/courses/intro-to-vue-js/
-- [x] https://www.vuemastery.com/courses/real-world-vue-js/
-- [x] https://www.vuemastery.com/courses/Component-Design-Patterns/ (Early Access)
-- [x] https://www.vuemastery.com/courses/vue-3-essentials/ (Early Access)
-- [x] https://www.vuemastery.com/courses/unit-testing/ (Early Access)
-- [x] https://www.vuemastery.com/courses/advanced-components/
-- [x] https://www.vuemastery.com/courses/vue-3-reactivity/ (Early Access)
-- [x] https://www.vuemastery.com/courses/animating-vue/
-- [x] https://www.vuemastery.com/courses/mastering-vuex/
-- [ ] https://www.vuemastery.com/courses/next-level-vue/
-- Pluralsight https://www.pluralsight.com/ - #FREEapril
-- [ ] https://www.pluralsight.com/courses/aws-nodejs-serverless-framework-using
-- [ ] https://www.pluralsight.com/courses/connecting-amazon-dynamodb
-- [ ] https://www.pluralsight.com/courses/play-by-play-build-serverless-node-web-api
-- [ ] https://app.pluralsight.com/library/courses/aws-developer-serverless-architecture-monitoring/
-- [ ] https://app.pluralsight.com/library/courses/play-by-play-visual-studio-code-can-do-that/
-- [ ] https://app.pluralsight.com/library/courses/play-by-play-extending-browser/
-- [ ] https://www.pluralsight.com/paths/vue
-
-## Vue.js Core from Evan You
-
-- [ ] https://frontendmasters.com/teachers/evan-you/
-- [ ] https://www.vuemastery.com/courses/advanced-components/
-- [ ] https://www.vuemastery.com/courses/vue-3-reactivity/
-- [ ] https://egghead.io/podcasts/evan-you-creator-of-vue-js
-- [ ] http://www.fullstackradio.com/81
-
-## Purchased
-
-- [ ] https://www.udemy.com/course/vuejs-2-the-complete-guide/
-- [ ] https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/
-- [ ] https://www.udemy.com/course/aws-serverless-a-complete-introduction/
-- [ ] https://www.udemy.com/course/aws-lambda-serverless/
-- [ ] https://www.udemy.com/course/docker-mastery/
-- [ ] https://www.udemy.com/course/docker-mastery-for-nodejs/
-- [ ] https://www.udemy.com/course/web-scraping-in-nodejs/
-- [ ] https://www.udemy.com/course/web-crawling-with-nodejs-hm-amazon-linkedin-aliexpress/
-- [ ] https://fireship.io/courses/cloud-functions/
-- [ ] https://scrimba.com/g/gdesignbootcamp
-- [ ] https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
-- [ ] https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/
-- [ ] https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/
-
-## wishlist
-
-- [ ] https://www.udemy.com/course/aws-lambda-serverless-architecture/
-- [ ] https://www.udemy.com/course/dynamodb/
-- [ ] https://www.udemy.com/course/quasarframework/
-- [ ] https://www.oreilly.com/library/view/learning-serverless/9781492057000/
-- [ ] https://www.manning.com/books/serverless-applications-with-node-js
-- [ ] https://www.oreilly.com/library/view/git-for-teams/9781491911204/
-- [ ] https://gihyo.jp/magazine/wdpress/plus/978-4-7741-6428-1
-
-## completed
-
-- https://www.udemy.com/course/nodejs-the-complete-guide/
-- https://www.udemy.com/course/nestjs-zero-to-hero/
-- https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
-- https://www.udemy.com/course/the-complete-guide-to-angular-2/
-
 ## bookmarks
 
 - [dev.to](https://dev.to/) - Dev Community
@@ -336,6 +273,7 @@ My list of anything related to what I'm studying
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - VS Code Extensions
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - VS Code Extensions
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - VS Code Extensions
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - VS Code Extensions
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - VS Code Extensions
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - VS Code Extensions
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - VS Code Extensions
@@ -408,7 +346,9 @@ My list of anything related to what I'm studying
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - VS Code Extensions
 - [GitHub](https://github.com/) - Source Repository
-- [GitHub Desktop](https://desktop.github.com/) - GitHub
+- [GitHub Desktop](https://desktop.github.com/) - Git Client
+- [Sourcetree](https://www.sourcetreeapp.com/) - Git Client
+- [GitKraken](https://www.gitkraken.com/) - Git Client
 - [Gitpod](https://www.gitpod.io/) - GitHub / Cloud IDE
 - [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki/related) - Chrome Extensions
 - [Theia](https://theia-ide.org/) - Cloud IDE
@@ -426,10 +366,12 @@ My list of anything related to what I'm studying
 - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow) - VS Code Extensions
 - [Gitlab Notifications](https://marketplace.visualstudio.com/items?itemName=logerfo.gitlab-notifications) - VS Code Extensions
 - [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) - Chrome Extensions
+- [GitBook](https://www.gitbook.com/) - Documentation
 - [Docker](https://www.docker.com/) - Container
 - [Pulumi](https://www.pulumi.com/) - Infrastructure as Code
 - [Terraform](https://www.terraform.io/) - Infrastructure as Code
-- [Oh My Zsh](https://ohmyz.sh/) - Zsh
+- [Oh My Zsh](https://ohmyz.sh/) - Zsh Framework
+- [prezto](https://github.com/sorin-ionescu/prezto) - Zsh Framework
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Zsh theme
 - [iTerm2](https://www.iterm2.com/) - Terminal
 - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) - Cloud IDE
@@ -445,6 +387,7 @@ My list of anything related to what I'm studying
 - [ESLint](https://eslint.org/) - Linter
 - [JSDoc](https://jsdoc.app/) - Comments
 - [Homebrew](https://brew.sh/) - Package Manager
+- [yarn](https://yarnpkg.com/) - Package Manager
 - [CircleCI](https://circleci.com/) - CI/CD
 - [Travis CI](https://travis-ci.com/) - CI/CD
 - [Stripe](https://stripe.com/) - Payments
@@ -469,6 +412,7 @@ My list of anything related to what I'm studying
 - [LINE Share](https://chrome.google.com/webstore/detail/line-share/gljjiokipgajokbgfmoekcdmfceoijjh) - LINE Share
 - [FeaturePeek](https://featurepeek.com/) - Collaboration Tools
 - [Rectangle](https://rectangleapp.com/) - Resizing windows
+- [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Touch Bar app
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension
 - [GIPHY](https://developers.giphy.com/) - GIFs
 - [GIPHY for Chrome](https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi) - Chrome Extensions
@@ -479,7 +423,6 @@ My list of anything related to what I'm studying
 - [Destiny](https://github.com/benawad/destiny) - Folder Structure
 - [FiraCode](https://github.com/tonsky/FiraCode) - Fonts for Programmers
 - [Powerline fonts](https://github.com/powerline/fonts) - Fonts for Programmers
-
 
 ## Google Cloud Platform
 
@@ -600,6 +543,7 @@ My list of anything related to what I'm studying
 - [Nx Console](https://nx.dev/nx-console) - GUI
 
 ## Other
+
 - [YouTube](https://www.youtube.com/) - YouTube
 - [Dropbox](https://www.dropbox.com/) - Online Storage
 - [Dropbox for Gmail](https://chrome.google.com/webstore/detail/dropbox-for-gmail/dpdmhfocilnekecfjgimjdeckachfbec) - Chrome Extension
