@@ -1,3 +1,94 @@
+General Shortcuts:
+New visual code window or instance ⇧ ⌘ N
+
+Basic Editing Shortcuts:
+Delete line ⇧ ⌘ K
+Insert line above ⇧⌘Enter
+Jump to matching bracket ⇧⌘\
+
+Navigation Shortcuts:
+Go to Line... ⌃G
+Go back/forward ⌃- / ⌃⇧-
+
+Multi-cursor and selection Shortcuts:
+
+Insert cursor ⌥ + click
+Insert cursor above / below ⌥⌘↑ / ⌥⌘↓
+Undo last cursor operation Ctrl+U ⌘U Ctrl+U
+Insert cursor at end of each line selected Shift+Alt+I ⇧⌥I Shift+Alt+I
+Select current line
+Ctrl+I ⌘I Ctrl+I
+Select all occurrences of current selection
+Ctrl+Shift+L ⇧⌘L Ctrl+Shift+L
+Select all occurrences of current word
+Ctrl+F2 ⌘F2 Ctrl+F2
+Expand selection Shift+Alt+→ ⌃⇧⌘→ Shift+Alt+→
+Shrink selection
+Shift+Alt+← ⌃⇧⌘← Shift+Alt+←
+Column (box) selection ⇧⌥ + (drag mouse) or ⇧⌥⌘↑ / ↓
+
+Rich languages editing Shortcuts:
+Trigger suggestion Ctrl+Space
+
+Editor management Shortcuts:
+Ctrl+F4, Ctrl+W ⌘W Ctrl+W
+Close folder Ctrl+K F ⌘K F Ctrl+K F
+Split editor Ctrl+\ ⌘\ Ctrl+\
+Focus into 1
+st, 2nd or 3rd editor group Ctrl+ 1 / 2 / 3 ⌘1 / ⌘2 / ⌘3 Ctrl+ 1 / 2 / 3
+Focus into previous/next editor group
+Ctrl+K Ctrl+ ←/→ ⌘K ⌘← / ⌘K ⌘→ Ctrl+K Ctrl+ ←/→
+Move editor left/right
+Ctrl+Shift+PgUp / PgDn ⌘K ⇧⌘← / ⌘K ⇧⌘→ Ctrl+Shift+PgUp / PgDn
+Move active editor group
+Ctrl+K ← / → ⌘K ← / ⌘K → Ctrl+K ← / →
+
+File management Shortcuts:
+New File Ctrl+N ⌘N Ctrl+N
+Open File...
+Ctrl+O ⌘O Ctrl+O
+Save
+Ctrl+S ⌘S Ctrl+S
+Save As... Ctrl+Shift+S ⇧⌘S Ctrl+Shift+S
+Save All
+Ctrl+K S ⌥⌘S Ctrl+K S
+Close / Close All Ctrl+F4 / Ctrl+K Ctrl+W ⌘W / ⌘K ⌘W Ctrl+W / Ctrl+K Ctrl+W
+Reopen closed editor
+Ctrl+Shift+T ⇧⌘T Ctrl+Shift+T
+Keep preview mode editor open
+Ctrl+K Enter ⌘K Enter Ctrl+K Enter
+Open next Ctrl+Tab ⌃Tab Ctrl+Tab
+Open previous Ctrl+Shift+Tab ⌃⇧Tab Ctrl+Shift+Tab
+Copy path of active file Ctrl+K P ⌘K P Ctrl+K P
+Reveal active file in Explorer
+Ctrl+K R ⌘K R Ctrl+K R
+Show active file in new window/instance Ctrl+K O ⌘K O Ctrl+K O
+
+File: Open Recent ⌃R
+Developer: Reload Window ⌘R
+
+Display Shortcuts:
+Toggle full screen
+F11 ⌃⌘F F11
+Toggle editor layout (horizontal/vertical) Shift+Alt+1 ⌥⌘1 Shift+Alt+1
+Zoom in/out
+Ctrl+ = / - ⌘= / ⇧⌘- Ctrl+ = / -
+Toggle Sidebar visibility Ctrl+B ⌘B Ctrl+B
+Show Explorer / Toggle focus
+Ctrl+Shift+E ⇧⌘E Ctrl+Shift+E
+Show Search Ctrl+Shift+F ⇧⌘F Ctrl+Shift+F
+Show Source Control Ctrl+Shift+G ⌃⇧G Ctrl+Shift+G
+Show Debug
+Ctrl+Shift+D ⇧⌘D Ctrl+Shift+D
+Show ExtensionsvCtrl+Shift+X ⇧⌘X Ctrl+Shift+X
+Replace in files Ctrl+Shift+H ⇧⌘H Ctrl+Shift+H
+Toggle Search details
+Ctrl+Shift+J ⇧⌘J Ctrl+Shift+J
+Show Output panel Ctrl+Shift+U ⇧⌘U Ctrl+K Ctrl+H
+Open Markdown preview Ctrl+Shift+V ⇧⌘V Ctrl+Shift+V
+Open Markdown preview to the side Ctrl+K V ⌘K V Ctrl+K V
+Zen Mode (Esc Esc to exit) Ctrl+K Z ⌘K Z Ctrl+K Z
+
 ### VS Code Key Bindings (+ modified settings)
 
 - View: Focus into Sidebar
@@ -100,56 +191,83 @@ Option-Command-C: Copy Style: Copy the formatting settings of the selected item 
 Option-Command-V: Paste Style: Apply the copied style to the selected item.
 Option-Shift-Command-V: Paste and Match Style: Apply the style of the surrounding content to the item pasted within that content.
 
-### Chrome keyboard shortcuts
+### Google Chrome feature shortcuts
 
-Tab and window shortcuts
+- Show or hide the Bookmarks Bar  
+  ⌘ ⇧ b
 
-Open a new window ⌘ + n
-Open a new window in Incognito mode ⌘ + Shift + n
-Open a new tab, and jump to it ⌘ + t
-Reopen previously closed tabs in the order they were closed ⌘ + Shift + t
-Jump to the next open tab ⌘ + Option + Right arrow
-Jump to the previous open tab ⌘ + Option + Left arrow
-Jump to a specific tab ⌘ + 1 through ⌘ + 8
-Jump to the last tab ⌘ + 9
-Open the previous page in your browsing history for the current tab ⌘ + [ or ⌘ + Left arrow
-Open the next page in your browsing history for the current tab ⌘ + ] or ⌘ + Right arrow
-Close the current tab or pop-up ⌘ + w
-Close the current window ⌘ + Shift + w
-Minimize the window ⌘ + m
-Hide Google Chrome ⌘ + h
-Quit Google Chrome ⌘ + q
+- Open the Bookmark Manager  
+  ⌘ ⌥ b
 
-Google Chrome feature shortcuts
+- Open the Settings page in a new tab  
+  ⌘ ,
 
-Show or hide the Bookmarks Bar ⌘ + Shift + b
-Open the Bookmark Manager ⌘ + Option + b
-Open the Settings page in a new tab ⌘ + ,
-Open the History page in a new tab ⌘ + y
-Open the Downloads page in a new tab ⌘ + Shift + j
-Open the Find Bar to search the current page ⌘ + f
-Jump to the next match to your Find Bar search ⌘ + g
-Jump to the previous match to your Find Bar search ⌘ + Shift + g
-When Find Bar is open, search for selected text ⌘ + e
-Open Developer Tools ⌘ + Option + i
-Open the Clear Browsing Data options ⌘ + Shift + Delete
-Log in as a different user, browse as a Guest, or access payment and password info ⌘ + Shift + m
-Jump to the main menu bar Control + F2
+- Open the History page in a new tab  
+  ⌘ y
 
-Address bar shortcuts
+- Open the Downloads page in a new tab  
+  ⌘ ⇧ j
 
-Open the website in a new background tab Type a web address + ⌘ + Enter
-Jump to the address bar ⌘ + l
-Move cursor to the address bar Control + F5
+- Open the Find Bar to search the current page  
+  ⌘ f
 
-Webpage shortcuts
+- Jump to the next match to your Find Bar search  
+  ⌘ g
 
-Save your current webpage as a bookmark ⌘ + d
-Save all open tabs as bookmarks in a new folder ⌘ + Shift + d
-Turn full-screen mode on or off ⌘ + Ctrl + f
-Scroll down a webpage, a screen at a time Space
-Scroll up a webpage, a screen at a time Shift + Space
-Search the web ⌘ + Option + f
-Move your cursor to the beginning of the previous word in a text field Option + Left arrow
-Move your cursor to the back of the next word in a text field Option + Right arrow
-Delete the previous word in a text field Option + Delete
+- Jump to the previous match to your Find Bar search  
+  ⌘ ⇧ g
+
+- When Find Bar is open, search for selected text  
+  ⌘ e
+
+- Open Developer Tools  
+  ⌘ ⌥ i
+
+- Open the Clear Browsing Data ⌥s  
+  ⌘ ⇧ ⌫
+
+- Log in as a different user, browse as a Guest, or access payment and password info  
+  ⌘ ⇧ m
+
+- Jump to the main menu bar  
+  ⌃ F2
+
+### Address bar shortcuts
+
+- Open the website in a new background tab  
+  Type a web address ⌘ ↩
+
+- Jump to the address bar  
+  ⌘ l
+
+- Move cursor to the address bar  
+  ⌃ F5
+
+### Webpage shortcuts
+
+- Save your current webpage as a bookmark  
+  ⌘ d
+
+- Save all open tabs as bookmarks in a new folder  
+  ⌘ ⇧ d
+
+- Turn full-screen mode on or off  
+  ⌘ ⌃ f
+
+- Scroll down a webpage, a screen at a time  
+  ␣
+
+- Scroll up a webpage, a screen at a time  
+  ⇧ ␣
+
+- Search the web  
+  ⌘ ⌥ f
+
+- Move your cursor to the beginning of the previous word in a text field  
+  ⌥ ←
+
+- Move your cursor to the back of the next word in a text field  
+  ⌥ →
+
+- Delete the previous word in a text field  
+  ⌥ ⌫
