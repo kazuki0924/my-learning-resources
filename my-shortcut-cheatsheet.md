@@ -116,82 +116,194 @@ Control–Command–Space bar: Show the Character Viewer, from which you can cho
 
 Control-Command-F: Use the app in full screen, if supported by the app.
 
-## Mac keyboard shortcuts: Finder and system shortcuts
+### Mac: Document shortcuts
 
-Option-Command-L: Open the Downloads folder.
+- Boldface  
+  ⌘ B
 
-Shift-Command-O: Open the Documents folder.
+- Italicize  
+  ⌘ I
 
-Command-N: Open a new Finder window.
+- Add a web link  
+  ⌘ K
 
-Command–Left Bracket ([): Go to the previous folder.
-Command–Right Bracket (]): Go to the next folder.
+- Underline  
+  ⌘ U
 
-Command–Up Arrow: Open the folder that contains the current folder.
+- Delete the word to the left of the insertion point  
+  ⌥ ⌫
 
-Command–Control–Up Arrow: Open the folder that contains the current folder in a new window.
+- Delete the character to the right of the insertion point. Or use Fn Delete  
+  ⌃ D  
+  Fn ⌫
 
-Command–Down Arrow: Open the selected item.
+- Delete the text between the insertion point and the end of the line or paragraph  
+  ⌃ K
 
-Option-Command-V: Move: Move the files in the Clipboard from their original location to the current location.
+- Scroll up one page  
+  Fn ↑
 
-Command-Delete: Move the selected item to the Trash.
-Shift-Command-Delete: Empty the Trash.
-Option Shift-Command-Delete: Empty the Trash without confirmation dialog.
+- Scroll down one page  
+  Fn ↓
 
-Command key while double-clicking: Open a folder in a separate tab or window.
+- Scroll to the beginning of a document  
+  Fn ←
 
-### Mac Document shortcuts
+- Scroll to the end of a document  
+  Fn →
 
-- Command-B: Boldface the selected text, or turn boldfacing on or off.
-- Command-I: Italicize the selected text, or turn italics on or off.
-- Command-K: Add a web link.
-- Command-U: Underline the selected text, or turn underlining on or off.
-- Option-Delete: Delete the word to the left of the insertion point.
-- Control-H: Delete the character to the left of the insertion point. Or use Delete.
-- Control-D: Delete the character to the right of the insertion point. Or use Fn-Delete.
-- Fn-Delete: Forward delete on keyboards that don't have a Forward Delete key. Or use Control-D.
-- Control-K: Delete the text between the insertion point and the end of the line or paragraph.
-- Fn–Up Arrow: Page Up: Scroll up one page.
-- Fn–Down Arrow: Page Down: Scroll down one page.
-- Fn–Left Arrow: Home: Scroll to the beginning of a document.
-- Fn–Right Arrow: End: Scroll to the end of a document.
-- Command–Up Arrow: Move the insertion point to the beginning of the document.
-- Command–Down Arrow: Move the insertion point to the end of the document.
-- Command–Left Arrow: Move the insertion point to the beginning of the current line.
-- Command–Right Arrow: Move the insertion point to the end of the current line.
-- Option–Left Arrow: Move the insertion point to the beginning of the previous word.
-- Option–Right Arrow: Move the insertion point to the end of the next word.
-- Shift–Command–Up Arrow: Select the text between the insertion point and the beginning of the document.
-- Shift–Command–Down Arrow: Select the text between the insertion point and the end of the document.
-- Shift–Command–Left Arrow: Select the text between the insertion point and the beginning of the current line.
-- Shift–Command–Right Arrow: Select the text between the insertion point and the end of the current line.
+- Move the insertion point to the beginning of the document  
+  ⌘ ↑
 
-- Shift–Up Arrow: Extend text selection to the nearest character at the same horizontal location on the line above.
-- Shift–Down Arrow: Extend text selection to the nearest character at the same horizontal location on the line below.
-- Shift–Left Arrow: Extend text selection one character to the left.
-- Shift–Right Arrow: Extend text selection one character to the right.
-- Option–Shift–Up Arrow: Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again.
-- Option–Shift–Down Arrow: Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again.
-- Option–Shift–Left Arrow: Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again.
-- Option–Shift–Right Arrow: Extend text selection to the end of the current word, then to the end of the following word if pressed again.
-- Control-A: Move to the beginning of the line or paragraph.
-- Control-E: Move to the end of a line or paragraph.
-- Control-F: Move one character forward.
-- Control-B: Move one character backward.
-- Control-L: Center the cursor or selection in the visible area.
-- Control-P: Move up one line.
-- Control-N: Move down one line.
-- Control-O: Insert a new line after the insertion point.
-- Control-T: Swap the character behind the insertion point with the character in front of the insertion point.
-- Command–Left Curly Bracket ({): Left align.
-- Command–Right Curly Bracket (}): Right align.
-- Shift–Command–Vertical bar (|): Center align.
-- Option-Command-C: Copy Style: Copy the formatting settings of the selected item to the Clipboard.
-- Option-Command-V: Paste Style: Apply the copied style to the selected item.
-- Option Shift-Command-V: Paste and Match Style: Apply the style of the surrounding content to the item pasted within that content.
+- Move the insertion point to the end of the document  
+  ⌘ ↓
 
-### Google Chrome feature shortcuts
+- Move the insertion point to the beginning of the current line  
+  ⌘ ←
+
+- Move the insertion point to the end of the current line  
+  ⌘ →
+
+- Move the insertion point to the beginning of the previous word  
+  ⌥ ←
+
+- Move the insertion point to the end of the next word  
+  ⌥ →
+
+- Select the text between the insertion point and the beginning of the document  
+  ⇧ ⌘ ↑
+
+- Select the text between the insertion point and the end of the document  
+  ⇧ ⌘ ↓
+
+- Select the text between the insertion point and the beginning of the current line  
+  ⇧ ⌘ ←
+
+- Select the text between the insertion point and the end of the current line  
+  ⇧ ⌘ →
+
+- Extend text selection to the nearest character at the same horizontal location on the line above  
+  ⇧ ↑
+
+- Extend text selection to the nearest character at the same horizontal location on the line below  
+  ⇧ ↓
+
+- Extend text selection one character to the left  
+  ⇧ ←
+
+- Extend text selection one character to the right  
+  ⇧ →
+
+- Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again  
+  ⌥ ⇧ ↑
+
+- Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again  
+  ⌥ ⇧ ↓
+
+- Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again  
+  ⌥ ⇧ ←
+
+- Extend text selection to the end of the current word, then to the end of the following word if pressed again .
+  ⌥ ⇧ →
+
+- Move to the beginning of the line or paragraph  
+  ⌃ A
+
+- Move to the end of a line or paragraph  
+  ⌃ E
+
+- Move one character forward  
+  ⌃ F
+
+- Move one character backward  
+  ⌃ B
+
+- Center the cursor or selection in the visible area  
+  ⌃ L
+
+- Move up one line  
+  ⌃ P
+
+- Move down one line  
+  ⌃ N
+
+- Insert a new line after the insertion point  
+  ⌃ O
+
+- Swap the character behind the insertion point with the character in front of the insertion point  
+  ⌃ T
+
+- Left align  
+  ⌘ {
+
+- Right align  
+  ⌘ }
+
+- Center align  
+  ⇧ ⌘ |
+
+- Copy Style: Copy the formatting settings of the selected item to the Clipboard  
+  ⌥ ⌘ C
+
+- Paste Style: Apply the copied style to the selected item  
+  ⌥ ⌘ V
+
+- Paste and Match Style: Apply the style of the surrounding content to the item pasted within that content  
+  ⌥ ⇧ ⌘ V
+
+## Mac: Finder and system shortcuts
+
+- Open the Downloads folder  
+  ⌥ ⌘ L
+
+- Open the Documents folder  
+  ⇧ ⌘ O
+
+- Open a new Finder window  
+  ⌘ N
+
+- Go to the previous folder  
+  ⌘ [
+
+- Go to the next folder  
+  ⌘ ]
+
+- Open the folder that contains the current folder  
+  ⌘ ↑
+
+- Open the folder that contains the current folder in a new window  
+  ⌘ ⌃ ↑
+
+- Open the selected item  
+  ⌘ ↓
+
+- Move the files in the Clipboard from their original location to the current location  
+  ⌥ ⌘ V
+
+- Move the selected item to the Trash  
+  ⌘ ⌫
+
+- Empty the Trash  
+  ⇧ ⌘ ⌫
+
+- Empty the Trash without confirmation dialog  
+  ⌥ ⇧ ⌘ ⌫
+
+- Open a folder in a separate tab or window  
+  ⌘ while double-clicking
+
+### Mac: Other common shortcuts
+
+- Force quit an app  
+  ⌥ ⌘ Esc
+
+- Show the Character Viewer, from which you can choose emoji and other symbols  
+  ⌃ ⌘ ␣
+
+- Use the app in full screen, if supported by the app  
+  ⌃ ⌘ F
+
+### Chrome: Feature shortcuts
 
 - Show or hide the Bookmarks Bar  
   ⌘ ⇧ b
@@ -232,7 +344,7 @@ Command key while double-clicking: Open a folder in a separate tab or window.
 - Jump to the main menu bar  
   ⌃ F2
 
-### Address bar shortcuts
+### Chrome: Address bar shortcuts
 
 - Open the website in a new background tab  
   Type a web address ⌘ ↩
@@ -243,7 +355,7 @@ Command key while double-clicking: Open a folder in a separate tab or window.
 - Move cursor to the address bar  
   ⌃ F5
 
-### Webpage shortcuts
+### Chrome: Webpage shortcuts
 
 - Save your current webpage as a bookmark  
   ⌘ d
