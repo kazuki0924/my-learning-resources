@@ -1,385 +1,520 @@
-General Shortcuts:
-New visual code window or instance ⇧ ⌘ N
+### VS Code: General shortcuts
 
-Basic Editing Shortcuts:
-Delete line ⇧ ⌘ K
-Insert line above ⇧⌘Enter
-Jump to matching bracket ⇧⌘\
+- Show Command Palette  
+  `⇧` `⌘` `P`
 
-Navigation Shortcuts:
-Go to Line... ⌃G
-Go back/forward ⌃- / ⌃⇧-
+- Quick Open, Go to File…  
+   `⌘` `P`
 
-Multi-cursor and selection Shortcuts:
+- New window/instance  
+  `⇧` `⌘` `N`
 
-Insert cursor ⌥ + click
-Insert cursor above / below ⌥⌘↑ / ⌥⌘↓
-Undo last cursor operation Ctrl+U ⌘U Ctrl+U
-Insert cursor at end of each line selected Shift+Alt+I ⇧⌥I Shift+Alt+I
-Select current line
-Ctrl+I ⌘I Ctrl+I
-Select all occurrences of current selection
-Ctrl+Shift+L ⇧⌘L Ctrl+Shift+L
-Select all occurrences of current word
-Ctrl+F2 ⌘F2 Ctrl+F2
-Expand selection Shift+Alt+→ ⌃⇧⌘→ Shift+Alt+→
-Shrink selection
-Shift+Alt+← ⌃⇧⌘← Shift+Alt+←
-Column (box) selection ⇧⌥ + (drag mouse) or ⇧⌥⌘↑ / ↓
+- Close window/instance  
+  `⌘` `W`
 
-Rich languages editing Shortcuts:
-Trigger suggestion Ctrl+Space
+- User Settings  
+  `⌘` `,`
 
-Editor management Shortcuts:
-Ctrl+F4, Ctrl+W ⌘W Ctrl+W
-Close folder Ctrl+K F ⌘K F Ctrl+K F
-Split editor Ctrl+\ ⌘\ Ctrl+\
-Focus into 1
-st, 2nd or 3rd editor group Ctrl+ 1 / 2 / 3 ⌘1 / ⌘2 / ⌘3 Ctrl+ 1 / 2 / 3
-Focus into previous/next editor group
-Ctrl+K Ctrl+ ←/→ ⌘K ⌘← / ⌘K ⌘→ Ctrl+K Ctrl+ ←/→
-Move editor left/right
-Ctrl+Shift+PgUp / PgDn ⌘K ⇧⌘← / ⌘K ⇧⌘→ Ctrl+Shift+PgUp / PgDn
-Move active editor group
-Ctrl+K ← / → ⌘K ← / ⌘K → Ctrl+K ← / →
+- Keyboard Shortcuts  
+  `⌘` `K` `⌘` `S`
 
-File management Shortcuts:
-New File Ctrl+N ⌘N Ctrl+N
-Open File...
-Ctrl+O ⌘O Ctrl+O
-Save
-Ctrl+S ⌘S Ctrl+S
-Save As... Ctrl+Shift+S ⇧⌘S Ctrl+Shift+S
-Save All
-Ctrl+K S ⌥⌘S Ctrl+K S
-Close / Close All Ctrl+F4 / Ctrl+K Ctrl+W ⌘W / ⌘K ⌘W Ctrl+W / Ctrl+K Ctrl+W
-Reopen closed editor
-Ctrl+Shift+T ⇧⌘T Ctrl+Shift+T
-Keep preview mode editor open
-Ctrl+K Enter ⌘K Enter Ctrl+K Enter
-Open next Ctrl+Tab ⌃Tab Ctrl+Tab
-Open previous Ctrl+Shift+Tab ⌃⇧Tab Ctrl+Shift+Tab
-Copy path of active file Ctrl+K P ⌘K P Ctrl+K P
-Reveal active file in Explorer
-Ctrl+K R ⌘K R Ctrl+K R
-Show active file in new window/instance Ctrl+K O ⌘K O Ctrl+K O
+### VS Code: Basic editing shortcuts
 
-File: Open Recent ⌃R
-Developer: Reload Window ⌘R
+- Cut line (empty selection)  
+  `⌘` `X`
 
-Display Shortcuts:
-Toggle full screen
-F11 ⌃⌘F F11
-Toggle editor layout (horizontal/vertical) Shift+Alt+1 ⌥⌘1 Shift+Alt+1
-Zoom in/out
-Ctrl+ = / - ⌘= / ⇧⌘- Ctrl+ = / -
-Toggle Sidebar visibility Ctrl+B ⌘B Ctrl+B
-Show Explorer / Toggle focus
-Ctrl+Shift+E ⇧⌘E Ctrl+Shift+E
-Show Search Ctrl+Shift+F ⇧⌘F Ctrl+Shift+F
-Show Source Control Ctrl+Shift+G ⌃⇧G Ctrl+Shift+G
-Show Debug
-Ctrl+Shift+D ⇧⌘D Ctrl+Shift+D
-Show ExtensionsvCtrl+Shift+X ⇧⌘X Ctrl+Shift+X
-Replace in files Ctrl+Shift+H ⇧⌘H Ctrl+Shift+H
-Toggle Search details
-Ctrl+Shift+J ⇧⌘J Ctrl+Shift+J
-Show Output panel Ctrl+Shift+U ⇧⌘U Ctrl+K Ctrl+H
-Open Markdown preview Ctrl+Shift+V ⇧⌘V Ctrl+Shift+V
-Open Markdown preview to the side Ctrl+K V ⌘K V Ctrl+K V
-Zen Mode (Esc Esc to exit) Ctrl+K Z ⌘K Z Ctrl+K Z
+- Copy line (empty selection)  
+   `⌘` `C`
 
-### VS Code Key Bindings (+ modified settings)
+- Move line down/up  
+  `⌥` `↓` / `⌥` `↑`
 
-- View: Focus into Sidebar
-  ⌃ + 0
+- Copy line down/up  
+  `⇧` `⌥` `↓` / `⇧` `⌥` `↑`
 
-- View: Show Explorer
-  ⇧ + ⌘ + E
+- Delete line  
+  `⇧` `⌘` `K`
 
-- File: New file (modified)
-  ⌃ + N
+- Insert line below/above  
+   `⌘` `Return` / `⇧` `⌘` `Return`
 
-- File: New Folder (modified)
-  ⌃ + ⇧ + N
+- Jump to matching bracket  
+  `⇧` `⌘` `\`
 
-### VS Code Notes
+- Indent/outdent line  
+  `⌘` `]` / `⌘` `[`
 
-- Searching for a file while in the Explorer
-  (while the focus is on the explore, start typing)
+- Go to beginning/end of file  
+   `⌘` `↑` / `⌘` `↓`
 
-### Mac keyboard shortcuts: other common shortcuts
+- Fold/unfold region  
+   `⌥` `⌘`[ / `⌥` `⌘`]
 
-Option-Command-Esc: Force quit an app.
+- Fold/unfold all subregions  
+   `⌘` `K` `⌘` `[` / `⌘` `K` `⌘` `]`
 
-Control–Command–Space bar: Show the Character Viewer, from which you can choose emoji and other symbols.
+- Fold/unfold all regions  
+   `⌘` `K` `⌘` `0` / `⌘` `K` `⌘` `J`
 
-Control-Command-F: Use the app in full screen, if supported by the app.
+- Add line comment  
+   `⌘` `K` `⌘` `C`
+
+- Remove line comment  
+   `⌘` `K` `⌘` `U`
+
+- Toggle line comment  
+  `⌘` `/`
+
+- Toggle block comment  
+  `⇧` `⌥` `A`
+
+- Toggle word wrap  
+  `⌥` `Z`
+
+### VS Code: Multi-cursor and selection shortcuts
+
+- click Insert cursor  
+  `⌥` `+`
+
+- Insert cursor above  
+  `⌥` `⌘` `↑`
+
+- Insert cursor below  
+  `⌥` `⌘` `↓`
+
+- Undo last cursor operation  
+  `⌘` `U`
+
+- Insert cursor at end of each line selected  
+  `⇧` `⌥` `I`
+
+- Select current line  
+  `⌘` `L`
+
+- Select all occurrences of current selection  
+  `⇧` `⌘` `L`
+
+- Select all occurrences of current word  
+  `⌘` `F2`
+
+- Expand / shrink selection  
+  `⌃` `⇧` `⌘` `→` / `←`
+
+- Column (box) selection  
+  `⇧` `⌥` + drag mouse
+
+- Column (box) selection up/down  
+  `⇧` `⌥` `⌘` `↑` / `↓`
+
+- Column (box) selection left/right  
+  `⇧` `⌥` `⌘` `←` / `→`
+
+## VS Code: Search and replace shortcuts
+
+- Find  
+  `⌘` `F`
+
+- Replace  
+  `⌥` `⌘` `F`
+
+- Find next/previous  
+  `⌘` `G` / `⇧` `⌘` `G`
+
+- Select all occurrences of Find match  
+  `⌥` `Return`
+
+- Add selection to next Find match  
+  `⌘` `D`
+
+- Move last selection to next Find match  
+  `⌘` `K` `⌘` `D`
+
+## VS Code: Rich languages editing shortcuts
+
+- Trigger suggestion  
+  `⌃` `␣`
+
+- Trigger parameter hints  
+  `⇧` `⌘` `␣`
+
+- Format document  
+  `⇧` `⌥` `F`
+
+- Format selection  
+  `⌘` `K` `⌘` `F`
+
+- Go to Definition  
+  `F12`
+
+- Peek Definition  
+  `⌥` `F12`
+
+- Open Definition to the side  
+  `⌘` `K` `F12`
+
+- Quick Fix  
+  `⌘` `.`
+
+- Show References  
+  `⇧` `F12`
+
+- Rename Symbol  
+  `F2`
+
+- Trim trailing whitespace  
+  `⌘` `K` `⌘` `X`
+
+- Change file language  
+  `⌘` `K` `M`
+
+## VS Code: Navigation shortcuts
+
+- Show all Symbols  
+  `⌘` `T`
+
+- Go to Line...  
+  `⌃` `G`
+
+- Go to File...  
+  `⌘` `P`
+
+- O Go to Symbol...  
+  `⇧` `⌘`
+
+- Show Problems panel  
+  `⇧` `⌘` `M`
+
+- Go to next/previous error or warning  
+  `F8` / `⇧` `F8`
+
+- Navigate editor group history  
+  `⌃` `⇧` `Tab`
+
+- Go back/forward  
+  `⌃` `-` / `⌃` `⇧` `-`
+
+- Toggle Tab moves focus  
+  `⌃` `⇧` `M`
+
+Editor management
+`⌘` `W` Close editor
+`⌘` `K` `F` Close folder
+`⌘` `\` Split editor
+`⌘` `1` / `⌘` `2` / `⌘` `3` Focus into 1
+st, 2nd, 3rd editor group
+`⌘` `K` `⌘` `←` / `⌘` `K` `⌘` `→` Focus into previous/next editor group
+`⌘` `K` `⇧` `⌘` `←` / `⌘` `K` `⇧` `⌘` `→` Move editor left/right
+`⌘` `K` `←` / `⌘` `K` `→` Move active editor group
+
+File management
+`⌘` `N` New File
+`⌘` `O` Open File...
+`⌘` `S` Save
+`⇧` `⌘` `S` Save As...
+`⌥` `⌘` `S` Save All
+`⌘` `W` Close
+`⌘` `K` `⌘` `W` Close All
+`⇧` `⌘` `T` Reopen closed editor
+`⌘` `K` `Enter` Keep preview mode editor open
+`⌃` `Tab` / `⌃` `⇧` `Tab` Open next / previous
+`⌘` `K` `P` Copy path of active file
+`⌘` `K` `R` Reveal active file in Finder
+`⌘` `K` `O` Show active file in new window/instance
+
+Display
+`⌃` `⌘` `F` Toggle full screen
+`⌥` `⌘` `0` Toggle editor layout (horizontal/vertical)
+`⌘` `=` / `⇧` `⌘` `-` Zoom in/out
+`⌘` `B` Toggle Sidebar visibility
+`⇧` `⌘`E Show Explorer / Toggle focus
+`⇧` `⌘`F Show Search
+`⌃` `⇧`G Show Source Control
+`⇧` `⌘`D Show Debug
+`⇧` `⌘`X Show Extensions
+`⇧` `⌘`H Replace in files
+`⇧` `⌘`J Toggle Search details
+`⇧` `⌘`U Show Output panel
+`⇧` `⌘`V Open Markdown preview
+`⌘`K V Open Markdown preview to the side
+`⌘`K Z Zen Mode (Esc Esc to exit)
+Debug
+F9 Toggle breakpoint
+F5 Start/Continue
+F11 / `⇧`F11 Step into/ out
+F10 Step over
+`⇧`F5 Stop
+`⌘`K `⌘`I Show hover
+
+Integrated terminal
+`⌃``
+
+Show integrated terminal
+`⌃`⇧`Create new terminal`⌘`C Copy selection`⌘`↑ / ↓ Scroll up/down PgUp / PgDn Scroll page up/down`⌘`Home / End Scroll to top/bottom
 
 ### Mac: Document shortcuts
 
 - Boldface  
-  ⌘ B
+  `⌘` `b`
 
 - Italicize  
-  ⌘ I
+  `⌘` `i`
 
 - Add a web link  
-  ⌘ K
+  `⌘` `k`
 
 - Underline  
-  ⌘ U
+  `⌘` `u`
 
 - Delete the word to the left of the insertion point  
-  ⌥ ⌫
+  `⌥` `⌫`
 
 - Delete the character to the right of the insertion point. Or use Fn Delete  
-  ⌃ D  
-  Fn ⌫
+  `⌃` `d`
+  `Fn` `⌫`
 
 - Delete the text between the insertion point and the end of the line or paragraph  
-  ⌃ K
+  `⌃` `k`
 
 - Scroll up one page  
-  Fn ↑
+  `Fn` `↑`
 
 - Scroll down one page  
-  Fn ↓
+  `Fn` `↓`
 
 - Scroll to the beginning of a document  
-  Fn ←
+  `Fn` `←`
 
 - Scroll to the end of a document  
-  Fn →
+  `Fn` `→`
 
 - Move the insertion point to the beginning of the document  
-  ⌘ ↑
+  `⌘` `↑`
 
 - Move the insertion point to the end of the document  
-  ⌘ ↓
+  `⌘` `↓`
 
 - Move the insertion point to the beginning of the current line  
-  ⌘ ←
+  `⌘` `←`
 
 - Move the insertion point to the end of the current line  
-  ⌘ →
+  `⌘` `→`
 
 - Move the insertion point to the beginning of the previous word  
-  ⌥ ←
+  `⌥` `←`
 
 - Move the insertion point to the end of the next word  
-  ⌥ →
+  `⌥` `→`
 
 - Select the text between the insertion point and the beginning of the document  
-  ⇧ ⌘ ↑
+  `⇧` `⌘` `↑`
 
 - Select the text between the insertion point and the end of the document  
-  ⇧ ⌘ ↓
+  `⇧` `⌘` `↓`
 
 - Select the text between the insertion point and the beginning of the current line  
-  ⇧ ⌘ ←
+  `⇧` `⌘` `←`
 
 - Select the text between the insertion point and the end of the current line  
-  ⇧ ⌘ →
+  `⇧` `⌘` `→`
 
 - Extend text selection to the nearest character at the same horizontal location on the line above  
-  ⇧ ↑
+  `⇧` `↑`
 
 - Extend text selection to the nearest character at the same horizontal location on the line below  
-  ⇧ ↓
+  `⇧` `↓`
 
 - Extend text selection one character to the left  
-  ⇧ ←
+  `⇧` `←`
 
 - Extend text selection one character to the right  
-  ⇧ →
+  `⇧` `→`
 
 - Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again  
-  ⌥ ⇧ ↑
+  `⌥` `⇧` `↑`
 
 - Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again  
-  ⌥ ⇧ ↓
+  `⌥` `⇧` `↓`
 
 - Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again  
-  ⌥ ⇧ ←
+  `⌥` `⇧` `←`
 
 - Extend text selection to the end of the current word, then to the end of the following word if pressed again .
-  ⌥ ⇧ →
+  `⌥` `⇧` `→`
 
 - Move to the beginning of the line or paragraph  
-  ⌃ A
+  `⌃` `a`
 
 - Move to the end of a line or paragraph  
-  ⌃ E
+  `⌃` `e`
 
 - Move one character forward  
-  ⌃ F
+  `⌃` `f`
 
 - Move one character backward  
-  ⌃ B
+  `⌃` `b`
 
 - Center the cursor or selection in the visible area  
-  ⌃ L
+  `⌃` `l`
 
 - Move up one line  
-  ⌃ P
+  `⌃` `p`
 
 - Move down one line  
-  ⌃ N
+  `⌃` `n`
 
 - Insert a new line after the insertion point  
-  ⌃ O
+  `⌃` `o`
 
 - Swap the character behind the insertion point with the character in front of the insertion point  
-  ⌃ T
+  `⌃` `t`
 
 - Left align  
-  ⌘ {
+  `⌘` `{`
 
 - Right align  
-  ⌘ }
+  `⌘` `}`
 
 - Center align  
-  ⇧ ⌘ |
+  `⇧` `⌘` `|`
 
 - Copy Style: Copy the formatting settings of the selected item to the Clipboard  
-  ⌥ ⌘ C
+  `⌥` `⌘` `c`
 
 - Paste Style: Apply the copied style to the selected item  
-  ⌥ ⌘ V
+  `⌥` `⌘` `v`
 
 - Paste and Match Style: Apply the style of the surrounding content to the item pasted within that content  
-  ⌥ ⇧ ⌘ V
+  `⌥` `⇧` `⌘` `v`
 
-## Mac: Finder and system shortcuts
+### Mac: Finder and system shortcuts
 
 - Open the Downloads folder  
-  ⌥ ⌘ L
+  `⌥` `⌘` `l`
 
 - Open the Documents folder  
-  ⇧ ⌘ O
+  `⇧` `⌘` `o`
 
 - Open a new Finder window  
-  ⌘ N
+  `⌘` `n`
 
 - Go to the previous folder  
-  ⌘ [
+  `⌘` `[`
 
 - Go to the next folder  
-  ⌘ ]
+  `⌘` `]`
 
 - Open the folder that contains the current folder  
-  ⌘ ↑
+  `⌘` `↑`
 
 - Open the folder that contains the current folder in a new window  
-  ⌘ ⌃ ↑
+  `⌘` `⌃` `↑`
 
 - Open the selected item  
-  ⌘ ↓
+  `⌘` `↓`
 
 - Move the files in the Clipboard from their original location to the current location  
-  ⌥ ⌘ V
+  `⌥` `⌘` `v`
 
 - Move the selected item to the Trash  
-  ⌘ ⌫
+  `⌘` `⌫`
 
 - Empty the Trash  
-  ⇧ ⌘ ⌫
+  `⇧` `⌘` `⌫`
 
 - Empty the Trash without confirmation dialog  
-  ⌥ ⇧ ⌘ ⌫
+  `⌥` `⇧` `⌘` `⌫`
 
 - Open a folder in a separate tab or window  
-  ⌘ while double-clicking
+  `⌘` while double-clicking
 
-### Mac: Other common shortcuts
+### Mac: General shortcuts
 
 - Force quit an app  
-  ⌥ ⌘ Esc
+  `⌥` `⌘` `Esc`
 
 - Show the Character Viewer, from which you can choose emoji and other symbols  
-  ⌃ ⌘ ␣
+  `⌃` `⌘` `␣`
 
 - Use the app in full screen, if supported by the app  
-  ⌃ ⌘ F
+  `⌃` `⌘` `f`
 
-### Chrome: Feature shortcuts
+### Chrome: General shortcuts
 
 - Show or hide the Bookmarks Bar  
-  ⌘ ⇧ b
+  `⌘` `⇧` `b`
 
 - Open the Bookmark Manager  
-  ⌘ ⌥ b
+  `⌘` `⌥` `b`
 
 - Open the Settings page in a new tab  
-  ⌘ ,
+  `⌘` `,`
 
 - Open the History page in a new tab  
-  ⌘ y
+  `⌘` `y`
 
 - Open the Downloads page in a new tab  
-  ⌘ ⇧ j
+  `⌘` `⇧` `j`
 
 - Open the Find Bar to search the current page  
-  ⌘ f
+  `⌘` `f`
 
 - Jump to the next match to your Find Bar search  
-  ⌘ g
+  `⌘` `g`
 
 - Jump to the previous match to your Find Bar search  
-  ⌘ ⇧ g
+  `⌘` `⇧` `g`
 
 - When Find Bar is open, search for selected text  
-  ⌘ e
+  `⌘` `e`
 
 - Open Developer Tools  
-  ⌘ ⌥ i
+  `⌘` `⌥` `i`
 
-- Open the Clear Browsing Data ⌥s  
-  ⌘ ⇧ ⌫
+- Open the Clear Browsing Data `⌥`s  
+  `⌘` `⇧` `⌫`
 
 - Log in as a different user, browse as a Guest, or access payment and password info  
-  ⌘ ⇧ m
+  `⌘` `⇧` `m`
 
 - Jump to the main menu bar  
-  ⌃ F2
+  `⌃` `F2`
 
 ### Chrome: Address bar shortcuts
 
 - Open the website in a new background tab  
-  Type a web address ⌘ ↩
+  Type a web address `⌘` `Return`
 
 - Jump to the address bar  
-  ⌘ l
+  `⌘` `l`
 
 - Move cursor to the address bar  
-  ⌃ F5
+  `⌃` `F5`
 
 ### Chrome: Webpage shortcuts
 
 - Save your current webpage as a bookmark  
-  ⌘ d
+  `⌘` `d`
 
 - Save all open tabs as bookmarks in a new folder  
-  ⌘ ⇧ d
+  `⌘` `⇧` `d`
 
 - Turn full-screen mode on or off  
-  ⌘ ⌃ f
+  `⌘` `⌃` `f`
 
 - Scroll down a webpage, a screen at a time  
-  ␣
+  `␣`
 
 - Scroll up a webpage, a screen at a time  
-  ⇧ ␣
+  `⇧` `␣`
 
 - Search the web  
-  ⌘ ⌥ f
+  `⌘` `⌥` `f`
 
 - Move your cursor to the beginning of the previous word in a text field  
-  ⌥ ←
+  `⌥` `←`
 
 - Move your cursor to the back of the next word in a text field  
-  ⌥ →
+  `⌥` `→`
 
 - Delete the previous word in a text field  
-  ⌥ ⌫
+  `⌥` `⌫`
