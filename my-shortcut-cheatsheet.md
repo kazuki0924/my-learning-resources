@@ -196,60 +196,150 @@
 - Toggle Tab moves focus  
   `⌃` `⇧` `M`
 
-Editor management
-`⌘` `W` Close editor
-`⌘` `K` `F` Close folder
-`⌘` `\` Split editor
-`⌘` `1` / `⌘` `2` / `⌘` `3` Focus into 1
-st, 2nd, 3rd editor group
-`⌘` `K` `⌘` `←` / `⌘` `K` `⌘` `→` Focus into previous/next editor group
-`⌘` `K` `⇧` `⌘` `←` / `⌘` `K` `⇧` `⌘` `→` Move editor left/right
-`⌘` `K` `←` / `⌘` `K` `→` Move active editor group
+## VS Code: Editor management shortcuts
 
-File management
-`⌘` `N` New File
-`⌘` `O` Open File...
-`⌘` `S` Save
-`⇧` `⌘` `S` Save As...
-`⌥` `⌘` `S` Save All
-`⌘` `W` Close
-`⌘` `K` `⌘` `W` Close All
-`⇧` `⌘` `T` Reopen closed editor
-`⌘` `K` `Enter` Keep preview mode editor open
-`⌃` `Tab` / `⌃` `⇧` `Tab` Open next / previous
-`⌘` `K` `P` Copy path of active file
-`⌘` `K` `R` Reveal active file in Finder
-`⌘` `K` `O` Show active file in new window/instance
+- Close editor  
+  `⌘` `W`
 
-Display
-`⌃` `⌘` `F` Toggle full screen
-`⌥` `⌘` `0` Toggle editor layout (horizontal/vertical)
-`⌘` `=` / `⇧` `⌘` `-` Zoom in/out
-`⌘` `B` Toggle Sidebar visibility
-`⇧` `⌘`E Show Explorer / Toggle focus
-`⇧` `⌘`F Show Search
-`⌃` `⇧`G Show Source Control
-`⇧` `⌘`D Show Debug
-`⇧` `⌘`X Show Extensions
-`⇧` `⌘`H Replace in files
-`⇧` `⌘`J Toggle Search details
-`⇧` `⌘`U Show Output panel
-`⇧` `⌘`V Open Markdown preview
-`⌘`K V Open Markdown preview to the side
-`⌘`K Z Zen Mode (Esc Esc to exit)
-Debug
-F9 Toggle breakpoint
-F5 Start/Continue
-F11 / `⇧`F11 Step into/ out
-F10 Step over
-`⇧`F5 Stop
-`⌘`K `⌘`I Show hover
+- Close folder  
+  `⌘` `K` `F`
 
-Integrated terminal
-`⌃``
+- Split editor  
+  `⌘` `\`
 
-Show integrated terminal
-`⌃`⇧`Create new terminal`⌘`C Copy selection`⌘`↑ / ↓ Scroll up/down PgUp / PgDn Scroll page up/down`⌘`Home / End Scroll to top/bottom
+- Focus into 1st, 2nd, 3rd editor group  
+   `⌘` `1` / `⌘` `2` / `⌘` `3`
+
+- Focus into previous/next editor group  
+  `⌘` `K` `⌘` `←` / `⌘` `K` `⌘` `→`
+
+- Move editor left/right  
+  `⌘` `K` `⇧` `⌘` `←` / `⌘` `K` `⇧` `⌘` `→`
+
+- Move active editor group  
+  `⌘` `K` `←` / `⌘` `K` `→`
+
+## VS Code: File management shortcuts
+
+- New File  
+  `⌘` `N`
+
+- Open File...  
+  `⌘` `O`
+
+- Save  
+  `⌘` `S`
+
+- Save As...  
+  `⇧` `⌘` `S`
+
+- Save All  
+  `⌥` `⌘` `S`
+
+- Close  
+  `⌘` `W`
+
+- Close All  
+  `⌘` `K` `⌘` `W`
+
+- Reopen closed editor  
+  `⇧` `⌘` `T`
+
+- Keep preview mode editor open  
+  `⌘` `K` `Enter`
+
+- Open next / previous  
+  `⌃` `Tab` / `⌃` `⇧` `Tab`
+
+- Copy path of active file  
+  `⌘` `K` `P`
+
+- Reveal active file in Finder  
+  `⌘` `K` `R`
+
+- Show active file in new window/instance  
+  `⌘` `K` `O`
+
+## VS Code: Display shortcuts
+
+- Toggle editor layout (horizontal/vertical)  
+  `⌥` `⌘` `0`
+
+- Toggle full screen  
+  `⌃` `⌘` `F`
+
+- Zoom in/out  
+  `⌘` `=` / `⇧` `⌘` `-`
+
+- Toggle Sidebar visibility  
+  `⌘` `B`
+
+- Show Explorer / Toggle focus  
+  `⇧` `⌘` `E`
+
+- Show Search  
+  `⇧` `⌘` `F`
+
+- Show Source Control  
+  `⌃` `⇧` `G`
+
+- Show Debug  
+  `⇧` `⌘` `D`
+
+- Show Extensions  
+  `⇧` `⌘` `X`
+
+- Replace in files  
+  `⇧` `⌘` `H`
+
+- Toggle Search details  
+  `⇧` `⌘` `J`
+
+- Show Output panel  
+  `⇧` `⌘` `U`
+
+- Open Markdown preview  
+  `⇧` `⌘` `V`
+
+- Open Markdown preview to the side  
+  `⌘` `K` `V`
+
+- Zen Mode (Esc Esc to exit)  
+  `⌘` `K` `Z`
+
+## VS Code: Debug shortcuts
+
+- Toggle breakpoint  
+  `F9`
+
+- Start/Continue  
+  `F5`
+
+- Step into/ out  
+  `F11` / `⇧` `F11`
+
+- Step over  
+  `F10`
+
+- Stop  
+  `⇧` `F5`
+
+- Show hover  
+  `⌘` `K` `⌘` `I`
+
+## VS Code: Integrated terminal shortcuts
+
+- Show integrated terminal  
+  `⌃` `backtick`
+
+- Create new terminal  
+  `⌃` `⇧` `backtick`
+
+- Copy selection  
+  `⌘` `C`
+
+- Scroll up/down  
+  `⌘` `↑` / `↓`
 
 ### Mac: Document shortcuts
 
