@@ -48,7 +48,7 @@
    `⌘` `↑` / `⌘` `↓`
 
 - Fold/unfold region  
-   `⌥` `⌘`[ / `⌥` `⌘`]
+   `⌥` `⌘` `[` / `⌥` `⌘` `]`
 
 - Fold/unfold all subregions  
    `⌘` `K` `⌘` `[` / `⌘` `K` `⌘` `]`
@@ -73,8 +73,8 @@
 
 ### VS Code: Multi-cursor and selection shortcuts
 
-- click Insert cursor  
-  `⌥` `+`
+- Insert cursor  
+  `⌥` `+ click`
 
 - Insert cursor above  
   `⌥` `⌘` `↑`
@@ -109,7 +109,7 @@
 - Column (box) selection left/right  
   `⇧` `⌥` `⌘` `←` / `→`
 
-## VS Code: Search and replace shortcuts
+### VS Code: Search and replace shortcuts
 
 - Find  
   `⌘` `F`
@@ -129,7 +129,7 @@
 - Move last selection to next Find match  
   `⌘` `K` `⌘` `D`
 
-## VS Code: Rich languages editing shortcuts
+### VS Code: Rich languages editing shortcuts
 
 - Trigger suggestion  
   `⌃` `␣`
@@ -167,7 +167,7 @@
 - Change file language  
   `⌘` `K` `M`
 
-## VS Code: Navigation shortcuts
+### VS Code: Navigation shortcuts
 
 - Show all Symbols  
   `⌘` `T`
@@ -196,7 +196,7 @@
 - Toggle Tab moves focus  
   `⌃` `⇧` `M`
 
-## VS Code: Editor management shortcuts
+### VS Code: Editor management shortcuts
 
 - Close editor  
   `⌘` `W`
@@ -219,7 +219,7 @@
 - Move active editor group  
   `⌘` `K` `←` / `⌘` `K` `→`
 
-## VS Code: File management shortcuts
+### VS Code: File management shortcuts
 
 - New File  
   `⌘` `N`
@@ -260,7 +260,7 @@
 - Show active file in new window/instance  
   `⌘` `K` `O`
 
-## VS Code: Display shortcuts
+### VS Code: Display shortcuts
 
 - Toggle editor layout (horizontal/vertical)  
   `⌥` `⌘` `0`
@@ -307,7 +307,7 @@
 - Zen Mode (Esc Esc to exit)  
   `⌘` `K` `Z`
 
-## VS Code: Debug shortcuts
+### VS Code: Debug shortcuts
 
 - Toggle breakpoint  
   `F9`
@@ -327,7 +327,7 @@
 - Show hover  
   `⌘` `K` `⌘` `I`
 
-## VS Code: Integrated terminal shortcuts
+### VS Code: Integrated terminal shortcuts
 
 - Show integrated terminal  
   `⌃` `backtick`
