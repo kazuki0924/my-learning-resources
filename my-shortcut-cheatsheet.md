@@ -1,30 +1,30 @@
 ### VS Code: General shortcuts
 
 - Show Command Palette  
-  `⇧` `⌘` `P`
+  `⇧` `⌘` `p`
 
 - Quick Open, Go to File…  
-   `⌘` `P`
+   `⌘` `p`
 
 - New window/instance  
-  `⇧` `⌘` `N`
+  `⇧` `⌘` `n`
 
 - Close window/instance  
-  `⌘` `W`
+  `⌘` `w`
 
 - User Settings  
   `⌘` `,`
 
 - Keyboard Shortcuts  
-  `⌘` `K` `⌘` `S`
+  `⌘` `k` `⌘` `s`
 
 ### VS Code: Basic editing shortcuts
 
 - Cut line (empty selection)  
-  `⌘` `X`
+  `⌘` `x`
 
 - Copy line (empty selection)  
-   `⌘` `C`
+   `⌘` `c`
 
 - Move line down/up  
   `⌥` `↓` / `⌥` `↑`
@@ -33,7 +33,7 @@
   `⇧` `⌥` `↓` / `⇧` `⌥` `↑`
 
 - Delete line  
-  `⇧` `⌘` `K`
+  `⇧` `⌘` `k`
 
 - Insert line below/above  
    `⌘` `Return` / `⇧` `⌘` `Return`
@@ -51,30 +51,30 @@
    `⌥` `⌘` `[` / `⌥` `⌘` `]`
 
 - Fold/unfold all subregions  
-   `⌘` `K` `⌘` `[` / `⌘` `K` `⌘` `]`
+   `⌘` `k` `⌘` `[` / `⌘` `k` `⌘` `]`
 
 - Fold/unfold all regions  
-   `⌘` `K` `⌘` `0` / `⌘` `K` `⌘` `J`
+   `⌘` `k` `⌘` `0` / `⌘` `k` `⌘` `J`
 
 - Add line comment  
-   `⌘` `K` `⌘` `C`
+   `⌘` `k` `⌘` `c`
 
 - Remove line comment  
-   `⌘` `K` `⌘` `U`
+   `⌘` `k` `⌘` `u`
 
 - Toggle line comment  
   `⌘` `/`
 
 - Toggle block comment  
-  `⇧` `⌥` `A`
+  `⇧` `⌥` `a`
 
 - Toggle word wrap  
-  `⌥` `Z`
+  `⌥` `z`
 
 ### VS Code: Multi-cursor and selection shortcuts
 
 - Insert cursor  
-  `⌥` `+ click`
+  `⌥` + click
 
 - Insert cursor above  
   `⌥` `⌘` `↑`
@@ -83,16 +83,16 @@
   `⌥` `⌘` `↓`
 
 - Undo last cursor operation  
-  `⌘` `U`
+  `⌘` `u`
 
 - Insert cursor at end of each line selected  
-  `⇧` `⌥` `I`
+  `⇧` `⌥` `i`
 
 - Select current line  
-  `⌘` `L`
+  `⌘` `l`
 
 - Select all occurrences of current selection  
-  `⇧` `⌘` `L`
+  `⇧` `⌘` `l`
 
 - Select all occurrences of current word  
   `⌘` `F2`
@@ -112,22 +112,22 @@
 ### VS Code: Search and replace shortcuts
 
 - Find  
-  `⌘` `F`
+  `⌘` `f`
 
 - Replace  
-  `⌥` `⌘` `F`
+  `⌥` `⌘` `f`
 
 - Find next/previous  
-  `⌘` `G` / `⇧` `⌘` `G`
+  `⌘` `g` / `⇧` `⌘` `g`
 
 - Select all occurrences of Find match  
   `⌥` `Return`
 
 - Add selection to next Find match  
-  `⌘` `D`
+  `⌘` `d`
 
 - Move last selection to next Find match  
-  `⌘` `K` `⌘` `D`
+  `⌘` `k` `⌘` `d`
 
 ### VS Code: Rich languages editing shortcuts
 
@@ -138,10 +138,10 @@
   `⇧` `⌘` `␣`
 
 - Format document  
-  `⇧` `⌥` `F`
+  `⇧` `⌥` `f`
 
 - Format selection  
-  `⌘` `K` `⌘` `F`
+  `⌘` `k` `⌘` `f`
 
 - Go to Definition  
   `F12`
@@ -150,7 +150,7 @@
   `⌥` `F12`
 
 - Open Definition to the side  
-  `⌘` `K` `F12`
+  `⌘` `k` `F12`
 
 - Quick Fix  
   `⌘` `.`
@@ -162,27 +162,27 @@
   `F2`
 
 - Trim trailing whitespace  
-  `⌘` `K` `⌘` `X`
+  `⌘` `k` `⌘` `x`
 
 - Change file language  
-  `⌘` `K` `M`
+  `⌘` `k` `m`
 
 ### VS Code: Navigation shortcuts
 
 - Show all Symbols  
-  `⌘` `T`
+  `⌘` `t`
 
 - Go to Line...  
-  `⌃` `G`
+  `⌃` `g`
 
 - Go to File...  
-  `⌘` `P`
+  `⌘` `p`
 
 - O Go to Symbol...  
   `⇧` `⌘`
 
 - Show Problems panel  
-  `⇧` `⌘` `M`
+  `⇧` `⌘` `p`
 
 - Go to next/previous error or warning  
   `F8` / `⇧` `F8`
@@ -194,15 +194,15 @@
   `⌃` `-` / `⌃` `⇧` `-`
 
 - Toggle Tab moves focus  
-  `⌃` `⇧` `M`
+  `⌃` `⇧` `m`
 
 ### VS Code: Editor management shortcuts
 
 - Close editor  
-  `⌘` `W`
+  `⌘` `w`
 
 - Close folder  
-  `⌘` `K` `F`
+  `⌘` `k` `f`
 
 - Split editor  
   `⌘` `\`
@@ -211,54 +211,54 @@
    `⌘` `1` / `⌘` `2` / `⌘` `3`
 
 - Focus into previous/next editor group  
-  `⌘` `K` `⌘` `←` / `⌘` `K` `⌘` `→`
+  `⌘` `k` `⌘` `←` / `⌘` `k` `⌘` `→`
 
 - Move editor left/right  
-  `⌘` `K` `⇧` `⌘` `←` / `⌘` `K` `⇧` `⌘` `→`
+  `⌘` `k` `⇧` `⌘` `←` / `⌘` `k` `⇧` `⌘` `→`
 
 - Move active editor group  
-  `⌘` `K` `←` / `⌘` `K` `→`
+  `⌘` `k` `←` / `⌘` `k` `→`
 
 ### VS Code: File management shortcuts
 
 - New File  
-  `⌘` `N`
+  `⌘` `n`
 
 - Open File...  
-  `⌘` `O`
+  `⌘` `o`
 
 - Save  
-  `⌘` `S`
+  `⌘` `s`
 
 - Save As...  
-  `⇧` `⌘` `S`
+  `⇧` `⌘` `s`
 
 - Save All  
-  `⌥` `⌘` `S`
+  `⌥` `⌘` `s`
 
 - Close  
-  `⌘` `W`
+  `⌘` `w`
 
 - Close All  
-  `⌘` `K` `⌘` `W`
+  `⌘` `k` `⌘` `w`
 
 - Reopen closed editor  
-  `⇧` `⌘` `T`
+  `⇧` `⌘` `t`
 
 - Keep preview mode editor open  
-  `⌘` `K` `Enter`
+  `⌘` `k` `Enter`
 
 - Open next / previous  
   `⌃` `Tab` / `⌃` `⇧` `Tab`
 
 - Copy path of active file  
-  `⌘` `K` `P`
+  `⌘` `k` `p`
 
 - Reveal active file in Finder  
-  `⌘` `K` `R`
+  `⌘` `k` `r`
 
 - Show active file in new window/instance  
-  `⌘` `K` `O`
+  `⌘` `k` `o`
 
 ### VS Code: Display shortcuts
 
@@ -266,46 +266,46 @@
   `⌥` `⌘` `0`
 
 - Toggle full screen  
-  `⌃` `⌘` `F`
+  `⌃` `⌘` `f`
 
 - Zoom in/out  
   `⌘` `=` / `⇧` `⌘` `-`
 
 - Toggle Sidebar visibility  
-  `⌘` `B`
+  `⌘` `b`
 
 - Show Explorer / Toggle focus  
-  `⇧` `⌘` `E`
+  `⇧` `⌘` `e`
 
 - Show Search  
-  `⇧` `⌘` `F`
+  `⇧` `⌘` `f`
 
 - Show Source Control  
-  `⌃` `⇧` `G`
+  `⌃` `⇧` `g`
 
 - Show Debug  
-  `⇧` `⌘` `D`
+  `⇧` `⌘` `d`
 
 - Show Extensions  
-  `⇧` `⌘` `X`
+  `⇧` `⌘` `x`
 
 - Replace in files  
-  `⇧` `⌘` `H`
+  `⇧` `⌘` `h`
 
 - Toggle Search details  
-  `⇧` `⌘` `J`
+  `⇧` `⌘` `j`
 
 - Show Output panel  
-  `⇧` `⌘` `U`
+  `⇧` `⌘` `u`
 
 - Open Markdown preview  
-  `⇧` `⌘` `V`
+  `⇧` `⌘` `v`
 
 - Open Markdown preview to the side  
-  `⌘` `K` `V`
+  `⌘` `k` `v`
 
 - Zen Mode (Esc Esc to exit)  
-  `⌘` `K` `Z`
+  `⌘` `k` `z`
 
 ### VS Code: Debug shortcuts
 
@@ -325,7 +325,7 @@
   `⇧` `F5`
 
 - Show hover  
-  `⌘` `K` `⌘` `I`
+  `⌘` `k` `⌘` `i`
 
 ### VS Code: Integrated terminal shortcuts
 
@@ -336,7 +336,7 @@
   `⌃` `⇧` `backtick`
 
 - Copy selection  
-  `⌘` `C`
+  `⌘` `c`
 
 - Scroll up/down  
   `⌘` `↑` / `↓`
@@ -611,162 +611,154 @@
 
 ### iTerm2: Tabs and windows shortcut
 
-⌘ + T
-New Tab
+- New Tab  
+  `⌘` `t`
 
-⌘ + ←
-Previous Tab
+- Previous Tab  
+  `⌘` `←`
 
-⌘ + →
-Next Tab
+- Next Tab  
+  `⌘` `→`
 
-⌘ + W
-Close Tab or Window
+- Close Tab or Window  
+  `⌘` `w`
 
-↑ Shift + ⌘ Cmd + →
-Move Tab Right
+- Move Tab Right  
+  `↑` `⇧` `⌘` `→`
 
-↑ Shift + ⌘ Cmd + ←
-Move Tab Left
+- Move Tab Left  
+  `↑` `⇧` `⌘` `←`
 
-⌘ + 1 - 9
-Go to Tab
+- Go to Tab  
+  `⌘` `1 - 9`
 
-⌘ + ⌥ Option + ← ↑ → ↓
-Go to Split Pane by Direction
+- Go to Split Pane by Direction  
+  `⌘` `⌥` `←` `↑` `→` `↓`
 
-⌘ + `
-Cycle iTerm Windows
+- Cycle iTerm Windows  
+  `⌘` `backtick`
 
-⌘ + D
-Split Window Vertically (same profile)
+- Split Window Vertically (same profile)  
+  `⌘` `d`
 
-⌘ + ↑ Shift + D
-Split Window Horizontally (same profile)
+- Split Window Horizontally (same profile)  
+  `⌘` `↑` `⇧` `d`
 
-⌘ + Alt + ↑ Shift + +
-(drag the pane from anywhere) Move a pane with the mouse
+- Fullscreen  
+  `⌘` `Return`
 
-⌘ + ⤶ Enter
-Fullscreen
+- Maximize a pane  
+  `⌘` `↑` `⇧` `Return`
 
-⌘ + ↑ Shift + ⤶ Enter
-Maximize a pane
+- Resize Pane  
+  `⌃` `⌘` `←` `↑` `→` `↓`
 
-Ctrl + ⌘ + ← ↑ → ↓
-Resize Pane
+- Go to Next Pane  
+  `⌘` `]`
 
-⌘ + ]
-Go to Next Pane
+- Go to Previous Pane  
+  `⌘` `[`
 
-⌘ + [
-Go to Previous Pane
+- Select pane above / below  
+  `⌥` `⌘` `↑` `↓`
 
-⌥ Option + ⌘ Cmd + ↑ ↓
-Select pane above / below
+- Select pane left / right  
+  `⌥` `⌘` `←` `→`
 
-⌥ Option + ⌘ Cmd + ← →
-Select pane left / right
+- Split Window Horizontally (new profile)  
+  `⌥` `⌘` `h`
 
-⌥ Option + ⌘ + H
-Split Window Horizontally (new profile)
+- Split Window Vertically (new profile)  
+  `⌥` `⌘` `v`
 
-⌥ Option + ⌘ + V
-Split Window Vertically (new profile)
+- Go to window  
+  `⌘` `⌥` `1 - 9`
 
-⌘ + ⌥ Option + 1 - 9
-Go to window
+### iTerm2: Cursor and selection shortcut
 
-Cursor and selection (18 shortcuts)
-Ctrl + B
-Move back one character
+- Move back one character  
+  `⌃` `b`
 
-Ctrl + F
-Move forward one character
+- Move forward one character  
+  `⌃` `f`
 
-Ctrl + D
-Delete current character
+- Delete current character  
+  `⌃` `d`
 
-Ctrl + W
-Delete previous word (in shell)
+- Delete previous word (in shell)  
+  `⌃` `w`
 
-Ctrl + A
-Move to the start of line
+- Move to the start of line  
+  `⌃` `a`
 
-or Home
-Ctrl + E
-Move to the end of line
+- Move to the end of line  
+  `⌃` `e`
 
-or End
-⌥ Option + F
-Move forward a word
+- Move forward a word  
+  `⌥` `f`
 
-⌥ Option + B
-Move backward a word
+- Move backward a word  
+  `⌥` `b`
 
-⌘ + M
-Set Mark
+- Set Mark  
+  `⌘` `m`
 
-⌘ + J
-Jump to Mark
+- Jump to Mark  
+  `⌘` `j`
 
-Ctrl + ← →
-Moving by word on a line
+- Moving by word on a line  
+  `⌃` `←` `→`
 
-⌥ Option +
-Cursor Jump with Mouse
+- Cursor Jump with Mouse  
+  `⌥` `+ click`
 
-↑ Shift + ⌘ + C
-Enter Copy Mode
+- Enter Copy Mode  
+  `↑` `⇧` `⌘` `c`
 
-Ctrl + V
-Enter Character Selection Mode in Copy Mode
+- Enter Character Selection Mode in Copy Mode  
+  `⌃` `v`
 
-← ↑ → ↓
-Move cursor in Copy Mode
+- Move cursor in Copy Mode  
+  `←` `↑` `→` `↓`
 
-Ctrl + K
-Copy text in Copy Mode
+- Copy text in Copy Mode  
+  `⌃` `k`
 
-Searching in the Command History (4 shortcuts)
-Ctrl + R
-Search as you type
+### iTerm2: Searching in the Command History
 
-Ctrl + R then Ctrl + R
-Search the last remembered search term
+- Search as you type  
+  `⌃` `r`
 
-Ctrl + Y
-End the search at current history entry
+- Search the last remembered search term  
+  `⌃` `r` then `⌃` `r`
 
-Ctrl + G
-Cancel the search and restore original line
+- End the search at current history entry  
+  `⌃` `y`
 
-Changing font size (3 shortcuts)
-⌘ Cmd + +
-Make text bigger
+- Cancel the search and restore original line  
+  `⌃` `g`
 
-⌘ Cmd + 0
-Make text normal size
+### iTerm2: Changing font size
 
-⌘ Cmd + -
-Make text smaller
+- Make text bigger  
+  `⌘` `+`
 
-Misc (7 shortcuts)
-⌘ Cmd + F
-Find
+- Make text normal size  
+  `⌘` `0`
 
-Ctrl + L
-Clear window
+- Make text smaller  
+  `⌘` `-`
 
-⌘ + K
-Clear buffer
+### iTerm2: General shortcuts
 
-Shift + Page Up / Down
-Scroll up / down
+- Find  
+  `⌘` `f`
 
-or Command + Page Up / Down
-⌘ + Alt + I
-Broadcast command to all panes in window
+- Clear window  
+  `⌃` `l`
 
-⌘ + \
-Find cursor
+- Clear buffer  
+  `⌘` `k`
+
+- Find cursor  
+  `⌘` `\`
