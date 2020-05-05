@@ -419,7 +419,7 @@
 - Extend text selection one character to the right  
   `⇧` `→`
 
-- Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again  
+- Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again.  
   `⌥` `⇧` `↑`
 
 - Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again  
