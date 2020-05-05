@@ -358,8 +358,8 @@
 - Delete the word to the left of the insertion point  
   `⌥` `⌫`
 
-- Delete the character to the right of the insertion point. Or use Fn Delete  
-  `⌃` `d`
+- Delete the to the right of the insertion point. Or use Fn Delete  
+  `⌃` `d`  
   `Fn` `⌫`
 
 - Delete the text between the insertion point and the end of the line or paragraph  
