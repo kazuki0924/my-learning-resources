@@ -428,7 +428,7 @@
 - Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again  
   `⌥` `⇧` `←`
 
-- Extend text selection to the end of the current word, then to the end of the following word if pressed again .
+- Extend text selection to the end of the current word, then to the end of the following word if pressed again.  
   `⌥` `⇧` `→`
 
 - Move to the beginning of the line or paragraph  
