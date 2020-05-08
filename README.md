@@ -317,6 +317,8 @@ My list of anything related to what I'm studying
 - [Visual Studio Online](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline) - VS Code Extensions
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code Extensions
 - [JavaScript Debugger (Nightly)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) - VS Code Extensions
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - VS Code Extensions
+- [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - VS Code Extensions
 - [Create Files & Folders : On The Go](https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder) - VS Code Extensions
 - [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown) - VS Code Extensions
 - [docs-preview](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview) - VS Code Extensions
