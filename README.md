@@ -30,6 +30,7 @@ My list of anything related to what I'm studying
 - [Airbnb Style Guide](https://github.com/airbnb/javascript) - Best Practices
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes) - Microsoft repo
 - [Serverless Stack](https://serverless-stack.com/) - Best Practices
+- [How to GraphQL](https://www.howtographql.com/) - GraphQL Guides
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - JS Guides
 - [Modern JavaScript Tutorial](https://javascript.info/) - JS Guides
 - [JavaScript Air](https://javascriptair.com/) - Podcasts
@@ -276,6 +277,7 @@ My list of anything related to what I'm studying
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - VS Code Extensions
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - VS Code Extensions
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - VS Code Extensions
+- [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) - VS Code Extensions
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - VS Code Extensions
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - VS Code Extensions
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - VS Code Extensions
@@ -351,6 +353,7 @@ My list of anything related to what I'm studying
 - [GitHub Desktop](https://desktop.github.com/) - Git Client
 - [Sourcetree](https://www.sourcetreeapp.com/) - Git Client
 - [GitKraken](https://www.gitkraken.com/) - Git Client
+- [Tower](https://www.git-tower.com/) - Git Client
 - [Gitpod](https://www.gitpod.io/) - GitHub / Cloud IDE
 - [Gitpod Online IDE](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki/related) - Chrome Extensions
 - [Theia](https://theia-ide.org/) - Cloud IDE
@@ -379,8 +382,9 @@ My list of anything related to what I'm studying
 - [Visual Studio Online](https://visualstudio.microsoft.com/services/visual-studio-online/) - Cloud IDE
 - [Elasticsearch](https://www.elastic.co/elasticsearch/) - Search / Analytics
 - [Datadog](https://www.datadoghq.com/) - Monitoring as a Service
-- [brave](https://brave.com/) - Browser / Debugging for privacy-conscious environment
+- [Brave](https://brave.com/) - Browser / Debugging for privacy-conscious environment
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Browser / Debugging for CSS
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - Browser / Debugging for CSS
 - [JAMstack](https://jamstack.org/) - Solution Stack
 - [GRANDstack](https://grandstack.io/) - Solution Stack
 - [MEAN](<https://en.wikipedia.org/wiki/MEAN_(solution_stack)>) - Solution Stack
@@ -425,6 +429,7 @@ My list of anything related to what I'm studying
 - [Destiny](https://github.com/benawad/destiny) - Folder Structure
 - [FiraCode](https://github.com/tonsky/FiraCode) - Fonts for Programmers
 - [Powerline fonts](https://github.com/powerline/fonts) - Fonts for Programmers
+-
 
 ## Google Cloud Platform
 
@@ -511,6 +516,8 @@ My list of anything related to what I'm studying
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker?ref=madewithvuejs.com) - Datepicker
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Vuex
 - [made with vue.js](https://madewithvuejs.com/) - Use Cases
+- [Vue CLI Apollo plugin](https://vue-cli-plugin-apollo.netlify.app/) - GraphQL
+- [Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) - GraphQL / Chrome Extension
 
 ## Angular Ecosystem
 
@@ -549,6 +556,8 @@ My list of anything related to what I'm studying
 - [YouTube](https://www.youtube.com/) - YouTube
 - [Dropbox](https://www.dropbox.com/) - Online Storage
 - [Dropbox for Gmail](https://chrome.google.com/webstore/detail/dropbox-for-gmail/dpdmhfocilnekecfjgimjdeckachfbec) - Chrome Extension
+- [Notion](https://www.notion.so/) - Notes
+- [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk/related?hl=en) - Chrome Extension
 - [iCloud](https://www.icloud.com/) - Online Storage
 - [Evernote](https://evernote.com/) - Notes
 - [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - Chrome Extensions
