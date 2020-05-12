@@ -429,7 +429,10 @@ My list of anything related to what I'm studying
 - [Destiny](https://github.com/benawad/destiny) - Folder Structure
 - [FiraCode](https://github.com/tonsky/FiraCode) - Fonts for Programmers
 - [Powerline fonts](https://github.com/powerline/fonts) - Fonts for Programmers
--
+- [Emojipedia](https://emojipedia.org/) - Emoji
+- [GraphQL](https://github.com/apollographql/eslint-plugin-graphql) - VS Code Extensions / GraphQL
+- [GraphQL Code Generator](https://graphql-code-generator.com/) - GraphQL
+- [graphdoc](https://github.com/2fd/graphdoc) - GraphQL
 
 ## Google Cloud Platform
 
