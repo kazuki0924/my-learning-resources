@@ -2,6 +2,7 @@
 
 - Google Chrome
 - Visual Studio Code
+- Visual Studio Code - Insiders
 - iTerm2
 - Rectangle
 - Clipy
@@ -30,6 +31,7 @@
 - Slack
 - Docker
 - GitKraken
+- Firefox Developers Edition
 
 #### The Mac configuration
 
@@ -37,3 +39,5 @@
 
 - Kill PowerChime
   defaults write com.apple.PowerChime ChimeOnAllHardware -bool false;killall PowerChime
+
+- Add "Open with VS Code" Quick Action using Automator
