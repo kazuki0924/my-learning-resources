@@ -1,6 +1,6 @@
 #### TODOS: Installation
 
-- Google Chrome
+- Google Chrome 
 - Visual Studio Code
 - Visual Studio Code - Insiders
 - iTerm2
@@ -33,11 +33,12 @@
 - GitKraken
 - Firefox Developers Edition
 
-#### The Mac configuration
+#### Mac configuration
 
 - Change Modifier Key: from Caps Lock to Control
 
 - Kill PowerChime
+
   defaults write com.apple.PowerChime ChimeOnAllHardware -bool false;killall PowerChime
 
 - Add "Open with VS Code" Quick Action using Automator
